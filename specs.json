@@ -32,13 +32,13 @@
                     "external_spec": "vlei1",
                     "gh_page": "https://henkvancann.github.io/vlei-glossary/",
                     "url": "https://github.com/keri-foundation/vlei-glossary",
-                    "terms_dir": "spec/term-definitions"
+                    "terms_dir": "spec/terms-definitions"
                 },
                 {
                     "external_spec": "toip2",
                     "gh_page": "https://trustoverip.github.io/ctwg-general-glossary/",
                     "url": "https://trustoverip.github.io/ctwg-general-glossary",
-                    "terms_dir": "spec/term-definitions"
+                    "terms_dir": "spec/terms-definitions"
                 }
             ],
             "katex": false

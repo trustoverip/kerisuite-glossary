@@ -1,4 +1,10 @@
 [[tref: vlei1, vlei-ecosystem-governance-framework]]
-
-~ The Verifiable LEI (vLEI) Ecosystem [[ref: governance-framework]] Information Trust Policies. It's a **document** that defines the information security, privacy, availability, confidentiality and processing integrity policies that apply to all vLEI Ecosystem Members.  
-~ Paraphrased by @henkvancann from [source](https://www.gleif.org/vlei/introducing-the-vlei-ecosystem-governance-framework/2022-02-07_verifiable-lei-vlei-ecosystem-governance-framework-glossary-draft-publication_v0.9-draft.pdf) Draft vLEI Ecosystem Governance Framework Glossary.
+~ <!-- This is a copy of the saved remote text. Remove it if you like. It is automatically (re)generated -->
+~ <dd>
+~ | Property | Value |
+~ | -------- | ----- |
+~ | Owner | ![avatar](undefined) keri-foundation |
+~ | Repo | [vlei-glossary](https://github.com/keri-foundation/vlei-glossary) |
+~ | Commit hash | not found |
+~ </dd>
+~ This term was not found in the external repository.
