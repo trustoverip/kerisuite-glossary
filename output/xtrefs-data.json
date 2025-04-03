@@ -1,6 +1,97 @@
 {
   "xtrefs": [
     {
+      "externalSpec": "toip1",
+      "term": "agency",
+      "repoUrl": "https://github.com/trustoverip/ctwg-main-glossary",
+      "terms_dir": "spec/terms-definitions",
+      "owner": "trustoverip",
+      "repo": "ctwg-main-glossary",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/61128026?v=4",
+      "site": null,
+      "commitHash": "feecc53222ff1debf6174665774f17da491a3050",
+      "content": "[[def: agency]]\n\n~ In the context of decentralized digital trust infrastructure, the empowering of a [[ref: party]] to act independently of its own accord, and in particular to empower the party to employ an [[ref: agent]] to act on the [[ref: party]]'s behalf.\n"
+    },
+    {
+      "externalSpec": "toip2",
+      "term": "agency",
+      "repoUrl": "https://trustoverip.github.io/ctwg-general-glossary",
+      "terms_dir": "spec/terms-definitions",
+      "owner": "ctwg-general-glossary",
+      "site": null,
+      "commitHash": "not found",
+      "content": "This term was not found in the external repository."
+    },
+    {
+      "externalSpec": "toip1",
+      "term": "agent",
+      "repoUrl": "https://github.com/trustoverip/ctwg-main-glossary",
+      "terms_dir": "spec/terms-definitions",
+      "owner": "trustoverip",
+      "repo": "ctwg-main-glossary",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/61128026?v=4",
+      "site": null,
+      "commitHash": "95bf9ad51c4539e7f660a686a1b7e53992f1eeb6",
+      "content": "[[def: agent, agents]]\n\n~ An [[ref: actor]] that is executing an [[ref: action]] on behalf of a [[ref: party]] (called the [[ref: principal]] of that [[ref: actor]]). In the context of decentralized digital trust infrastructure, the term “agent” is most frequently used to mean a [[ref: digital agent]].\n\n~ Source: [eSSIF-Lab](https://essif-lab.github.io/framework/docs/essifLab-glossary#agent).\n\n~ See also: [[ref: wallet]].\n\n~ Note: In a ToIP context, an agent is frequently assumed to have privileged access to the [[ref: wallet]](s) of its principal. In market parlance, a mobile app performing the [[ref: actions]] of an agent is often simply called a [[ref: wallet]] or a [[ref: digital wallet]].\n"
+    },
+    {
+      "externalSpec": "toip1",
+      "term": "attribute",
+      "repoUrl": "https://github.com/trustoverip/ctwg-main-glossary",
+      "terms_dir": "spec/terms-definitions",
+      "owner": "trustoverip",
+      "repo": "ctwg-main-glossary",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/61128026?v=4",
+      "site": null,
+      "commitHash": "cfd2b054c24103f580dd06d31f7f7add9cf349ff",
+      "content": "[[def: attribute, attributes]]\n\n~ An identifiable set of data that describes an [[ref: entity]], which is the [[ref: subject]] of the attribute. \n\n~ See also: [[ref: property]].\n\n~ Supporting definitions:\n\n~ [eSSIF-Lab](https://essif-lab.github.io/framework/docs/essifLab-glossary#attribute): [Data](https://essif-lab.github.io/framework/docs/terms/data) that represents a characteristic that a [party](https://essif-lab.github.io/framework/docs/terms/party) (the [owner](https://essif-lab.github.io/framework/docs/terms/owner) of the [attribute](https://essif-lab.github.io/framework/docs/terms/attribute)) has attributed to an [entity](https://essif-lab.github.io/framework/docs/terms/entity) (which is the [subject](https://essif-lab.github.io/framework/docs/terms/subject) of that attribute).\n\n~ Note: An [[ref: identifier]] is an attribute that uniquely identifies an [[ref: entity]] within some context.\n"
+    },
+    {
+      "externalSpec": "toip1",
+      "term": "attributional-trust",
+      "repoUrl": "https://github.com/trustoverip/ctwg-main-glossary",
+      "terms_dir": "spec/terms-definitions",
+      "owner": "trustoverip",
+      "repo": "ctwg-main-glossary",
+      "site": null,
+      "commitHash": "not found",
+      "content": "This term was not found in the external repository."
+    },
+    {
+      "externalSpec": "toip1",
+      "term": "authoritative",
+      "repoUrl": "https://github.com/trustoverip/ctwg-main-glossary",
+      "terms_dir": "spec/terms-definitions",
+      "owner": "trustoverip",
+      "repo": "ctwg-main-glossary",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/61128026?v=4",
+      "site": null,
+      "commitHash": "1adeba80cb184ebcc97369389747e86ba1879b1c",
+      "content": "[[def: authoritative]]\n\n~ Information or [[ref: data]] that comes from an [[ref: authority]] for that information.\n"
+    },
+    {
+      "externalSpec": "toip1",
+      "term": "identity-assurance",
+      "repoUrl": "https://github.com/trustoverip/ctwg-main-glossary",
+      "terms_dir": "spec/terms-definitions",
+      "owner": "trustoverip",
+      "repo": "ctwg-main-glossary",
+      "site": null,
+      "commitHash": "not found",
+      "content": "This term was not found in the external repository."
+    },
+    {
+      "externalSpec": "toip1",
+      "term": "reputational-trust",
+      "repoUrl": "https://github.com/trustoverip/ctwg-main-glossary",
+      "terms_dir": "spec/terms-definitions",
+      "owner": "trustoverip",
+      "repo": "ctwg-main-glossary",
+      "site": null,
+      "commitHash": "not found",
+      "content": "This term was not found in the external repository."
+    },
+    {
       "externalSpec": "vlei1",
       "term": "vLEI",
       "repoUrl": "https://github.com/keri-foundation/vlei-glossary",

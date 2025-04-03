@@ -1,3 +1,8 @@
 [[tref: toip1, attributional-trust]]
+~ | Property | Value |
+~ | -------- | ----- |
+~ | Owner | ![avatar](undefined) trustoverip |
+~ | Repo | [ctwg-main-glossary](https://github.com/trustoverip/ctwg-main-glossary) |
+~ | Commit hash | not found |
 
-~ More in <a href="https://weboftrust.github.io/WOT-terms/docs/glossary/attributional-trust">extended KERI glossary</a>
+~ This term was not found in the external repository.

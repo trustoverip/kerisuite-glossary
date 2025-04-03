@@ -1,9 +1,4 @@
-[[tref: toip1, agent]]
-~ | Property | Value |
-~ | -------- | ----- |
-~ | Owner | ![avatar](https://avatars.githubusercontent.com/u/61128026?v=4) trustoverip |
-~ | Repo | [ctwg-main-glossary](https://github.com/trustoverip/ctwg-main-glossary) |
-~ | Commit hash | 95bf9ad51c4539e7f660a686a1b7e53992f1eeb6 |
+[[def: agent, agents]]
 
 ~ An [[ref: actor]] that is executing an [[ref: action]] on behalf of a [[ref: party]] (called the [[ref: principal]] of that [[ref: actor]]). In the context of decentralized digital trust infrastructure, the term “agent” is most frequently used to mean a [[ref: digital agent]].
 
