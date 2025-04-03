@@ -13,16 +13,6 @@
       "content": "[[def: agency]]\n\n~ In the context of decentralized digital trust infrastructure, the empowering of a [[ref: party]] to act independently of its own accord, and in particular to empower the party to employ an [[ref: agent]] to act on the [[ref: party]]'s behalf.\n"
     },
     {
-      "externalSpec": "toip2",
-      "term": "agency",
-      "repoUrl": "https://trustoverip.github.io/ctwg-general-glossary",
-      "terms_dir": "spec/terms-definitions",
-      "owner": "ctwg-general-glossary",
-      "site": null,
-      "commitHash": "not found",
-      "content": "This term was not found in the external repository."
-    },
-    {
       "externalSpec": "toip1",
       "term": "agent",
       "repoUrl": "https://github.com/trustoverip/ctwg-main-glossary",
@@ -68,6 +58,28 @@
       "site": null,
       "commitHash": "1adeba80cb184ebcc97369389747e86ba1879b1c",
       "content": "[[def: authoritative]]\n\n~ Information or [[ref: data]] that comes from an [[ref: authority]] for that information.\n"
+    },
+    {
+      "externalSpec": "toip1",
+      "term": "contextual-linkability",
+      "repoUrl": "https://github.com/trustoverip/ctwg-main-glossary",
+      "terms_dir": "spec/terms-definitions",
+      "owner": "trustoverip",
+      "repo": "ctwg-main-glossary",
+      "site": null,
+      "commitHash": "not found",
+      "content": "This term was not found in the external repository."
+    },
+    {
+      "externalSpec": "toip1",
+      "term": "control-authority",
+      "repoUrl": "https://github.com/trustoverip/ctwg-main-glossary",
+      "terms_dir": "spec/terms-definitions",
+      "owner": "trustoverip",
+      "repo": "ctwg-main-glossary",
+      "site": null,
+      "commitHash": "not found",
+      "content": "This term was not found in the external repository."
     },
     {
       "externalSpec": "toip1",
