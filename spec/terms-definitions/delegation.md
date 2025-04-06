@@ -1,5 +1,3 @@
-[[def: delegation, delegation]]
-
-~ A person or group of persons officially elected or appointed to represent another or others.
+[[tref: toip1, delegation]]
 
 ~ More in <a href="https://weboftrust.github.io/WOT-terms/docs/glossary/delegation">extended KERI glossary</a>
