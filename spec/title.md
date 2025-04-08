@@ -10,7 +10,7 @@ KERI Main Glossary
 * [Discussions](https://github.com/weboftrust/kerisuite-glossary/discussions)
 
 **Editors:**
-
+- [Samuel Smith](https://github.com/SmithSamuelM), [Gen](https://www.prosapien.com)
 - [Drummond Reed](https://github.com/talltree), [Gen](https://www.gendigital.com)
 - [Henk van Cann](https://github.com/henkvancann)
 
