@@ -1,4 +1,4 @@
-KERI Main Glossary 
+KERI Suite Glossary 
 ==================
 
 **Specification Status**: Public Review Draft 01 (PR1)
