@@ -351,8 +351,9 @@
       "favicon": "https://raw.githubusercontent.com/trustoverip/spec-up-t/refs/heads/master/src/install-from-boilerplate/boilerplate/static/favicon.ico",
       "source": {
         "host": "github",
-        "account": "trustoverip",
-        "repo": "spec-up-t-starter-pack"
+        "account": "henkvancann",
+        "repo": "kerisuite-glossary",
+        "branch": "integrate"
       },
       "external_specs": [
         {
