@@ -6,6 +6,7 @@
       "repoUrl": "https://github.com/henkvancann/ctwg-main-glossary",
       "terms_dir": "spec/terms-definitions",
       "owner": "henkvancann",
+<<<<<<< HEAD
       "repo": "ctwg-main-glossary",
       "site": null,
       "commitHash": "not found",
@@ -65,6 +66,8 @@
       "repoUrl": "https://github.com/henkvancann/ctwg-main-glossary",
       "terms_dir": "spec/terms-definitions",
       "owner": "henkvancann",
+=======
+>>>>>>> origin/integrate
       "repo": "ctwg-main-glossary",
       "site": null,
       "commitHash": "not found",
@@ -72,6 +75,20 @@
     },
     {
       "externalSpec": "toip1",
+<<<<<<< HEAD
+=======
+      "term": "SSI",
+      "repoUrl": "https://github.com/henkvancann/ctwg-main-glossary",
+      "terms_dir": "spec/terms-definitions",
+      "owner": "henkvancann",
+      "repo": "ctwg-main-glossary",
+      "site": null,
+      "commitHash": "not found",
+      "content": "This term was not found in the external repository."
+    },
+    {
+      "externalSpec": "toip1",
+>>>>>>> origin/integrate
       "term": "agency",
       "repoUrl": "https://github.com/henkvancann/ctwg-main-glossary",
       "terms_dir": "spec/terms-definitions",
@@ -418,6 +435,10 @@
       "terms_dir": "spec/terms-definitions",
       "owner": "henkvancann",
       "repo": "vlei-glossary",
+<<<<<<< HEAD
+=======
+      "avatarUrl": "https://avatars.githubusercontent.com/u/479356?v=4",
+>>>>>>> origin/integrate
       "site": null,
       "commitHash": "not found",
       "content": "This term was not found in the external repository."

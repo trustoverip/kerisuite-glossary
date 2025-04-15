@@ -351,7 +351,11 @@
       "favicon": "https://raw.githubusercontent.com/trustoverip/spec-up-t/refs/heads/master/src/install-from-boilerplate/boilerplate/static/favicon.ico",
       "source": {
         "host": "github",
+<<<<<<< HEAD
         "account": "weboftrust",
+=======
+        "account": "henkvancann",
+>>>>>>> origin/integrate
         "repo": "kerisuite-glossary",
         "branch": "integrate"
       },
