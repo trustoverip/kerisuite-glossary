@@ -8,9 +8,9 @@
       "owner": "henkvancann",
       "repo": "ctwg-main-glossary",
       "site": null,
-      "commitHash": "feecc53222ff1debf6174665774f17da491a3050",
-      "content": "[[def: agency]]\n\n~ In the context of decentralized digital trust infrastructure, the empowering of a [[ref: party]] to act independently of its own accord, and in particular to empower the party to employ an [[ref: agent]] to act on the [[ref: party]]'s behalf.\n",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/479356?v=4"
+      "commitHash": "910006489e6ae5ebd79ca096682e2ec8fac5bc65",
+      "content": "<dd class=\"last-dd\">\n<p>In the context of decentralized digital trust infrastructure, the empowering of a <a class=\"term-reference\" href=\"#term:party\">party</a> to act independently of its own accord, and in particular to empower the party to employ an <a class=\"term-reference\" href=\"#term:agent\">agent</a> to act on the <a class=\"term-reference\" href=\"#term:party\">party</a>'s behalf.</p>\n</dd>",
+      "avatarUrl": null
     },
     {
       "externalSpec": "toip1",
@@ -20,9 +20,9 @@
       "owner": "henkvancann",
       "repo": "ctwg-main-glossary",
       "site": null,
-      "commitHash": "1adeba80cb184ebcc97369389747e86ba1879b1c",
-      "content": "[[def: authoritative]]\n\n~ Information or [[ref: data]] that comes from an [[ref: authority]] for that information.\n",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/479356?v=4"
+      "commitHash": "910006489e6ae5ebd79ca096682e2ec8fac5bc65",
+      "content": "<dd class=\"last-dd\">\n<p>Information or <a class=\"term-reference\" href=\"#term:data\">data</a> that comes from an <a class=\"term-reference\" href=\"#term:authority\">authority</a> for that information.</p>\n</dd>",
+      "avatarUrl": null
     },
     {
       "externalSpec": "toip1",
@@ -32,9 +32,9 @@
       "owner": "henkvancann",
       "repo": "ctwg-main-glossary",
       "site": null,
-      "commitHash": "29723a60d9b4af83fef805e2371b976ca70de117",
-      "content": "[[def: reputation, reputations]]\n\n~ The beliefs or opinions that are generally held about an [[ref: entity]], typically developed as a result of social evaluation on a set of criteria, such as behavior, performance, or [[ref: trustworthiness]].\n",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/479356?v=4"
+      "commitHash": "910006489e6ae5ebd79ca096682e2ec8fac5bc65",
+      "content": "<dd class=\"last-dd\">\n<p>The beliefs or opinions that are generally held about an <a class=\"term-reference\" href=\"#term:entity\">entity</a>, typically developed as a result of social evaluation on a set of criteria, such as behavior, performance, or <a class=\"term-reference\" href=\"#term:trustworthiness\">trustworthiness</a>.</p>\n</dd>",
+      "avatarUrl": null
     },
     {
       "externalSpec": "toip1",
@@ -43,6 +43,7 @@
       "terms_dir": "spec/terms-definitions",
       "owner": "henkvancann",
       "repo": "ctwg-main-glossary",
+      "avatarUrl": null,
       "site": null,
       "commitHash": "not found",
       "content": "This term was not found in the external repository."
@@ -54,10 +55,10 @@
       "terms_dir": "spec/terms-definitions",
       "owner": "henkvancann",
       "repo": "vlei-glossary",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/479356?v=4",
+      "avatarUrl": null,
       "site": null,
-      "commitHash": "d284bf4e039df6a8015fd293cba245109d343f66",
-      "content": "[[def: DAR, DAR]]\n\n~ [[ref: designated-authorized-representative]]\n~ More in <a href=\"https://weboftrust.github.io/WOT-terms/docs/glossary/DAR\">extended KERI glossary</a>\n"
+      "commitHash": "32aaa6ac62332b0a765e32819937b7ab2348b098",
+      "content": "<dd>\n<p><a class=\"term-reference\" href=\"#term:designated-authorized-representative\">designated-authorized-representative</a></p>\n</dd>\n<dd class=\"last-dd\">\n<p>More in <a href=\"https://weboftrust.github.io/WOT-terms/docs/glossary/DAR\">extended KERI glossary</a></p>\n</dd>"
     },
     {
       "externalSpec": "vlei1",
@@ -66,10 +67,10 @@
       "terms_dir": "spec/terms-definitions",
       "owner": "henkvancann",
       "repo": "vlei-glossary",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/479356?v=4",
+      "avatarUrl": null,
       "site": null,
-      "commitHash": "9a4cbc5cdaa4ffa22947d9497257cb965f8c9707",
-      "content": "[[def: OOR, OOR]]\n\n~ [[ref: official-organizational-role]]\n~ More in <a href=\"https://weboftrust.github.io/WOT-terms/docs/glossary/OOR\">extended KERI glossary</a>\n"
+      "commitHash": "32aaa6ac62332b0a765e32819937b7ab2348b098",
+      "content": "<dd>\n<p><a class=\"term-reference\" href=\"#term:official-organizational-role\">official-organizational-role</a></p>\n</dd>\n<dd class=\"last-dd\">\n<p>More in <a href=\"https://weboftrust.github.io/WOT-terms/docs/glossary/OOR\">extended KERI glossary</a></p>\n</dd>"
     },
     {
       "externalSpec": "vlei1",
@@ -78,10 +79,10 @@
       "terms_dir": "spec/terms-definitions",
       "owner": "henkvancann",
       "repo": "vlei-glossary",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/479356?v=4",
+      "avatarUrl": null,
       "site": null,
-      "commitHash": "216117665555b9431231aebbeacbc396c9a503d5",
-      "content": "[[def: QAR, QAR]]\n\n~ [[ref: qvi-authorized-representative]]\n~ More in <a href=\"https://weboftrust.github.io/WOT-terms/docs/glossary/QAR\">extended KERI glossary</a>\n"
+      "commitHash": "32aaa6ac62332b0a765e32819937b7ab2348b098",
+      "content": "<dd>\n<p><a class=\"term-reference\" href=\"#term:qvi-authorized-representative\">qvi-authorized-representative</a></p>\n</dd>\n<dd class=\"last-dd\">\n<p>More in <a href=\"https://weboftrust.github.io/WOT-terms/docs/glossary/QAR\">extended KERI glossary</a></p>\n</dd>"
     },
     {
       "externalSpec": "vlei1",
@@ -90,10 +91,10 @@
       "terms_dir": "spec/terms-definitions",
       "owner": "henkvancann",
       "repo": "vlei-glossary",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/479356?v=4",
+      "avatarUrl": null,
       "site": null,
-      "commitHash": "8c148a3996dc771952df192956076b5388e9ba66",
-      "content": "[[def: QVI, QVI]]\n\n~ [[ref: qualified-vlei-issuer]]\n~ More in <a href=\"https://weboftrust.github.io/WOT-terms/docs/glossary/QVI\">extended KERI glossary</a>\n"
+      "commitHash": "32aaa6ac62332b0a765e32819937b7ab2348b098",
+      "content": "<dd>\n<p><a class=\"term-reference\" href=\"#term:qualified-vlei-issuer\">qualified-vlei-issuer</a></p>\n</dd>\n<dd class=\"last-dd\">\n<p>More in <a href=\"https://weboftrust.github.io/WOT-terms/docs/glossary/QVI\">extended KERI glossary</a></p>\n</dd>"
     },
     {
       "externalSpec": "toip1",
@@ -102,10 +103,10 @@
       "terms_dir": "spec/terms-definitions",
       "owner": "henkvancann",
       "repo": "ctwg-main-glossary",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/479356?v=4",
+      "avatarUrl": null,
       "site": null,
-      "commitHash": "b9bd159577ff52250888d97ce19a890fd26d1b06",
-      "content": "[[def: SSI]]\n\n~ See: [[ref: self-sovereign identity]].\n\n~ Note: In some contexts, such as academic papers or industry conferences, this acronym has started to replace the term it represents.\n"
+      "commitHash": "910006489e6ae5ebd79ca096682e2ec8fac5bc65",
+      "content": "<dd>\n<p>See: <a class=\"term-reference\" href=\"#term:self-sovereign-identity\">self-sovereign identity</a>.</p>\n</dd>\n<dd class=\"last-dd\">\n<p>Note: In some contexts, such as academic papers or industry conferences, this acronym has started to replace the term it represents.</p>\n</dd>"
     },
     {
       "externalSpec": "toip1",
@@ -114,10 +115,10 @@
       "terms_dir": "spec/terms-definitions",
       "owner": "henkvancann",
       "repo": "ctwg-main-glossary",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/479356?v=4",
+      "avatarUrl": null,
       "site": null,
-      "commitHash": "95bf9ad51c4539e7f660a686a1b7e53992f1eeb6",
-      "content": "[[def: agent, agents]]\n\n~ An [[ref: actor]] that is executing an [[ref: action]] on behalf of a [[ref: party]] (called the [[ref: principal]] of that [[ref: actor]]). In the context of decentralized digital trust infrastructure, the term “agent” is most frequently used to mean a [[ref: digital agent]].\n\n~ Source: [eSSIF-Lab](https://essif-lab.github.io/framework/docs/essifLab-glossary#agent).\n\n~ See also: [[ref: wallet]].\n\n~ Note: In a ToIP context, an agent is frequently assumed to have privileged access to the [[ref: wallet]](s) of its principal. In market parlance, a mobile app performing the [[ref: actions]] of an agent is often simply called a [[ref: wallet]] or a [[ref: digital wallet]].\n"
+      "commitHash": "910006489e6ae5ebd79ca096682e2ec8fac5bc65",
+      "content": "<dd>\n<p>An <a class=\"term-reference\" href=\"#term:actor\">actor</a> that is executing an <a class=\"term-reference\" href=\"#term:action\">action</a> on behalf of a <a class=\"term-reference\" href=\"#term:party\">party</a> (called the <a class=\"term-reference\" href=\"#term:principal\">principal</a> of that <a class=\"term-reference\" href=\"#term:actor\">actor</a>). In the context of decentralized digital trust infrastructure, the term “agent” is most frequently used to mean a <a class=\"term-reference\" href=\"#term:digital-agent\">digital agent</a>.</p>\n</dd>\n<dd>\n<p>Source: <a path-0=\"essif-lab.github.io\" path-1=\"framework\" path-2=\"docs\" path-3=\"essifLab-glossary#agent\" href=\"https://essif-lab.github.io/framework/docs/essifLab-glossary#agent\">eSSIF-Lab</a>.</p>\n</dd>\n<dd>\n<p>See also: <a class=\"term-reference\" href=\"#term:wallet\">wallet</a>.</p>\n</dd>\n<dd class=\"last-dd\">\n<p>Note: In a ToIP context, an agent is frequently assumed to have privileged access to the <a class=\"term-reference\" href=\"#term:wallet\">wallet</a>(s) of its principal. In market parlance, a mobile app performing the <a class=\"term-reference\" href=\"#term:actions\">actions</a> of an agent is often simply called a <a class=\"term-reference\" href=\"#term:wallet\">wallet</a> or a <a class=\"term-reference\" href=\"#term:digital-wallet\">digital wallet</a>.</p>\n</dd>"
     },
     {
       "externalSpec": "toip1",
@@ -126,10 +127,10 @@
       "terms_dir": "spec/terms-definitions",
       "owner": "henkvancann",
       "repo": "ctwg-main-glossary",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/479356?v=4",
+      "avatarUrl": null,
       "site": null,
-      "commitHash": "cfd2b054c24103f580dd06d31f7f7add9cf349ff",
-      "content": "[[def: attribute, attributes]]\n\n~ An identifiable set of data that describes an [[ref: entity]], which is the [[ref: subject]] of the attribute. \n\n~ See also: [[ref: property]].\n\n~ Supporting definitions:\n\n~ [eSSIF-Lab](https://essif-lab.github.io/framework/docs/essifLab-glossary#attribute): [Data](https://essif-lab.github.io/framework/docs/terms/data) that represents a characteristic that a [party](https://essif-lab.github.io/framework/docs/terms/party) (the [owner](https://essif-lab.github.io/framework/docs/terms/owner) of the [attribute](https://essif-lab.github.io/framework/docs/terms/attribute)) has attributed to an [entity](https://essif-lab.github.io/framework/docs/terms/entity) (which is the [subject](https://essif-lab.github.io/framework/docs/terms/subject) of that attribute).\n\n~ Note: An [[ref: identifier]] is an attribute that uniquely identifies an [[ref: entity]] within some context.\n"
+      "commitHash": "910006489e6ae5ebd79ca096682e2ec8fac5bc65",
+      "content": "<dd>\n<p>An identifiable set of data that describes an <a class=\"term-reference\" href=\"#term:entity\">entity</a>, which is the <a class=\"term-reference\" href=\"#term:subject\">subject</a> of the attribute.</p>\n</dd>\n<dd>\n<p>See also: <a class=\"term-reference\" href=\"#term:property\">property</a>.</p>\n</dd>\n<dd>\n<p>Supporting definitions:</p>\n</dd>\n<dd>\n<p><a path-0=\"essif-lab.github.io\" path-1=\"framework\" path-2=\"docs\" path-3=\"essifLab-glossary#attribute\" href=\"https://essif-lab.github.io/framework/docs/essifLab-glossary#attribute\">eSSIF-Lab</a>: <a path-0=\"essif-lab.github.io\" path-1=\"framework\" path-2=\"docs\" path-3=\"terms\" path-4=\"data\" href=\"https://essif-lab.github.io/framework/docs/terms/data\">Data</a> that represents a characteristic that a <a path-0=\"essif-lab.github.io\" path-1=\"framework\" path-2=\"docs\" path-3=\"terms\" path-4=\"party\" href=\"https://essif-lab.github.io/framework/docs/terms/party\">party</a> (the <a path-0=\"essif-lab.github.io\" path-1=\"framework\" path-2=\"docs\" path-3=\"terms\" path-4=\"owner\" href=\"https://essif-lab.github.io/framework/docs/terms/owner\">owner</a> of the <a path-0=\"essif-lab.github.io\" path-1=\"framework\" path-2=\"docs\" path-3=\"terms\" path-4=\"attribute\" href=\"https://essif-lab.github.io/framework/docs/terms/attribute\">attribute</a>) has attributed to an <a path-0=\"essif-lab.github.io\" path-1=\"framework\" path-2=\"docs\" path-3=\"terms\" path-4=\"entity\" href=\"https://essif-lab.github.io/framework/docs/terms/entity\">entity</a> (which is the <a path-0=\"essif-lab.github.io\" path-1=\"framework\" path-2=\"docs\" path-3=\"terms\" path-4=\"subject\" href=\"https://essif-lab.github.io/framework/docs/terms/subject\">subject</a> of that attribute).</p>\n</dd>\n<dd class=\"last-dd\">\n<p>Note: An <a class=\"term-reference\" href=\"#term:identifier\">identifier</a> is an attribute that uniquely identifies an <a class=\"term-reference\" href=\"#term:entity\">entity</a> within some context.</p>\n</dd>"
     },
     {
       "externalSpec": "toip1",
@@ -138,6 +139,7 @@
       "terms_dir": "spec/terms-definitions",
       "owner": "henkvancann",
       "repo": "ctwg-main-glossary",
+      "avatarUrl": null,
       "site": null,
       "commitHash": "not found",
       "content": "This term was not found in the external repository."
@@ -149,6 +151,7 @@
       "terms_dir": "spec/terms-definitions",
       "owner": "henkvancann",
       "repo": "ctwg-main-glossary",
+      "avatarUrl": null,
       "site": null,
       "commitHash": "not found",
       "content": "This term was not found in the external repository."
@@ -160,6 +163,7 @@
       "terms_dir": "spec/terms-definitions",
       "owner": "henkvancann",
       "repo": "ctwg-main-glossary",
+      "avatarUrl": null,
       "site": null,
       "commitHash": "not found",
       "content": "This term was not found in the external repository."
@@ -171,6 +175,7 @@
       "terms_dir": "spec/terms-definitions",
       "owner": "henkvancann",
       "repo": "ctwg-main-glossary",
+      "avatarUrl": null,
       "site": null,
       "commitHash": "not found",
       "content": "This term was not found in the external repository."
@@ -181,9 +186,7 @@
       "repoUrl": "https://henkvancann.github.io/ctwg-general-glossary",
       "terms_dir": "spec/terms-definitions",
       "owner": "ctwg-general-glossary",
-      "site": null,
-      "commitHash": "not found",
-      "content": "This term was not found in the external repository."
+      "site": null
     },
     {
       "externalSpec": "toip1",
@@ -192,10 +195,10 @@
       "terms_dir": "spec/terms-definitions",
       "owner": "henkvancann",
       "repo": "ctwg-main-glossary",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/479356?v=4",
+      "avatarUrl": null,
       "site": null,
-      "commitHash": "db569607f0cc4bce19b64fab7ddbd7c08cb59000",
-      "content": "[[def: delegation, delegate, delegated, delegates]]\n\n~ The act of a [[ref: first party]] [[ref: authorizing]] a [[ref: second party]] to perform a set of [[ref: actions]] for or on behalf of the [[ref: first party]]. Delegation may be performed by the first party (the [[ref: delegator]]) issuing a [[ref: delegation credential]] that gives a certain set of [[ref: capabilities]] to the [[ref: second party]] (the [[ref: delegatee]]).\n"
+      "commitHash": "910006489e6ae5ebd79ca096682e2ec8fac5bc65",
+      "content": "<dd class=\"last-dd\">\n<p>The act of a <a class=\"term-reference\" href=\"#term:first-party\">first party</a> <a class=\"term-reference\" href=\"#term:authorizing\">authorizing</a> a <a class=\"term-reference\" href=\"#term:second-party\">second party</a> to perform a set of <a class=\"term-reference\" href=\"#term:actions\">actions</a> for or on behalf of the <a class=\"term-reference\" href=\"#term:first-party\">first party</a>. Delegation may be performed by the first party (the <a class=\"term-reference\" href=\"#term:delegator\">delegator</a>) issuing a <a class=\"term-reference\" href=\"#term:delegation-credential\">delegation credential</a> that gives a certain set of <a class=\"term-reference\" href=\"#term:capabilities\">capabilities</a> to the <a class=\"term-reference\" href=\"#term:second-party\">second party</a> (the <a class=\"term-reference\" href=\"#term:delegatee\">delegatee</a>).</p>\n</dd>"
     },
     {
       "externalSpec": "toip1",
@@ -204,6 +207,7 @@
       "terms_dir": "spec/terms-definitions",
       "owner": "henkvancann",
       "repo": "ctwg-main-glossary",
+      "avatarUrl": null,
       "site": null,
       "commitHash": "not found",
       "content": "This term was not found in the external repository."
@@ -215,6 +219,7 @@
       "terms_dir": "spec/terms-definitions",
       "owner": "henkvancann",
       "repo": "ctwg-main-glossary",
+      "avatarUrl": null,
       "site": null,
       "commitHash": "not found",
       "content": "This term was not found in the external repository."
@@ -226,6 +231,7 @@
       "terms_dir": "spec/terms-definitions",
       "owner": "henkvancann",
       "repo": "ctwg-main-glossary",
+      "avatarUrl": null,
       "site": null,
       "commitHash": "not found",
       "content": "This term was not found in the external repository."
@@ -237,6 +243,7 @@
       "terms_dir": "spec/terms-definitions",
       "owner": "henkvancann",
       "repo": "ctwg-main-glossary",
+      "avatarUrl": null,
       "site": null,
       "commitHash": "not found",
       "content": "This term was not found in the external repository."
@@ -248,17 +255,19 @@
       "terms_dir": "spec/terms-definitions",
       "owner": "henkvancann",
       "repo": "ctwg-main-glossary",
+      "avatarUrl": null,
       "site": null,
       "commitHash": "not found",
       "content": "This term was not found in the external repository."
     },
     {
-      "externalSpec": "toip",
+      "externalSpec": "toip1",
       "term": "non-transferable-identifier",
-      "repoUrl": null,
-      "terms_dir": null,
-      "owner": null,
-      "repo": null,
+      "repoUrl": "https://github.com/henkvancann/ctwg-main-glossary",
+      "terms_dir": "spec/terms-definitions",
+      "owner": "henkvancann",
+      "repo": "ctwg-main-glossary",
+      "avatarUrl": null,
       "site": null,
       "commitHash": "not found",
       "content": "This term was not found in the external repository."
@@ -270,6 +279,7 @@
       "terms_dir": "spec/terms-definitions",
       "owner": "henkvancann",
       "repo": "ctwg-main-glossary",
+      "avatarUrl": null,
       "site": null,
       "commitHash": "not found",
       "content": "This term was not found in the external repository."
@@ -281,6 +291,7 @@
       "terms_dir": "spec/terms-definitions",
       "owner": "henkvancann",
       "repo": "ctwg-main-glossary",
+      "avatarUrl": null,
       "site": null,
       "commitHash": "not found",
       "content": "This term was not found in the external repository."
@@ -292,6 +303,7 @@
       "terms_dir": "spec/terms-definitions",
       "owner": "henkvancann",
       "repo": "ctwg-main-glossary",
+      "avatarUrl": null,
       "site": null,
       "commitHash": "not found",
       "content": "This term was not found in the external repository."
@@ -303,6 +315,7 @@
       "terms_dir": "spec/terms-definitions",
       "owner": "henkvancann",
       "repo": "ctwg-main-glossary",
+      "avatarUrl": null,
       "site": null,
       "commitHash": "not found",
       "content": "This term was not found in the external repository."
@@ -314,10 +327,10 @@
       "terms_dir": "spec/terms-definitions",
       "owner": "henkvancann",
       "repo": "ctwg-main-glossary",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/479356?v=4",
+      "avatarUrl": null,
       "site": null,
-      "commitHash": "9ad5bb055d7861217779e0621e76b090abe2187d",
-      "content": "[[def: self-certifying identifier, self-certifying identifiers, SCID, SCIDs]]\n\n~ A subclass of [[ref: verifiable identifier]] (VID) that is [[ref: cryptographically verifiable]] without the need to rely on any [[ref: third party]] for [[ref: verification]] because the [[ref: identifier]] is cryptographically bound to the [[ref: cryptographic keys]] from which it was generated.\n\n~ See also: [[ref: autonomic identifier]].\n\n~ Also known as: [[ref: SCID]].\n"
+      "commitHash": "910006489e6ae5ebd79ca096682e2ec8fac5bc65",
+      "content": "<dd>\n<p>A subclass of <a class=\"term-reference\" href=\"#term:verifiable-identifier\">verifiable identifier</a> (VID) that is <a class=\"term-reference\" href=\"#term:cryptographically-verifiable\">cryptographically verifiable</a> without the need to rely on any <a class=\"term-reference\" href=\"#term:third-party\">third party</a> for <a class=\"term-reference\" href=\"#term:verification\">verification</a> because the <a class=\"term-reference\" href=\"#term:identifier\">identifier</a> is cryptographically bound to the <a class=\"term-reference\" href=\"#term:cryptographic-keys\">cryptographic keys</a> from which it was generated.</p>\n</dd>\n<dd>\n<p>See also: <a class=\"term-reference\" href=\"#term:autonomic-identifier\">autonomic identifier</a>.</p>\n</dd>\n<dd class=\"last-dd\">\n<p>Also known as: <a class=\"term-reference\" href=\"#term:scid\">SCID</a>.</p>\n</dd>"
     },
     {
       "externalSpec": "toip1",
@@ -326,6 +339,7 @@
       "terms_dir": "spec/terms-definitions",
       "owner": "henkvancann",
       "repo": "ctwg-main-glossary",
+      "avatarUrl": null,
       "site": null,
       "commitHash": "not found",
       "content": "This term was not found in the external repository."
@@ -337,6 +351,7 @@
       "terms_dir": "spec/terms-definitions",
       "owner": "henkvancann",
       "repo": "ctwg-main-glossary",
+      "avatarUrl": null,
       "site": null,
       "commitHash": "not found",
       "content": "This term was not found in the external repository."
@@ -348,9 +363,7 @@
       "terms_dir": null,
       "owner": null,
       "repo": null,
-      "site": null,
-      "commitHash": "not found",
-      "content": "This term was not found in the external repository."
+      "site": null
     },
     {
       "externalSpec": "toip1",
@@ -359,6 +372,7 @@
       "terms_dir": "spec/terms-definitions",
       "owner": "henkvancann",
       "repo": "ctwg-main-glossary",
+      "avatarUrl": null,
       "site": null,
       "commitHash": "not found",
       "content": "This term was not found in the external repository."
@@ -370,6 +384,7 @@
       "terms_dir": "spec/terms-definitions",
       "owner": "henkvancann",
       "repo": "ctwg-main-glossary",
+      "avatarUrl": null,
       "site": null,
       "commitHash": "not found",
       "content": "This term was not found in the external repository."
@@ -381,10 +396,10 @@
       "terms_dir": "spec/terms-definitions",
       "owner": "henkvancann",
       "repo": "vlei-glossary",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/479356?v=4",
+      "avatarUrl": null,
       "site": null,
-      "commitHash": "8c99bb5f4599c0b94641b11e985b090db676b402",
-      "content": "[[def: vLEI, vLEI]]\n\n~ [[ref: verifiable-legal-entity-identifier]]\n~ More in <a href=\"https://weboftrust.github.io/WOT-terms/docs/glossary/vLEI\">extended KERI glossary</a>\n"
+      "commitHash": "32aaa6ac62332b0a765e32819937b7ab2348b098",
+      "content": "<dd>\n<p><a class=\"term-reference\" href=\"#term:verifiable-legal-entity-identifier\">verifiable-legal-entity-identifier</a></p>\n</dd>\n<dd class=\"last-dd\">\n<p>More in <a href=\"https://weboftrust.github.io/WOT-terms/docs/glossary/vLEI\">extended KERI glossary</a></p>\n</dd>"
     },
     {
       "externalSpec": "toip1",
@@ -393,6 +408,7 @@
       "terms_dir": "spec/terms-definitions",
       "owner": "henkvancann",
       "repo": "ctwg-main-glossary",
+      "avatarUrl": null,
       "site": null,
       "commitHash": "not found",
       "content": "This term was not found in the external repository."
@@ -404,6 +420,7 @@
       "terms_dir": "spec/terms-definitions",
       "owner": "henkvancann",
       "repo": "ctwg-main-glossary",
+      "avatarUrl": null,
       "site": null,
       "commitHash": "not found",
       "content": "This term was not found in the external repository."
@@ -415,10 +432,10 @@
       "terms_dir": "spec/terms-definitions",
       "owner": "henkvancann",
       "repo": "ctwg-main-glossary",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/479356?v=4",
+      "avatarUrl": null,
       "site": null,
-      "commitHash": "7d25ba45914765a9d2c111ed9c1971a76fcea7d7",
-      "content": "[[def: verification, verify, verifies, verified, verifying]]\n\n~ An [[ref: action]] an [[ref: agent]] (of a [[ref: principal]]) performs to determine the [[ref: authenticity]] of a [[ref: claim]] or other data object. [[ref: Cryptographic verification]] uses [[ref: cryptographic keys]].\n\n~ See also: [[ref: validation]].\n\n~ Mental model: [W3C Verifiable Credentials Data Model Roles & Information Flows](https://www.w3.org/TR/vc-data-model/#roles)\n\n~ Supporting definitions:\n\n~ [eSSIF-Lab](https://essif-lab.github.io/framework/docs/essifLab-glossary#verify): The act, by or on behalf of a [party](https://essif-lab.github.io/framework/docs/terms/party), of determining whether that data is authentic (i.e. originates from the [party](https://essif-lab.github.io/framework/docs/terms/party) that authored it), timely (i.e. has not expired), and conforms to other specifications that apply to its structure.\n"
+      "commitHash": "910006489e6ae5ebd79ca096682e2ec8fac5bc65",
+      "content": "<dd>\n<p>An <a class=\"term-reference\" href=\"#term:action\">action</a> an <a class=\"term-reference\" href=\"#term:agent\">agent</a> (of a <a class=\"term-reference\" href=\"#term:principal\">principal</a>) performs to determine the <a class=\"term-reference\" href=\"#term:authenticity\">authenticity</a> of a <a class=\"term-reference\" href=\"#term:claim\">claim</a> or other data object. <a class=\"term-reference\" href=\"#term:cryptographic-verification\">Cryptographic verification</a> uses <a class=\"term-reference\" href=\"#term:cryptographic-keys\">cryptographic keys</a>.</p>\n</dd>\n<dd>\n<p>See also: <a class=\"term-reference\" href=\"#term:validation\">validation</a>.</p>\n</dd>\n<dd>\n<p>Mental model: <a path-0=\"www.w3.org\" path-1=\"TR\" path-2=\"vc-data-model\" path-3=\"#roles\" href=\"https://www.w3.org/TR/vc-data-model/#roles\">W3C Verifiable Credentials Data Model Roles &amp; Information Flows</a></p>\n</dd>\n<dd>\n<p>Supporting definitions:</p>\n</dd>\n<dd class=\"last-dd\">\n<p><a path-0=\"essif-lab.github.io\" path-1=\"framework\" path-2=\"docs\" path-3=\"essifLab-glossary#verify\" href=\"https://essif-lab.github.io/framework/docs/essifLab-glossary#verify\">eSSIF-Lab</a>: The act, by or on behalf of a <a path-0=\"essif-lab.github.io\" path-1=\"framework\" path-2=\"docs\" path-3=\"terms\" path-4=\"party\" href=\"https://essif-lab.github.io/framework/docs/terms/party\">party</a>, of determining whether that data is authentic (i.e. originates from the <a path-0=\"essif-lab.github.io\" path-1=\"framework\" path-2=\"docs\" path-3=\"terms\" path-4=\"party\" href=\"https://essif-lab.github.io/framework/docs/terms/party\">party</a> that authored it), timely (i.e. has not expired), and conforms to other specifications that apply to its structure.</p>\n</dd>"
     },
     {
       "externalSpec": "vlei1",
@@ -427,10 +444,10 @@
       "terms_dir": "spec/terms-definitions",
       "owner": "henkvancann",
       "repo": "vlei-glossary",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/479356?v=4",
+      "avatarUrl": null,
       "site": null,
-      "commitHash": "0e9a78385ad09cce28e32558dbc7a4d3b647ba07",
-      "content": "[[def: vlei-credential, vlei credential]]\n\n~ Credential concerning a verifiable Legal Entity Identifier, residing in the [[ref: GLEIS]] and compliant with one or more of the GLEIF [[ref: governance-framework]]s\n~ More in <a href=\"https://weboftrust.github.io/WOT-terms/docs/glossary/vlei-credential\">extended KERI glossary</a>\n"
+      "commitHash": "not found",
+      "content": "This term was not found in the external repository."
     },
     {
       "externalSpec": "vlei1",
@@ -439,10 +456,10 @@
       "terms_dir": "spec/terms-definitions",
       "owner": "henkvancann",
       "repo": "vlei-glossary",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/479356?v=4",
+      "avatarUrl": null,
       "site": null,
-      "commitHash": "5e36b16e58984eeaccae22116a2bf058ab01a0e9",
-      "content": "[[def: vlei-ecosystem-governance-framework, vlei ecosystem governance framework]]\n\n~ The Verifiable LEI (vLEI) Ecosystem [[ref: governance-framework]] Information Trust Policies. It's a **document** that defines the information security, privacy, availability, confidentiality and processing integrity policies that apply to all vLEI Ecosystem Members.  \n~ Paraphrased by @henkvancann from [source](https://www.gleif.org/vlei/introducing-the-vlei-ecosystem-governance-framework/2022-02-07_verifiable-lei-vlei-ecosystem-governance-framework-glossary-draft-publication_v0.9-draft.pdf) Draft vLEI Ecosystem Governance Framework Glossary.\n~ More in <a href=\"https://weboftrust.github.io/WOT-terms/docs/glossary/vlei-ecosystem-governance-framework\">extended KERI glossary</a>\n"
+      "commitHash": "32aaa6ac62332b0a765e32819937b7ab2348b098",
+      "content": "<dd>\n<p>The Verifiable LEI (vLEI) Ecosystem <a class=\"term-reference\" href=\"#term:governance-framework\">governance-framework</a> Information Trust Policies. It’s a <strong>document</strong> that defines the information security, privacy, availability, confidentiality and processing integrity policies that apply to all vLEI Ecosystem Members.</p>\n</dd>\n<dd>\n<p>Paraphrased by @henkvancann from <a path-0=\"www.gleif.org\" path-1=\"vlei\" path-2=\"introducing-the-vlei-ecosystem-governance-framework\" path-3=\"2022-02-07_verifiable-lei-vlei-ecosystem-governance-framework-glossary-draft-publication_v0.9-draft.pdf\" href=\"https://www.gleif.org/vlei/introducing-the-vlei-ecosystem-governance-framework/2022-02-07_verifiable-lei-vlei-ecosystem-governance-framework-glossary-draft-publication_v0.9-draft.pdf\">source</a> Draft vLEI Ecosystem Governance Framework Glossary.</p>\n</dd>\n<dd class=\"last-dd\">\n<p>More in <a href=\"https://weboftrust.github.io/WOT-terms/docs/glossary/vlei-ecosystem-governance-framework\">extended KERI glossary</a></p>\n</dd>"
     },
     {
       "externalSpec": "vlei1",
@@ -451,10 +468,10 @@
       "terms_dir": "spec/terms-definitions",
       "owner": "henkvancann",
       "repo": "vlei-glossary",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/479356?v=4",
+      "avatarUrl": null,
       "site": null,
-      "commitHash": "67797dd4ab052191473f1973ee4f583ed837e0f2",
-      "content": "[[def: vlei-role-credential, vlei role credential]]\n\n~ It is a [[ref: vlei-credential]] that attests to a role within a legal entity to an individual or an entity. It cryptographically proves that the individual or entity is authorized to act in that role on behalf of the legal entity.\n\n~ More in <a href=\"https://weboftrust.github.io/WOT-terms/docs/glossary/vlei-role-credential\">extended KERI glossary</a>\n"
+      "commitHash": "32aaa6ac62332b0a765e32819937b7ab2348b098",
+      "content": "<dd>\n<p>It is a <a class=\"term-reference\" href=\"#term:vlei-credential\">vlei-credential</a> that attests to a role within a legal entity to an individual or an entity. It cryptographically proves that the individual or entity is authorized to act in that role on behalf of the legal entity.</p>\n</dd>\n<dd class=\"last-dd\">\n<p>More in <a href=\"https://weboftrust.github.io/WOT-terms/docs/glossary/vlei-role-credential\">extended KERI glossary</a></p>\n</dd>"
     }
   ]
 }
