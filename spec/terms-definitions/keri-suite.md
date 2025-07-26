@@ -1,4 +1,5 @@
 [[def: keri-suite, keri suite]]
 
-~ The _KERI suite_ is the set of inter-related developments (KERI, ACDC, OOBI, CESR, IPEX, etc) under the Web-of -Trust user on Github
+~ An open-source codebase centered on KERI, with supporting tools like ACDC, CESR, OOBI, KERIA, and Signify — all designed to work together for secure, decentralized key management and identity infrastructure.
+
 ~ More in <a href="https://weboftrust.github.io/WOT-terms/docs/glossary/keri-suite">extended KERI glossary</a>
