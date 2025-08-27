@@ -1,4 +1,4 @@
-[[def: domain, domain]]
+[[def: domain]]
 
 ~ a representation of a [[ref: primitive]] either Text (T), Binary (B) or Raw binary (R).  
 ~ Source: Dr. S. Smith
