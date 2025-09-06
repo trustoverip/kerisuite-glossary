@@ -11,12 +11,14 @@ KERI Suite Glossary
 
 **Editors:**
 
-* [Samuel Smith](https://github.com/SmithSamuelM), [Gen](https://www.prosapien.com)
+* [Samuel Smith](https://github.com/SmithSamuelM), [Prosapien](https://www.prosapien.com)
 * [Drummond Reed](https://github.com/talltree), [Gen](https://www.gendigital.com)
-* [Henk van Cann](https://github.com/henkvancann)
+* [Henk van Cann](https://github.com/henkvancann), [Blockchainbird](https://www.blockchainbird.com)
 
 **Contributors:**
-* [Kor Dwarshuis](https://github.com/kordwarshuis/)
+* [Kor Dwarshuis](https://github.com/kordwarshuis/), [Blockchainbird](https://www.blockchainbird.com)
+
+**Contributors:**
 
 **Participate:**
 
