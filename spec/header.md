@@ -5,8 +5,6 @@ based on [Spec-Up specification editing utility](https://identity.foundation/spe
 
 ## Copyright Notice
 
-| TBW Sam, please check to what extend you want to copy ToIP's terms |
-
 This specification is subject to the **OWF Contributor License Agreement 1.0 - Copyright**
 available at
 [https://www.openwebfoundation.org/the-agreements/the-owf-1-0-agreements-granted-claims/owf-contributor-license-agreement-1-0-copyright](https://www.openwebfoundation.org/the-agreements/the-owf-1-0-agreements-granted-claims/owf-contributor-license-agreement-1-0-copyright).
