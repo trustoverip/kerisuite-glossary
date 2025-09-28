@@ -1052,8 +1052,8 @@ customElements.define("slide-panels",class extends HTMLElement{static get observ
                             <a class="mx-auto p-2" href="https://github.com/trustoverip/spec-up-t"
                                 target="_blank" rel="noopener">Powered By Spec-Up-T</a>
                             <small>
-                                <time class="timestamp mx-auto p-2 text-muted" datetime="2025-09-06T12:08:07.077Z">
-                                    Generated: 2025-09-06T12:08:07.077Z
+                                <time class="timestamp mx-auto p-2 text-muted" datetime="2025-09-28T12:06:11.003Z">
+                                    Generated: 2025-09-28T12:06:11.003Z
                                 </time>
                             </small>
                         </div>
@@ -1483,7 +1483,7 @@ available at
 </dd><dd>
 <p>More in <a href="https://weboftrust.github.io/WOT-terms/docs/glossary/composable-event-streaming-representation">extended KERI glossary</a></p>
 </dd><dt class="term-local"><span id="term:configuration-traits"><span id="term:configuration-traits">configuration-traits</span></span></dt><dd>
-<p>a list of specially defined strings representing a configuration of a KEL. See <a class="term-reference" href="#term:#configuration-traits-field">#configuration-traits-field</a>.</p>
+<p>a list of specially defined strings representing a configuration of a KEL.</p>
 </dd><dd>
 <p>Source: Dr. S.Smith, 2024</p>
 </dd><dd>
@@ -1720,14 +1720,10 @@ available at
 <p>More in <a href="https://weboftrust.github.io/WOT-terms/docs/glossary/first-seen">extended KERI glossary</a></p>
 </dd><dt class="term-local"><span id="term:frame-code"><span id="term:frame-code">frame-code</span></span></dt><dd>
 <p><a class="term-reference" href="#term:framing-code">framing-code</a></p>
-</dd><dd>
-<p>More in <a href="https://weboftrust.github.io/WOT-terms/docs/glossary/frame-code">extended KERI glossary</a></p>
 </dd><dt class="term-local"><span id="term:framing-codes"><span id="term:framing-code"><span id="term:framing-code">framing-code</span></span></span></dt><dd>
 <p>a code that delineates a number of characters or bytes, as appropriate, that can be extracted atomically from a <a class="term-reference" href="#term:stream">stream</a>.</p>
 </dd><dd>
 <p>Source: Dr. S. Smith</p>
-</dd><dd>
-<p>More in <a href="https://weboftrust.github.io/WOT-terms/docs/glossary/framing-code">extended KERI glossary</a></p>
 </dd><dt class="term-local"><span id="term:full-disclosure"><span id="term:full-disclosure">full-disclosure</span></span></dt><dd>
 <p>a disclosure of an ACDC that discloses the full details of some or all of its field maps. In the context of <a class="term-reference" href="#term:selective-disclosure">selective-disclosure</a>, Full Disclosure means detailed disclosure of the selectively disclosed attributes, not the detailed disclosure of all selectively disclosable attributes. In the context of <a class="term-reference" href="#term:partial-disclosure">partial-disclosure</a>, Full Disclosure means detailed disclosure of the field map that was so far only partially disclosed.</p>
 </dd><dd>
@@ -1845,6 +1841,10 @@ available at
 </dd><dd>
 <p>More in <a href="https://weboftrust.github.io/WOT-terms/docs/glossary/inquisitor">extended KERI glossary</a></p>
 </dd><dt class="term-local"><span id="term:integrity">integrity</span></dt><dd>
+<p>Integrity (of a message or data) means that the information is whole, sound, and unimpaired (not necessarily correct). It means nothing is missing from the information; it is complete and in intended good order.</p>
+</dd><dd>
+<p>Source: Neil Thomson</p>
+</dd><dd>
 <p>~In KERI’s “security first” approach Authenticity includes <em>technical integrity</em> of data involved. This includes:</p>
 </dd><dd>
 <ol>
@@ -1855,17 +1855,7 @@ available at
 <li>External consistency or <a class="term-reference" href="#term:duplicity">duplicity</a> evident</li>
 </ol>
 </dd><dd>
-<p>Integrity in ACDCs is “self-verifying”: the <a class="term-reference" href="#term:self-addressing-identifier)">self-addressing-identifier)</a> that is contained in the data is also the of hash of the data.</p>
-</dd><dd>
-<p>The integrity of streaming data in <a class="term-reference" href="#term:composable-event-streaming-representation">composable-event-streaming-representation</a> and <a class="term-reference" href="#term:cesr-proof-signatures">cesr-proof-signatures</a> is established by code tables and verifiable by the mere (killer-)feature: round-robin <a class="term-reference" href="#term:composability">composability</a>. If you can toggle between the text - and binary representation, <em>then that’s the integrity proof</em>, if not, then it’s provably lacking integrity.</p>
-</dd><dd>
-<p>A side-benefit of how integrity is implemented in KERI is <a href="non-repudiable">non-repudiation</a> - done via a crypto-hash verification via the signer’s public key - is not inherent in the meaning of integrity.</p>
-</dd><dd>
-<p>Furthermore for KERI integrity, as an assessment of the substance or the content itself, does not fall within its narrow definition. <strong>Our criterium is cryptographic verifiability</strong>. Once you can’t verify, for KERI this type of non-technical integrity is not included in <code>integrity</code>. For the same reason we wouldn’t use <a href="validate">validation</a>* as a mechanism to prove integrity.</p>
-</dd><dd>
-<p>Integrity (of a message or data) means that the information is whole, sound, and unimpaired (not necessarily correct). It means nothing is missing from the information; it is complete and in intended good order.</p>
-</dd><dd>
-<p>Source: Neil Thomson</p>
+<p>Note: Integrity in ACDCs is “self-verifying”: the <a class="term-reference" href="#term:self-addressing-identifier)">self-addressing-identifier)</a> that is contained in the data is also the of hash of the data.</p>
 </dd><dd>
 <p>More in <a href="https://weboftrust.github.io/WOT-terms/docs/glossary/integrity">extended KERI glossary</a></p>
 </dd><dt class="term-local"><span id="term:interaction-event"><span id="term:interaction-event">interaction-event</span></span></dt><dd>
@@ -3056,7 +3046,7 @@ available at
     </ul></div>
             </div>
             <hr>
-            <p class="ps-3 pe-3" id="w3c-state">W3C Recommendation, 06 September 2025</p>
+            <p class="ps-3 pe-3" id="w3c-state">W3C Recommendation, 28 September 2025</p>
         </div>
     </div>
 
