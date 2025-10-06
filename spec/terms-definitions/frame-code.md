@@ -1,3 +1,3 @@
-[[def: frame-code, frame code]]
+[[def: frame-code, Frame code]]
 
 ~ [[ref: framing-code]]

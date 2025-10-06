@@ -1,4 +1,4 @@
-[[def: cigar, cigar]]
+[[def: cigar]]
 
 ~ An **_un_**[[ref: indexed-signature]].   
 ~ [Source](https://github.com/WebOfTrust/cesride#terminology) by Jason Colburne

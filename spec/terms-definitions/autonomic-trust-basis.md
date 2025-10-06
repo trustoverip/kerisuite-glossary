@@ -1,4 +1,4 @@
-[[def: autonomic-trust-basis, autonomic trust basis]]
+[[def: autonomic-trust-basis, Autonomic trust basis]]
 
 ~ When we use an [[ref: AID]] as the [[ref: root-of-trust]] we form a so-called *autonomic trust basis*. This is diagrammed as follows:
 

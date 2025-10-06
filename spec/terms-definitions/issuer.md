@@ -1,4 +1,4 @@
-[[def: issuer, issuer]]
+[[def: issuer, Issuer]]
 
 ~ a role of an entity that asserts claims and creates an ACDC from these claims.  
 ~ Source: Dr. S. Smith

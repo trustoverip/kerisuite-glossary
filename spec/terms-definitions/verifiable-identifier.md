@@ -1,3 +1,1 @@
-[[tref: toip1, verifiable identifier]]
-
-~ No local definition found.
+[[tref: toip1, verifiable-identifier, Verifiable identifier, VID]]

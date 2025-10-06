@@ -1,3 +1,1 @@
-[[tref: toip1, non-transferable-identifier]]
-
-~ No local definition found.
+[[tref: toip1, non-transferable-identifier, Non-transferable identifier]]

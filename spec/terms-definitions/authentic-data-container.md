@@ -1,4 +1,4 @@
-[[def: authentic-data-container, authentic-data container]]
+[[def: authentic-data-container, authentic-data container, ADC]]
 
 ~ A mechanism for conveying data that allows the [[ref: authenticity]] of its content to be proved.
 

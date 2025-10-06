@@ -1,4 +1,4 @@
-[[def: percolated-information-discovery, percolated information discovery]]
+[[def: percolated-information-discovery, Percolated information discovery, PID]]
 
 ~ In the [[ref: OOBI]] protocol, a discovery mechanism for the [[ref: KERI]] and the [[ref: ACDC]] protocols is provided by a bootstrap that enables Percolated Information Discovery (PID), which is based on Invasion Percolation Theory.
 

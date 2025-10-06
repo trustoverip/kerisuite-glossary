@@ -1,4 +1,4 @@
-[[def: ledger-backer, ledger backer]]
+[[def: ledger-backer, Ledger backer]]
 
 ~ A [[ref: witness]] in KERI that is ledger-registered. It's a type of [[ref: backer]] that proof its authenticity by a signing key anchored to the public key of a data item on a (public) blockchain.
 

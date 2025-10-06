@@ -1,4 +1,4 @@
-[[def: indexed-signature, indexed signature]]
+[[def: indexed-signature, Indexed signature]]
 
 ~ Also called _siger_. An indexed signature attachment is used when signing anything with a multi-key autonomic identifier. The index is included as part of the attachment, so a verifier knows which of the multiple public keys was used to generate a specific signature.  
 ~ Source:Philip Feairheller

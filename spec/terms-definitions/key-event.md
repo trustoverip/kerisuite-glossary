@@ -1,4 +1,4 @@
-[[def: key-event, key event]]
+[[def: key-event, Key event]]
 
 ~ See the more general TrustoverIP concept of key-event: [[xref: toip1, key event]]
 

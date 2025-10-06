@@ -1,4 +1,4 @@
-[[def: interleaved-serialization, interleaved serialization]]
+[[def: interleaved-serialization, Interleaved serialization]]
 
 ~ Serializations of different types interleaved in an overarching format
 

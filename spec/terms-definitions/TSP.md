@@ -1,3 +1,3 @@
-[[def: TSP, tsp]]
+[[def: TSP, TSP, tsp]]
 
 ~ [[ref: trust-spanning-protocol]]

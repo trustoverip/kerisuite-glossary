@@ -1,4 +1,4 @@
-[[def: out-of-band-introduction, out-of-band introduction]]
+[[def: out-of-band-introduction, Out-of-band introduction, OOBI]]
 
 ~ Out-of-band Introductions (OOBIs) are discovery and validation of IP resources for [[ref: key-event-receipt-infrastructure]] autonomic identifiers. **Discovery via URI, trust via KERI.**
 

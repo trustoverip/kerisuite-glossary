@@ -1,4 +1,4 @@
-[[def: issuance-exchange, issuance exchange]]
+[[def: issuance-exchange, Issuance exchange]]
 
 ~ A special case of a [[ref: presentation-exchange]] where the [[ref: discloser]] is the [[ref: issuer]] of the origin (Primary) ACDC of the [[ref: directed-acyclic-graph]] formed by the set of chained [[ref: authentic-chained-data-container]]s so disclosed.
 

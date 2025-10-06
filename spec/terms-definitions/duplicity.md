@@ -1,4 +1,4 @@
-[[def: duplicity, duplicity]]
+[[def: duplicity, Duplicity]]
 
 ~ the existence of more than one version of a Verifiable [[ref: key-event-log]] for a given [[ref: AID]].  
 ~ Source: Dr. S.Smith, 2024

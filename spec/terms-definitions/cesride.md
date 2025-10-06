@@ -1,4 +1,4 @@
-[[def: cesride, cesride]]
+[[def: cesride, Cesride]]
 
 ~ is concerned with parsing CESR primitives.
 

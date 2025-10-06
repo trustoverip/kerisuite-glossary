@@ -1,4 +1,4 @@
-[[def: ghost-credential, ghost credential]]
+[[def: ghost-credential, Ghost credential]]
 
 ~ Is a valid credential within in a 90 days grace period (the revocation transaction time frame before it's booked to revocation registry). 
 

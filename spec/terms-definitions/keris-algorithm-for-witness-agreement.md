@@ -1,4 +1,4 @@
-[[def: keri’s-algorithm-for-witness-agreement, keri’s algorithm for witness agreement]]
+[[def: keris-algorithm-for-witness-agreement, KERI's algorithm for witness agreement, KAWA]]
 
 ~ a type of Byzantine Fault Tolerant ([[ref: byzantine-fault-tolerance]]) algorithm.  
 ~ Source: Dr. S.Smith

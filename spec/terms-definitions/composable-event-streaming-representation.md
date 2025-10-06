@@ -1,4 +1,4 @@
-[[def: composable-event-streaming-representation, composable event streaming representation]]
+[[def: composable-event-streaming-representation, composable event streaming representation, CESR]]
 
 ~ Also called 'CESR'. This compact encoding scheme fully supports both textual and binary streaming applications of attached crypto material of all types. This approach includes [[ref: composability]] in both the textual and binary streaming domains. The [[ref: primitive]] may be the minimum possible but still composable size. 
 

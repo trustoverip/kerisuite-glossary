@@ -1,4 +1,4 @@
-[[def: correlation, correlation]]
+[[def: correlation, Correlation]]
 
 ~ In our scope this is an identifier used to indicate that external parties have observed how wallet contents are related. 
 

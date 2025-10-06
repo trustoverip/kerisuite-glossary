@@ -1,4 +1,4 @@
-[[def: self-addressing-identifier, self-addressing identifier, SAID]]
+[[def: self-addressing-identifier, Self-addressing identifier, SAID]]
 
 ~ any identifier that is deterministically generated out of the content, or a digest of the content.  
 ~ Source: Dr. S. Smtih

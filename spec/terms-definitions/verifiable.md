@@ -4,6 +4,6 @@
 ~ Source: Dr. S. Smith
 
 ~ Explanation: 
-Able to cryptographically verify a certain data structure on its [[ref: inconsistency]] and its [[ref: authenticity]]
+~ Able to cryptographically verify a certain data structure on its [[ref: inconsistency]] and its [[ref: authenticity]]
 
 ~ More in <a href="https://weboftrust.github.io/WOT-terms/docs/glossary/verifiable">extended KERI glossary</a>

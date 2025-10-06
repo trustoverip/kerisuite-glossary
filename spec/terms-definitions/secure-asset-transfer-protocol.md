@@ -1,4 +1,4 @@
-[[def: secure-asset-transfer-protocol, secure asset-transfer protocol]]
+[[def: secure-asset-transfer-protocol, Secure asset-transfer protocol]]
 
 ~ An IETF protocol (and working group) in the making (as of mid 2022) for moving assets between blockchains.
 

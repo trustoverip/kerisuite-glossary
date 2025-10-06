@@ -1,4 +1,4 @@
-[[def: qry, qry]]
+[[def: qry]]
 
 ~ qry = query
 

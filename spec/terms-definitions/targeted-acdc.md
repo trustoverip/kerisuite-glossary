@@ -1,4 +1,4 @@
-[[def: targeted-acdc, targeted acdc]]
+[[def: targeted-acdc, Targeted acdc]]
 
 ~ an ACDC with the presence of the Issuee field in the attribute or attribute aggregate sections.  
 ~ Source: Dr. S.Smith

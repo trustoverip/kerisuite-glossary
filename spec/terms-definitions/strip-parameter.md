@@ -1,4 +1,4 @@
-[[def: strip-parameter, strip parameter]]
+[[def: strip-parameter, Strip parameter]]
 
 ~ tells us what part of the [[ref: CESR]] stream will be parsed by which code.
 

@@ -1,4 +1,4 @@
-[[def: revocation-event, revocation event]]
+[[def: revocation-event, Revocation event]]
 
 ~ An event that revokes [[ref: control-authority]] over an [[ref: identifier]]. From that point in time the authoritative key-pairs at hand are not valid anymore.
 

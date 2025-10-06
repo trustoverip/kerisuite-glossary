@@ -1,4 +1,4 @@
-[[def: configuration-traits, configuration traits]]
+[[def: configuration-traits, Configuration traits]]
 
 ~ a list of specially defined strings representing a configuration of a KEL. 
 ~ Source: Dr. S.Smith, 2024

@@ -1,4 +1,4 @@
-[[def: key-event-receipt-infrastructure, key event receipt infrastructure]]
+[[def: key-event-receipt-infrastructure, Key event receipt infrastructure, KERI]]
 
 ~ or the KERI protocol, is an identity system-based secure overlay for the Internet.  
 ~ Source: Dr. S.Smtih

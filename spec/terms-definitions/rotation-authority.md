@@ -1,4 +1,4 @@
-[[def: rotation-authority, rotation authority]]
+[[def: rotation-authority, Rotation authority]]
 
 ~ The (exclusive) right to rotate the authoritative key pair and establish changed control authority.
 

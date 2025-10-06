@@ -1,4 +1,4 @@
-[[def: exp, exp]]
+[[def: exp]]
 
 ~ exp = expose, sealed data exposition
 

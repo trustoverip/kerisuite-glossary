@@ -1,3 +1,1 @@
-[[tref: toip1, non-repudiable]]
-
-~ No local definition found.
+[[tref: toip1, non-repudiable, Non-repudiable]]

@@ -1,4 +1,4 @@
-[[def: issuee, issuee]]
+[[def: issuee, Issuee]]
 
 ~ a role of an entity to which the claims of an ACDC are asserted.  
 ~ Source: Dr. S. Smith

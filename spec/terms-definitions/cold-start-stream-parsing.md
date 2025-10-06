@@ -1,4 +1,4 @@
-[[def: cold-start-stream-parsing, cold start stream parsing]]
+[[def: cold-start-stream-parsing, Cold start stream parsing]]
 
 ~ After a reboot (or cold start), a stream processor looks for framing information to know how to parse groups of elements in the stream. 
 

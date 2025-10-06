@@ -1,3 +1,1 @@
-[[tref: toip1, persistent-identifier]]
-
-~ No local definition found.
+[[tref: toip1, persistent-identifier, Persistent identifier]]

@@ -1,4 +1,4 @@
-[[def: text-binary-concatenation-composability, text-binary-concatenation composability]]
+[[def: text-binary-concatenation-composability, Text-binary-concatenation composability]]
 
 ~ An encoding has _composability_ when any set of [[ref: self-framing]] concatenated primitives expressed in either the text domain or binary domain may be converted as a group to the other domain and back again without loss.
 

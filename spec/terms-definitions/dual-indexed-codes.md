@@ -1,4 +1,4 @@
-[[def: dual-indexed-codes, dual indexed codes]]
+[[def: dual-indexed-codes, Dual indexed codes]]
 
 ~ a context-specific coding scheme, for the common use case of thresholded multi-signature schemes in [[ref: CESR]].
 

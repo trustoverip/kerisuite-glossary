@@ -1,4 +1,4 @@
-[[def: receipt, receipt]]
+[[def: receipt, Receipt]]
 
 ~ event message or reference with one or more witness signatures.
 

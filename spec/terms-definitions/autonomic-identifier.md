@@ -1,4 +1,4 @@
-[[def: autonomic-identifier, autonomic identifier, autonomic identifiers, AID]]
+[[def: autonomic-identifier, Autonomic identifier, Autonomic identifiers, AID]]
 
 ~ a self-managing cryptonymous identifier that must be self-certifying (self-authenticating) and must be encoded in CESR as a qualified Cryptographic primitive.  
 ~ Source: Dr. S.Smith, 2024

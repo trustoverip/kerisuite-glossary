@@ -1,4 +1,4 @@
-[[def: keri-suite, keri suite]]
+[[def: keri-suite, KERISuite, KERI suite]]
 
 ~ An open-source codebase centered on KERI, with supporting tools like ACDC, CESR, OOBI, KERIA, and Signify — all designed to work together for secure, decentralized key management and identity infrastructure.
 

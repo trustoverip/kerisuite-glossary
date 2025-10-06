@@ -1,4 +1,4 @@
-[[def: multi-valent, multi valent]]
+[[def: multi-valent, Multi valent]]
 
 ~ A [[ref: delegator]] may have multiple [[ref: delegate]], thereby enabling elastic horizontal scalability. Multiple delegates from a single delegator. Furthermore, each delegate may act as a delegator for its own delegates to form a *nested delegation tree*.
 

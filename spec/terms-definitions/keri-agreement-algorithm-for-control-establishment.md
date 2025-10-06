@@ -1,4 +1,4 @@
-[[def: keri-agreement-algorithm-for-control-establishment, keri agreement algorithm for control establishment]]
+[[def: keri-agreement-algorithm-for-control-establishment, keri agreement algorithm for control establishment, KAWA]]
 
 ~ Agreement on an event in a key event log [[ref: KEL]] means each [[ref: witness]] has observed the exact version of the event and each witness’ [[ref: receipt]] has been received by every other witness.
 

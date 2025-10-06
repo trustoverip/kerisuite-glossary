@@ -1,4 +1,4 @@
-[[def: RUN, RUN]]
+[[def: RUN]]
 
 ~ The acronym for the new peer-to-peer end-verifiable monotonic update policy is RUN (**Read, Update, Nullify**). 
 

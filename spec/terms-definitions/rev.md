@@ -1,4 +1,4 @@
-[[def: rev, rev]]
+[[def: rev]]
 
 ~ rev = vc revoke, verifiable credential revocation
 

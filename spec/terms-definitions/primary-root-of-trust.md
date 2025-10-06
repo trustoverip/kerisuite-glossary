@@ -1,4 +1,4 @@
-[[def: primary-root-of-trust, primary root-of-trust]]
+[[def: primary-root-of-trust, Primary root-of-trust]]
 
 ~ In KERI a [[ref: root-of-trust]] that is cryptographically verifiable all the way to its current controlling key pair in a PKI. 
 

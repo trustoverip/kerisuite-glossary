@@ -1,4 +1,4 @@
-[[def: keride, keride]]
+[[def: keride, Keride]]
 
 ~ is a _Rust_ programming language library for [[ref: key-event-receipt-infrastructure]]. Among its features
 ~  is [[ref: CESR]], signing, prefixing, pathing, and parsing.  

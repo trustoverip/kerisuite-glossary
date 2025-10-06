@@ -1,4 +1,4 @@
-[[def: fully-expanded, fully expanded]]
+[[def: fully-expanded, Fully expanded]]
 
 ~ The most user-friendly version of an [[ref: ACDC]] credential. It doesn't need to be signed and typically is not signed since the most compact version which is signed can be computed from this form and then the signature can be looked up in the [[ref: TEL]] of the ACDC in question. 
 

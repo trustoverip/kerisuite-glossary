@@ -1,4 +1,4 @@
-[[def: stream]]
+[[def: stream, Stream]]
 
 ~ a [[ref: CESR]] Stream is any set of concatenated Primitives, concatenated groups of Primitives, or hierarchically composed groups of [[ref: primitive]]s.  
 ~ Source: Dr. S. Smith

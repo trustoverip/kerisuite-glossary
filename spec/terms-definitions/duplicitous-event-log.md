@@ -1,4 +1,4 @@
-[[def: duplicitous-event-log, duplicitous event log]]
+[[def: duplicitous-event-log, Duplicitous event log, DEL]]
 
 ~ This is a record of inconsistent event messages produced by a given controller or witness with respect to a given [[ref: key-event-receipt-log]]. The duplicitous events are indexed to the corresponding event in a KERL. 
 

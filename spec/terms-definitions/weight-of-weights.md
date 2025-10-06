@@ -1,4 +1,4 @@
-[[def: weight-of-weights, weight of weights]]
+[[def: weight-of-weights, Weight of weights]]
 
 ~ There are 2 levels in the multi-sign weighted thresholds of [[ref: multisig]] in [[ref: KERI]] because the solution only needs to focus on _tightly cooperating teams_.
 ~ - An individual using split keys over devices
