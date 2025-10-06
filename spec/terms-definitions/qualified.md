@@ -1,4 +1,4 @@
-[[def: qualified, qualified]]
+[[def: qualified, Qualified]]
 
 ~ When qualified, a cryptographic primitive includes a prepended derivation code (as a [[ref: proem]]), that indicates the cryptographic algorithm or suite used for that derivation. 
 

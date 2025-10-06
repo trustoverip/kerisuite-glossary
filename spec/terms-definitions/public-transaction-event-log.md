@@ -1,4 +1,4 @@
-[[def: public-transaction-event-log, public transaction event log]]
+[[def: public-transaction-event-log, Public transaction event log, PTEL]]
 
 ~ is a public hash-linked data structure of transactions that can be used to track state anchored to a [[ref: key-event-log]].
 

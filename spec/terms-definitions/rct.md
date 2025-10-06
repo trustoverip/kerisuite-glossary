@@ -1,4 +1,4 @@
-[[def: rct, rct]]
+[[def: rct]]
 
 ~ rct = receipt
 

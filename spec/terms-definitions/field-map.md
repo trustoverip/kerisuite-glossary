@@ -1,4 +1,4 @@
-[[def: field-map, field map]]
+[[def: field-map, Field map]]
 
 ~ A traditional `key:value` pair renamed to avoid confusing with the cryptographic use of the term 'key'.
 

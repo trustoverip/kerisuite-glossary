@@ -1,4 +1,4 @@
-[[def: redundant-credential, redundant credential]]
+[[def: redundant-credential, Redundant credential]]
 
 ~ Multiple credentials issued by the same issuer (e.g. a [[ref: QVI]]). They do not have anything to do with each other. They are independently valid.
 

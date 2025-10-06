@@ -1,4 +1,4 @@
-[[def: ksn, ksn]]
+[[def: ksn]]
 
 ~ ksn = state, key state notice
 

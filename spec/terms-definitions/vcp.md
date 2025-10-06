@@ -1,4 +1,4 @@
-[[def: vcp, vcp]]
+[[def: vcp]]
 
 ~ vcp = vdr incept, verifiable data registry inception
 

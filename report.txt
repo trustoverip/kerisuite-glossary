@@ -1,0 +1,808 @@
+      Version: 3.0
+      Location: /System/Applications/App Store.app
+      Version: 2.10
+      Location: /System/Applications/Automator.app
+      Version: 7.6
+      Location: /System/Applications/Books.app
+      Version: 11.0
+      Location: /System/Applications/Calculator.app
+      Version: 15.0
+      Location: /System/Applications/Calendar.app
+      Version: 3.18
+      Location: /System/Applications/Chess.app
+      Version: 1.1
+      Location: /System/Applications/Clock.app
+      Version: 14.0
+      Location: /System/Applications/Contacts.app
+      Version: 2.3.0
+      Location: /System/Applications/Dictionary.app
+      Version: 36
+      Location: /System/Applications/FaceTime.app
+      Version: 4.0
+      Location: /System/Applications/FindMy.app
+      Version: 11.0
+      Location: /System/Applications/Font Book.app
+      Version: 3.5
+      Location: /System/Applications/Freeform.app
+      Version: 9.0
+      Location: /System/Applications/Home.app
+      Version: 8.0
+      Location: /System/Applications/Image Capture.app
+      Version: 1.0
+      Location: /System/Applications/Image Playground.app
+      Version: 1.0
+      Location: /System/Applications/Launchpad.app
+      Version: 16.0
+      Location: /System/Applications/Mail.app
+      Version: 3.0
+      Location: /System/Applications/Maps.app
+      Version: 14.0
+      Location: /System/Applications/Messages.app
+      Version: 1.2
+      Location: /System/Applications/Mission Control.app
+      Version: 1.5.6
+      Location: /System/Applications/Music.app
+      Version: 4.12.7
+      Location: /System/Applications/Notes.app
+      Version: 1.6
+      Location: /System/Applications/Passwords.app
+      Version: 13.1
+      Location: /System/Applications/Photo Booth.app
+      Version: 10.0
+      Location: /System/Applications/Photos.app
+      Version: 1.1.0
+      Location: /System/Applications/Podcasts.app
+      Version: 11.0
+      Location: /System/Applications/Preview.app
+      Version: 10.5
+      Location: /System/Applications/QuickTime Player.app
+      Version: 7.0
+      Location: /System/Applications/Reminders.app
+      Version: 7.0
+      Location: /System/Applications/Shortcuts.app
+      Version: 1.0
+      Location: /System/Applications/Siri.app
+      Version: 10.3
+      Location: /System/Applications/Stickies.app
+      Version: 7.4
+      Location: /System/Applications/Stocks.app
+      Version: 15.0
+      Location: /System/Applications/System Settings.app
+      Version: 1.5.6
+      Location: /System/Applications/TV.app
+      Version: 1.20
+      Location: /System/Applications/TextEdit.app
+      Version: 1.3
+      Location: /System/Applications/Time Machine.app
+      Version: 15.6
+      Location: /System/Applications/Tips.app
+      Version: 10.14
+      Location: /System/Applications/Utilities/Activity Monitor.app
+      Version: 6.3.9
+      Location: /System/Applications/Utilities/AirPort Utility.app
+      Version: 3.6
+      Location: /System/Applications/Utilities/Audio MIDI Setup.app
+      Version: 9.0
+      Location: /System/Applications/Utilities/Bluetooth File Exchange.app
+      Version: 6.1.0
+      Location: /System/Applications/Utilities/Boot Camp Assistant.app
+      Version: 12.1.0
+      Location: /System/Applications/Utilities/ColorSync Utility.app
+      Version: 1.1
+      Location: /System/Applications/Utilities/Console.app
+      Version: 5.26
+      Location: /System/Applications/Utilities/Digital Color Meter.app
+      Version: 22.7
+      Location: /System/Applications/Utilities/Disk Utility.app
+      Version: 2.7
+      Location: /System/Applications/Utilities/Grapher.app
+      Version: 15.6
+      Location: /System/Applications/Utilities/Migration Assistant.app
+      Version: 1.0
+      Location: /System/Applications/Utilities/Print Center.app
+      Version: 5.3
+      Location: /System/Applications/Utilities/Screen Sharing.app
+      Version: 1.0
+      Location: /System/Applications/Utilities/Screenshot.app
+      Version: 2.11
+      Location: /System/Applications/Utilities/Script Editor.app
+      Version: 11.0
+      Location: /System/Applications/Utilities/System Information.app
+      Version: 2.14
+      Location: /System/Applications/Utilities/Terminal.app
+      Version: 10
+      Location: /System/Applications/Utilities/VoiceOver Utility.app
+      Version: 3.1
+      Location: /System/Applications/VoiceMemos.app
+      Version: 5.1
+      Location: /System/Applications/Weather.app
+      Version: 1.3
+      Location: /System/Applications/iPhone Mirroring.app
+      Version: 1.0
+      Location: /System/Library/CoreServices/Applications/About This Mac.app
+      Version: 10.15
+      Location: /System/Library/CoreServices/Applications/Archive Utility.app
+      Version: 6.0
+      Location: /System/Library/CoreServices/Applications/DVD Player.app
+      Version: 2.0
+      Location: /System/Library/CoreServices/Applications/Desk View.app
+      Version: 6.4
+      Location: /System/Library/CoreServices/Applications/Directory Utility.app
+      Version: 2.0
+      Location: /System/Library/CoreServices/Applications/Expansion Slot Utility.app
+      Version: 5.1
+      Location: /System/Library/CoreServices/Applications/Feedback Assistant.app
+      Version: 1.2
+      Location: /System/Library/CoreServices/Applications/Folder Actions Setup.app
+      Version: 1.0
+      Location: /System/Library/CoreServices/UIKitSystem.app
+      Version: 7.0
+      Location: /System/Library/CoreServices/UniversalAccessControl.app
+      Version: 1.0
+      Location: /System/Library/CoreServices/UniversalControl.app
+      Version: 5.0
+      Location: /System/Library/CoreServices/UnmountAssistantAgent.app
+      Version: 82
+      Location: /System/Library/CoreServices/UserNotificationCenter.app
+      Version: 10
+      Location: /System/Library/CoreServices/VoiceOver.app
+      Version: 1.0
+      Location: /System/Library/CoreServices/WallpaperAgent.app
+      Version: 1.0
+      Location: /System/Library/CoreServices/WatchFaceAlert.app
+      Version: 17.0
+      Location: /System/Library/CoreServices/WiFiAgent.app
+      Version: 1.0
+      Location: /System/Library/CoreServices/WidgetKit Simulator.app
+      Version: 278.4.7
+      Location: /System/Library/CoreServices/WindowManager.app
+      Version: 1.0
+      Location: /System/Library/CoreServices/WindowManagerShowDesktopEducation.app
+      Version: 1.0
+      Location: /System/Library/CoreServices/WorkoutAlert-Mac.app
+      Version: 1.0
+      Location: /System/Library/CoreServices/iCloud+.app
+      Version: 1.0
+      Location: /System/Library/CoreServices/iCloud.app
+      Location: /System/Library/CoreServices/liquiddetectiond.app
+      Version: 9.0
+      Location: /System/Library/CoreServices/loginwindow.app
+      Version: 362
+      Location: /System/Library/CoreServices/rcd.app
+      Version: 1.0
+      Location: /System/Library/CoreServices/screencaptureui.app
+      Version: 14.0
+      Location: /System/Library/Frameworks/AddressBook.framework/Helpers/AddressBookSync.app
+      Version: 14.0
+      Location: /System/Library/Frameworks/AddressBook.framework/Versions/A/Helpers/ABAssistantService.app
+      Version: 14.0
+      Location: /System/Library/Frameworks/AddressBook.framework/Versions/A/Helpers/AddressBookManager.app
+      Version: 14.0
+      Location: /System/Library/Frameworks/AddressBook.framework/Versions/A/Helpers/AddressBookSourceSync.app
+      Version: 81.0
+      Location: /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ATS.framework/Versions/A/Support/FontRegistryUIAgent.app
+      Version: 9.2.22
+      Location: /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/SpeechSynthesis.framework/Versions/A/System Speech.app
+      Version: 1.0
+      Location: /System/Library/Frameworks/CoreMediaIO.framework/Versions/A/Resources/CinematicFramingOnboardingUI.app
+      Version: 1.0
+      Location: /System/Library/Frameworks/CoreMediaIO.framework/Versions/A/Resources/ContinuityCaptureOnboardingUI.app
+      Version: 1.0
+      Location: /System/Library/Frameworks/CryptoTokenKit.framework/ctkbind.app
+      Version: 1.0
+      Location: /System/Library/Frameworks/QuickLook.framework/Versions/A/Resources/qlmanage.app
+      Version: 5.0
+      Location: /System/Library/Frameworks/QuickLook.framework/Versions/A/Resources/quicklookd.app
+      Version: 1.0
+      Location: /System/Library/Frameworks/QuickLookUI.framework/Versions/A/Resources/Quick Look Simulator.app
+      Version: 5.0
+      Location: /System/Library/Frameworks/QuickLookUI.framework/Versions/A/Resources/QuickLookUIHelper.app
+      Version: 8.1
+      Location: /System/Library/Frameworks/SyncServices.framework/Versions/A/Resources/SyncServer.app
+      Version: 8.5.9
+      Location: /System/Library/Frameworks/Tk.framework/Versions/8.5/Resources/Wish.app
+      Version: 10.1
+      Location: /System/Library/Image Capture/Automatic Tasks/Build Web Page.app
+      Version: 10.1
+      Location: /System/Library/Image Capture/Automatic Tasks/MakePDF.app
+      Version: 18
+      Location: /System/Library/Image Capture/Devices/AirScanScanner.app
+      Version: 1.1.0
+      Location: /System/Library/Input Methods/50onPaletteServer.app
+      Version: 1.0
+      Location: /System/Library/Input Methods/AinuIM.app
+      Version: 2.0
+      Location: /System/Library/Input Methods/Assistive Control.app
+      Version: 2.0.1
+      Location: /System/Library/Input Methods/CharacterPalette.app
+      Version: 6.2.9.4
+      Location: /System/Library/Input Methods/DictationIM.app
+      Version: 1.0
+      Location: /System/Library/Input Methods/EmojiFunctionRowIM.app
+      Version: 6.3
+      Location: /System/Library/Input Methods/JapaneseIM-KanaTyping.app
+      Version: 6.3
+      Location: /System/Library/Input Methods/JapaneseIM-RomajiTyping.app
+      Version: 1.0
+      Location: /System/Library/Input Methods/KoreanIM.app
+      Version: 26.200
+      Location: /System/Library/Input Methods/PluginIM.app
+      Version: 1.0
+      Location: /System/Library/Input Methods/PressAndHold.app
+      Version: 104
+      Location: /System/Library/Input Methods/SCIM.app
+      Version: 104
+      Location: /System/Library/Input Methods/TCIM.app
+      Version: 104
+      Location: /System/Library/Input Methods/TYIM.app
+      Version: 1.6
+      Location: /System/Library/Input Methods/TamilIM.app
+      Version: 1.0
+      Location: /System/Library/Input Methods/TrackpadIM.app
+      Version: 1.0
+      Location: /System/Library/Input Methods/TransliterationIM.app
+      Version: 1.0
+      Location: /System/Library/Input Methods/VietnameseIM.app
+      Version: 1.0
+      Location: /System/Library/PrivateFrameworks/AOSAccounts.framework/Versions/A/Resources/iCloudUserNotificationsd.app
+      Version: 1.07
+      Location: /System/Library/PrivateFrameworks/AOSKit.framework/Versions/A/Helpers/AOSAlertManager.app
+      Version: 1.07
+      Location: /System/Library/PrivateFrameworks/AOSKit.framework/Versions/A/Helpers/AOSHeartbeat.app
+      Version: 1.07
+      Location: /System/Library/PrivateFrameworks/AOSKit.framework/Versions/A/Helpers/AOSPushRelay.app
+      Version: 1.0
+      Location: /System/Library/PrivateFrameworks/AccessibilitySharedSupport.framework/Versions/A/Resources/Live Captions.app
+      Version: 1.0
+      Location: /System/Library/PrivateFrameworks/AccessibilitySharedSupport.framework/Versions/A/Resources/LiveSpeech.app
+      Version: 1.0
+      Location: /System/Library/PrivateFrameworks/AccessibilitySupport.framework/Versions/A/Resources/AccessibilityVisualsAgent.app
+      Version: 1.0
+      Location: /System/Library/PrivateFrameworks/AmbientDisplay.framework/Versions/A/Resources/Calibration Assistant.app
+      Version: 1.0
+      Location: /System/Library/PrivateFrameworks/AppSSO.framework/Support/AppSSOAgent.app
+      Version: 1.0
+      Location: /System/Library/PrivateFrameworks/AppSSOKerberos.framework/Support/KerberosMenuExtra.app
+      Version: 1.0
+      Location: /System/Library/PrivateFrameworks/AppleMediaServicesUI.framework/Versions/A/Resources/AMSEngagementViewService.app
+      Version: 1.0
+      Location: /System/Library/PrivateFrameworks/AskPermission.framework/Versions/A/Resources/AskPermissionUI.app
+      Version: 1.0
+      Location: /System/Library/PrivateFrameworks/AutoFillUI.framework/Contents/AutoFillPanelService.app
+      Version: 1.0
+      Location: /System/Library/PrivateFrameworks/AutomationMode.framework/AutomationModeUI.app
+      Version: 1.0
+      Location: /System/Library/PrivateFrameworks/BackgroundTaskManagement.framework/Support/BackgroundTaskManagementAgent.app
+      Version: 1.0
+      Location: /System/Library/PrivateFrameworks/CommerceKit.framework/Versions/A/Resources/storeuid.app
+      Version: 104
+      Location: /System/Library/PrivateFrameworks/CoreChineseEngine.framework/Versions/A/SharedSupport/CIMFindInputCodeTool.app
+      Version: 1.0
+      Location: /System/Library/PrivateFrameworks/CoreFollowUp.framework/Versions/A/Resources/FollowUpUI.app
+      Version: 671.140.2
+      Location: /System/Library/PrivateFrameworks/DiskImages.framework/Versions/A/Resources/DiskImages UI Agent.app
+      Version: 13.0
+      Location: /System/Library/PrivateFrameworks/EAP8021X.framework/Support/eaptlstrust.app
+      Version: 4.1
+      Location: /System/Library/PrivateFrameworks/FamilyControls.framework/Versions/A/Resources/ParentalControls.app
+      Version: 1.0
+      Location: /System/Library/PrivateFrameworks/FeedbackService.framework/Versions/A/Support/FeedbackRemoteView.app
+      Version: 4.1
+      Location: /System/Library/PrivateFrameworks/FindMyMac.framework/Versions/A/Resources/FindMyMacMessenger.app
+      Version: 10.0
+      Location: /System/Library/PrivateFrameworks/IDS.framework/identityservicesd.app
+      Version: 10.0
+      Location: /System/Library/PrivateFrameworks/IDSFoundation.framework/IDSRemoteURLConnectionAgent.app
+      Version: 10.0
+      Location: /System/Library/PrivateFrameworks/IMCore.framework/imagent.app
+      Version: 10.0
+      Location: /System/Library/PrivateFrameworks/IMDPersistence.framework/IMAutomaticHistoryDeletionAgent.app
+      Version: 10.0
+      Location: /System/Library/PrivateFrameworks/IMTransferServices.framework/IMTransferAgent.app
+      Version: 1.0
+      Location: /System/Library/PrivateFrameworks/Noticeboard.framework/Versions/A/Resources/nbagent.app
+      Version: 1.0
+      Location: /System/Library/PrivateFrameworks/PaperKit.framework/Contents/LinkedNotesUIService.app
+      Version: 2260.19
+      Location: /System/Library/PrivateFrameworks/PrivateCloudCompute.framework/privatecloudcomputed.app
+      Version: 10
+      Location: /System/Library/PrivateFrameworks/ScreenReader.framework/Versions/A/Resources/ScreenReaderUIServer.app
+      Version: 10
+      Location: /System/Library/PrivateFrameworks/ScreenReader.framework/Versions/A/Resources/VoiceOver Quickstart.app
+      Version: 1.0
+      Location: /System/Library/PrivateFrameworks/SkyLight.framework/Versions/A/Resources/AquaAppearanceHelper.app
+      Version: 1.0
+      Location: /System/Library/PrivateFrameworks/SocialLayer.framework/sociallayerd.app
+      Version: 1.0
+      Location: /System/Library/PrivateFrameworks/SoftwareUpdate.framework/Versions/A/Resources/SoftwareUpdateNotificationManager.app
+      Version: 9.0.72
+      Location: /System/Library/PrivateFrameworks/SpeechObjects.framework/Versions/A/SpeechDataInstallerd.app
+      Version: 9.0.72
+      Location: /System/Library/PrivateFrameworks/SpeechObjects.framework/Versions/A/SpeechRecognitionServer.app
+      Version: 1.0
+      Location: /System/Library/PrivateFrameworks/StorageManagement.framework/Versions/A/Resources/STMUIHelper.app
+      Version: 8.1
+      Location: /System/Library/PrivateFrameworks/SyncServicesUI.framework/Versions/A/Resources/Conflict Resolver.app
+      Version: 8.1
+      Location: /System/Library/PrivateFrameworks/SyncServicesUI.framework/Versions/A/Resources/syncuid.app
+      Version: 1.0
+      Location: /System/Library/PrivateFrameworks/UniversalAccess.framework/Versions/A/Resources/AXVisualSupportAgent.app
+      Version: 1.0
+      Location: /System/Library/PrivateFrameworks/UniversalAccess.framework/Versions/A/Resources/Accessibility Tutorial.app
+      Version: 1.0
+      Location: /System/Library/PrivateFrameworks/UniversalAccess.framework/Versions/A/Resources/DFRHUD.app
+      Version: 1.0
+      Location: /System/Library/PrivateFrameworks/UniversalAccess.framework/Versions/A/Resources/universalAccessAuthWarn.app
+      Version: 54.1
+      Location: /System/Library/PrivateFrameworks/UserActivity.framework/Agents/UASharedPasteboardProgressUI.app
+      Version: 1.0
+      Location: /System/Library/PrivateFrameworks/iCloudDriveCore.framework/Versions/A/Resources/iCloud Drive.app
+      Version: 2.4
+      Location: /System/Library/Services/AppleSpell.service
+      Version: 2.1
+      Location: /System/Library/Services/ChineseTextConverterService.app
+      Version: 1.0
+      Location: /System/Library/Services/OpenSpell.service
+      Version: 9.2.22
+      Location: /System/Library/Services/SpeechService.service
+      Version: 3.0
+      Location: /System/Library/Services/Spotlight.service
+      Version: 2.0
+      Location: /System/Library/Services/Summary Service.app
+      Version: 11.0
+      Location: /System/Library/CoreServices/Applications/Keychain Access.app
+      Version: 4.1
+      Location: /System/Library/CoreServices/Applications/Ticket Viewer.app
+      Version: 11.0
+      Location: /System/Library/CoreServices/Applications/Wireless Diagnostics.app
+      Version: 1.0
+      Location: /System/Library/CoreServices/Applications/iOS App Installer.app
+      Version: 15.5
+      Location: /System/Library/CoreServices/Finder.app
+      Version: 15.5
+      Location: /System/Library/CoreServices/Finder.app/Contents/Applications/AirDrop.app
+      Version: 15.5
+      Location: /System/Library/CoreServices/Finder.app/Contents/Applications/Computer.app
+      Version: 15.5
+      Location: /System/Library/CoreServices/Finder.app/Contents/Applications/Network.app
+      Version: 15.5
+      Location: /System/Library/CoreServices/Finder.app/Contents/Applications/Recents.app
+      Version: 15.5
+      Location: /System/Library/CoreServices/Finder.app/Contents/Applications/iCloud Drive.app
+      Version: 1.0
+      Location: /System/Library/Classroom/ClassroomStudentMenuExtra.app
+      Version: 4.19
+      Location: /System/Library/ColorSync/Calibrators/Display Calibrator.app
+      Version: 1.0
+      Location: /System/Library/CoreServices/AOSUIPrefPaneLauncher.app
+      Version: 1320.3
+      Location: /System/Library/CoreServices/AVB Configuration.app
+      Version: 607
+      Location: /System/Library/CoreServices/AddPrinter.app
+      Version: 14.0
+      Location: /System/Library/CoreServices/AddressBookUrlForwarder.app
+      Version: 2.0
+      Location: /System/Library/CoreServices/AirPlayUIAgent.app
+      Version: 2.2.1
+      Location: /System/Library/CoreServices/AirPort Base Station Agent.app
+      Version: 1.0
+      Location: /System/Library/CoreServices/Apple Diagnostics.app
+      Version: 1.1.2
+      Location: /System/Library/CoreServices/AppleScript Utility.app
+      Version: 1.0
+      Location: /System/Library/CoreServices/AskToMessagesHost.app
+      Version: 1.3
+      Location: /System/Library/CoreServices/Automator Application Stub.app
+      Version: 2.10
+      Location: /System/Library/CoreServices/Automator Installer.app
+      Version: 1.0
+      Location: /System/Library/CoreServices/Batteries.app
+      Version: 9.0
+      Location: /System/Library/CoreServices/BluetoothSetupAssistant.app
+      Version: 9.0
+      Location: /System/Library/CoreServices/BluetoothUIServer.app
+      Version: 1.0
+      Location: /System/Library/CoreServices/BluetoothUIService.app
+      Version: 8.0
+      Location: /System/Library/CoreServices/CalendarFileHandler.app
+      Version: 5.0
+      Location: /System/Library/CoreServices/Captive Network Assistant.app
+      Version: 5.0
+      Location: /System/Library/CoreServices/Certificate Assistant.app
+      Version: 1.0
+      Location: /System/Library/CoreServices/ControlCenter.app
+      Version: 1.0
+      Location: /System/Library/CoreServices/ControlStrip.app
+      Version: 2964.0.8
+      Location: /System/Library/CoreServices/CoreLocationAgent.app
+      Version: 369
+      Location: /System/Library/CoreServices/CoreServicesUIAgent.app
+      Version: 1.0
+      Location: /System/Library/CoreServices/Coverage Details.app
+      Version: 1.0.6
+      Location: /System/Library/CoreServices/Database Events.app
+      Version: 1.0
+      Location: /System/Library/CoreServices/Diagnostics Reporter.app
+      Version: 1.0
+      Location: /System/Library/CoreServices/DiscHelper.app
+      Version: 1.0
+      Location: /System/Library/CoreServices/DiskImageMounter.app
+      Version: 1.8
+      Location: /System/Library/CoreServices/Dock.app
+      Version: 1.0
+      Location: /System/Library/CoreServices/Dwell Control.app
+      Version: 1.0
+      Location: /System/Library/CoreServices/Enhanced Logging.app
+      Version: 1.0
+      Location: /System/Library/CoreServices/Erase Assistant.app
+      Version: 1.0
+      Location: /System/Library/CoreServices/EscrowSecurityAlert.app
+      Version: 1.0
+      Location: /System/Library/CoreServices/Family.app
+      Version: 1.0
+      Location: /System/Library/CoreServices/FileProvider-Feedback.app
+      Version: 1.0
+      Location: /System/Library/CoreServices/FolderActionsDispatcher.app
+      Version: 1.0
+      Location: /System/Library/CoreServices/Game Center.app
+      Version: 1.0
+      Location: /System/Library/CoreServices/IOUIAgent.app
+      Version: 1.1.6
+      Location: /System/Library/CoreServices/Image Events.app
+      Version: 2410
+      Location: /System/Library/CoreServices/Install Command Line Developer Tools.app
+      Version: 3.0
+      Location: /System/Library/CoreServices/Install in Progress.app
+      Version: 1.0
+      Location: /System/Library/CoreServices/Installer Progress.app
+      Version: 6.2.0
+      Location: /System/Library/CoreServices/Installer.app
+      Version: 325
+      Location: /System/Library/CoreServices/JavaLauncher.app
+      Version: 10
+      Location: /System/Library/CoreServices/KeyboardAccessAgent.app
+      Version: 1.0
+      Location: /System/Library/CoreServices/KeyboardSetupAssistant.app
+      Version: 1.0
+      Location: /System/Library/CoreServices/Keychain Circle Notification.app
+      Version: 1.0
+      Location: /System/Library/CoreServices/Language Chooser.app
+      Version: 304.7
+      Location: /System/Library/CoreServices/MTLReplayer.app
+      Version: 17.1
+      Location: /System/Library/CoreServices/ManagedClient.app
+      Version: 1.0
+      Location: /System/Library/CoreServices/MediaMLPluginApp.app
+      Version: 1.5.3
+      Location: /System/Library/CoreServices/Memory Slot Utility.app
+      Version: 1.0
+      Location: /System/Library/CoreServices/MusicRecognitionMac.app
+      Version: 6.2
+      Location: /System/Library/CoreServices/NetAuthAgent.app
+      Version: 1.0
+      Location: /System/Library/CoreServices/NotificationCenter.app
+      Version: 1.0
+      Location: /System/Library/CoreServices/NowPlayingTouchUI.app
+      Version: 9.0
+      Location: /System/Library/CoreServices/OBEXAgent.app
+      Version: 1.9
+      Location: /System/Library/CoreServices/ODSAgent.app
+      Version: 1.0
+      Location: /System/Library/CoreServices/OSDUIHelper.app
+      Version: 1.0
+      Location: /System/Library/CoreServices/PIPAgent.app
+      Version: 6.8.0
+      Location: /System/Library/CoreServices/Paired Devices.app
+      Version: 1.0
+      Location: /System/Library/CoreServices/Pass Viewer.app
+      Version: 1.0
+      Location: /System/Library/CoreServices/PeopleMessageService.app
+      Version: 1.0
+      Location: /System/Library/CoreServices/PeopleViewService.app
+      Version: 1.0
+      Location: /System/Library/CoreServices/PowerChime.app
+      Version: 16.0
+      Location: /System/Library/CoreServices/PreviewShell.app
+      Version: 211.0.1
+      Location: /System/Library/CoreServices/Pro Display Calibrator.app
+      Version: 10.13
+      Location: /System/Library/CoreServices/Problem Reporter.app
+      Version: 1.0
+      Location: /System/Library/CoreServices/ProfileHelper.app
+      Version: 6.8.0
+      Location: /System/Library/CoreServices/RapportUIAgent.app
+      Version: 26.200
+      Location: /System/Library/CoreServices/RegisterPluginIMApp.app
+      Version: 3.9.8
+      Location: /System/Library/CoreServices/RemoteManagement/ARDAgent.app
+      Version: 3.9.8
+      Location: /System/Library/CoreServices/RemoteManagement/Remote Desktop Message.app
+      Version: 3.9.8
+      Location: /System/Library/CoreServices/RemoteManagement/SSMenuAgent.app
+      Version: 1.0
+      Location: /System/Library/CoreServices/Rosetta 2 Updater.app
+      Version: 3.0
+      Location: /System/Library/CoreServices/Screen Time.app
+      Version: 5.0
+      Location: /System/Library/CoreServices/ScreenSaverEngine.app
+      Version: 1
+      Location: /System/Library/CoreServices/Script Menu.app
+      Version: 1.0.1
+      Location: /System/Library/CoreServices/ScriptMonitor.app
+      Version: 10.10
+      Location: /System/Library/CoreServices/Setup Assistant.app
+      Version: 1.0
+      Location: /System/Library/CoreServices/ShortcutDroplet.app
+      Version: 1.0
+      Location: /System/Library/CoreServices/Shortcuts Events.app
+      Location: /System/Library/CoreServices/ShortcutsActions.app
+      Version: 3406.12.1
+      Location: /System/Library/CoreServices/Siri.app
+      Version: 6
+      Location: /System/Library/CoreServices/Software Update.app
+      Version: 1.0
+      Location: /System/Library/CoreServices/SpacesTouchBarAgent.app
+      Version: 1.0
+      Location: /System/Library/CoreServices/Spotlight.app
+      Version: 1.0
+      Location: /System/Library/CoreServices/StageManagerOnboarding.app
+      Version: 1.3.6
+      Location: /System/Library/CoreServices/System Events.app
+      Version: 1.7
+      Location: /System/Library/CoreServices/SystemUIServer.app
+      Version: 1.0
+      Location: /System/Library/CoreServices/TextInputMenuAgent.app
+      Version: 1.1
+      Location: /System/Library/CoreServices/TextInputSwitcher.app
+      Version: 1.0
+      Location: /System/Library/CoreServices/ThermalTrap.app
+      Version: 13
+      Location: /System/Library/CoreServices/TimeMachine/TMHelperAgent.app
+      Version: 1.0
+      Location: /System/Library/CoreServices/TipsSpotlightHandler.app
+      Version: 1.1.6.113.gb388fe17
+      Location: /Users/henkvancann/Library/CloudStorage/GoogleDrive-hvancann@gmail.com/My Drive/ARCHIVE no sync/Computer 2020 clean up/Downloads Mac OUD 2011-2020/Install Spotify 2.app
+      Version: 2.2.0
+      Location: /Users/henkvancann/Library/CloudStorage/GoogleDrive-hvancann@gmail.com/My Drive/ARCHIVE no sync/Computer 2020 clean up/Downloads Mac OUD 2011-2020/Nxt Wallet 2.app
+      Version: Call Recorder v2.3.28 Installer
+      Location: /Users/henkvancann/Library/CloudStorage/GoogleDrive-hvancann@gmail.com/My Drive/ARCHIVE no sync/Computer 2020 clean up/Downloads Mac OUD 2011-2020/Call Recorder Demo v2.3.28 Installer/Install Call Recorder Demo.app
+      Version: 1.0.1
+      Location: /Users/henkvancann/Library/CloudStorage/GoogleDrive-hvancann@gmail.com/My Drive/ARCHIVE no sync/Computer 2020 clean up/Downloads Mac OUD 2011-2020/Call Recorder Demo v2.3.28 Installer/Movie Tools/Marker Editor.app
+      Version: v2.1.4
+      Location: /Users/henkvancann/Library/CloudStorage/GoogleDrive-hvancann@gmail.com/My Drive/ARCHIVE no sync/Computer 2020 clean up/Downloads Mac OUD 2011-2020/Call Recorder Demo v2.3.28 Installer/Movie Tools/Convert To MP3.app
+      Version: v1.1.2
+      Location: /Users/henkvancann/Library/CloudStorage/GoogleDrive-hvancann@gmail.com/My Drive/ARCHIVE no sync/Computer 2020 clean up/Downloads Mac OUD 2011-2020/Call Recorder Demo v2.3.28 Installer/Movie Tools/Split Movie Tracks.app
+      Version: v1.0.3
+      Location: /Users/henkvancann/Library/CloudStorage/GoogleDrive-hvancann@gmail.com/My Drive/ARCHIVE no sync/Computer 2020 clean up/Downloads Mac OUD 2011-2020/Call Recorder Demo v2.3.28 Installer/Movie Tools/Split Sides of Conversation.app
+      Version: 1.0
+      Location: /Users/henkvancann/Library/CloudStorage/GoogleDrive-hvancann@gmail.com/Other computers/My MacBook Pro 2020/Downloads/old 2020-2023/Random Sort Slideshow.app
+      Version: 1.93
+      Location: /Library/Apple/System/Library/CoreServices/MRT.app
+      Version: v1.1.2
+      Location: /Users/henkvancann/Library/CloudStorage/GoogleDrive-hvancann@gmail.com/My Drive/ARCHIVE no sync/Computer 2020 clean up/Downloads Mac OUD 2011-2020/Call Recorder Demo v2.3.28 Installer/Movie Tools/Convert To AIFF.app
+      Version: v1.0.2
+      Location: /Users/henkvancann/Library/CloudStorage/GoogleDrive-hvancann@gmail.com/My Drive/ARCHIVE no sync/Computer 2020 clean up/Downloads Mac OUD 2011-2020/Call Recorder Demo v2.3.28 Installer/Movie Tools/Convert For Internet.app
+      Version: v1.1.4
+      Location: /Users/henkvancann/Library/CloudStorage/GoogleDrive-hvancann@gmail.com/My Drive/ARCHIVE no sync/Computer 2020 clean up/Downloads Mac OUD 2011-2020/Call Recorder Demo v2.3.28 Installer/Movie Tools/Convert To AAC.app
+      Version: 1.3.7
+      Location: /Users/henkvancann/Library/CloudStorage/GoogleDrive-hvancann@gmail.com/My Drive/ARCHIVE no sync/Computer 2020 clean up/Downloads Mac OUD 2011-2020/torrents/Serial Box 09-2012 w: Readers/SerialSeeker.app
+      Version: 2.0.11
+      Location: /Users/henkvancann/Library/CloudStorage/GoogleDrive-hvancann@gmail.com/My Drive/ARCHIVE no sync/Computer 2020 clean up/Downloads Mac OUD 2011-2020/torrents/Serial Box 09-2012 w: Readers/iSerial Reader.app
+      Version: 1.40.3
+      Location: /Applications/Kindle.app
+      Version: 4.45.64
+      Location: /Applications/Slack.app
+      Version: 25.24.11
+      Location: /Applications/WhatsApp.app
+      Version: 0.0.357
+      Location: /Applications/Discord.app
+      Version: 1.103.2
+      Location: /Applications/Visual Studio Code.app
+      Version: 7.67.0
+      Location: /Applications/Signal.app
+      Version: 1.0
+      Location: /Users/henkvancann/Library/CloudStorage/GoogleDrive-hvancann@gmail.com/My Drive/ARCHIVE no sync/Computer 2020 clean up/Downloads Mac OUD 2011-2020/Oud 2016 2017/Install Spotify.app
+      Version: 0.6.77
+      Location: /Users/henkvancann/Library/CloudStorage/GoogleDrive-hvancann@gmail.com/My Drive/ARCHIVE no sync/Computer 2020 clean up/Downloads Mac OUD 2011-2020/nemwallet-0.6.77-osx-installer.app
+      Version: 3.8.815
+      Location: /Users/henkvancann/Library/CloudStorage/GoogleDrive-hvancann@gmail.com/My Drive/ARCHIVE no sync/Computer 2020 clean up/Downloads Mac OUD 2011-2020/TrailRunner.app
+      Version: 3.5.5
+      Location: /Users/henkvancann/Library/CloudStorage/GoogleDrive-hvancann@gmail.com/My Drive/ARCHIVE no sync/Computer 2020 clean up/Downloads Mac OUD 2011-2020/Angry IP Scanner.app
+      Version: 139.1.81.131
+      Location: /Applications/Brave Browser.app
+      Location: /Users/henkvancann/Library/HTTPStorages/com.apple.ctcategories.service
+      Version: 14.2
+      Location: /Applications/Pages.app
+      Version: 14.2
+      Location: /Applications/Keynote.app
+      Version: 14.2
+      Location: /Applications/Numbers.app
+      Version: 10.4.2
+      Location: /Applications/iMovie.app
+      Version: 0.274.1
+      Location: /Applications/Loom.app
+      Version: 2.0.0
+      Location: /Applications/Sparrow.app
+      Version: 1.0
+      Location: /Applications/Markdown Preview.app
+      Version: 1.2.4
+      Location: /Applications/Coinomi Wallet.app
+      Version: 1.0.20
+      Location: /Applications/Guarda.app
+      Version: 1.0.12
+      Location: /Applications/Android File Transfer.app
+      Version: 4.27.2
+      Location: /Applications/Docker.app
+      Version: 0.6.1
+      Location: /Applications/komodo-wallet.app
+      Version: 1.8.1
+      Location: /Applications/Decrediton.app
+      Version: 2.0.0
+      Location: /Applications/iocoin-html5-wallet.app
+      Version: 1.2.4
+      Location: /Applications/Waves.Exchange.app
+      Version: 2.23.10
+      Location: /Applications/Neon.app
+      Version: 1.0.0
+      Location: /Applications/WX.Network.app
+      Version: 142.0
+      Location: /Applications/Firefox.app
+      Version: 13.0.30.226
+      Location: /Applications/Cubase 13.app
+      Version: 5.9.0 GM (b5097, edaa5278)
+      Location: /Applications/iLok License Manager.app
+      Version: 1.11.69
+      Location: /Applications/Element.app
+      Version: 6.5.0-20241007140341+f10651d043
+      Location: /Applications/Keybase-put-aside.app
+      Version: 1.0
+      Location: /Users/henkvancann/Library/Application Support/com.grammarly.ProjectLlama/GRLoginHelper.app
+      Version: 0.6.9
+      Location: /Applications/Frame.app
+      Version: 1.1.3
+      Location: /Applications/Caffeine.app
+      Version: 1.133.2
+      Location: /Applications/Grammarly Desktop.app
+      Version: 4.79
+      Location: /Library/Application Support/Microsoft/MAU2.0/Microsoft AutoUpdate.app
+      Version: 2.1.1
+      Location: /Applications/GPG Keychain.app
+      Version: 1.0.2
+      Location: /Users/henkvancann/Dropbox/oud/Iworks08/User Guides/Pages User Guide.app
+      Version: 24.8.3.2
+      Location: /Applications/LibreOffice.app
+      Version: 1.2
+      Location: /Users/henkvancann/Dropbox/oud/Software/abnamro edentifier2 software voor MAC/install.app
+      Version: 1.0.2
+      Location: /Users/henkvancann/Dropbox/oud/Iworks08/Read Before You Install iWork.app
+      Version: 1.0.2
+      Location: /Users/henkvancann/Dropbox/oud/Iworks08/User Guides/Keynote User Guide.app
+      Version: 1.3.2
+      Location: /Applications/WhisperTranscribe.app
+      Version: 7.0.2
+      Location: /Applications/Daedalus Mainnet.app
+      Version: 5.11.1
+      Location: /Applications/Telegram.app
+      Version: 1.4.41.1101
+      Location: /Applications/Steinberg Activation Manager.app
+      Version: 3.2.40.295
+      Location: /Applications/Steinberg Library Manager.app
+      Version: 2.12.0.0
+      Location: /Applications/License Control Center.app
+      Version: 1.27
+      Location: /Applications/Speedtest.app
+      Version: 101.24080.0001
+      Location: /Applications/Microsoft Defender Shim.app
+      Version: 230.4.8797
+      Location: /Applications/Dropbox.app
+      Version: 2.92.1
+      Location: /Applications/Ledger Live.app
+      Version: 1.0.2
+      Location: /Users/henkvancann/Dropbox/oud/Iworks08/User Guides/Numbers User Guide.app
+      Version: 4.6.2
+      Location: /Applications/IPVanish VPN.app
+      Version: 2.5
+      Location: /Library/Services/GPGServices.service
+      Version: 2024.1b3
+      Location: /Library/Application Support/GPGTools/GPGSuite_Updater.app
+      Version: 1.1.1.1
+      Location: /usr/local/MacGPG2/libexec/pinentry-mac.app
+      Version: 1.6
+      Location: /Applications/SeedTool.app
+      Version: 3.1
+      Location: /Applications/Audio Recorder Lite.app
+      Version: 1.0.507.1136
+      Location: /Users/henkvancann/Library/Application Support/Google/Android File Transfer/Android File Transfer Agent.app
+      Version: 3.6.0
+      Location: /Applications/TestFlight.app
+      Version: 7.22
+      Location: /Applications/Amazon Kindle.app
+      Version: 2.0
+      Location: /Applications/Blockstream Green.app
+      Version: 25.2.2
+      Location: /Applications/Trezor Suite.app
+      Version: 5.12.1
+      Location: /Users/henkvancann/Library/Application Support/Telegram Desktop/tupdates/temp/Telegram.app
+      Version: 5.9.0 GM (b5097, edaa5278)
+      Location: /Library/PrivilegedHelperTools/licenseDaemon.app
+      Version: 1.6.2
+      Location: /Applications/UA Connect.app
+      Version: 1.133.2
+      Location: /Users/henkvancann/Library/Application Support/com.grammarly.ProjectLlama/Grammarly Desktop Uninstaller.app
+      Version: 6.4.12 (56699)
+      Location: /Users/henkvancann/Library/Application Support/zoom.us/AutoUpdater/UpdaterApp/ZoomAutoUpdater.app
+      Version: 16.100.2
+      Location: /Applications/Microsoft Excel.app
+      Version: 16.100.2
+      Location: /Applications/Microsoft OneNote.app
+      Version: 16.100.2
+      Location: /Applications/Microsoft Outlook.app
+      Version: 16.100.2
+      Location: /Applications/Microsoft PowerPoint.app
+      Version: 16.100.2
+      Location: /Applications/Microsoft Word.app
+      Version: 25.140.0720
+      Location: /Applications/OneDrive.app
+      Version: 1.0
+      Location: /Library/Application Support/Script Editor/Templates/Droplets/Recursive File Processing Droplet.app
+      Version: 1.0
+      Location: /Library/Application Support/Script Editor/Templates/Droplets/Droplet with Settable Properties.app
+      Version: 1.0
+      Location: /Library/Application Support/Script Editor/Templates/Droplets/Recursive Image File Processing Droplet.app
+      Version: 1.0
+      Location: /Library/Application Support/Script Editor/Templates/Cocoa-AppleScript Applet.app
+      Version: 5.6.2
+      Location: /Applications/Alfred 5.app
+      Version: 5.6.0
+      Location: /Applications/EasyControl.app
+      Version: 2.44.0
+      Location: /Applications/Perplexity.app
+      Version: 153
+      Location: /Library/Apple/System/Library/CoreServices/XProtect.app
+      Version: 6.4.4
+      Location: /Applications/SimpleX.app
+      Version: 10.4.12
+      Location: /Applications/GarageBand.app
+      Version: 6.4.12 (56699)
+      Location: /Applications/zoom.us.app
+      Version: 25185.205.3812.7741
+      Location: /Applications/Microsoft Teams.app
+      Version: 123.0.6299.129
+      Location: /Users/henkvancann/Library/Application Support/Dropbox/DropboxUpdater/123.0.6299.129/DropboxUpdater.app
+      Version: 1.0
+      Location: /Users/henkvancann/Library/Dropbox/DropboxMacUpdate.app
+      Version: 112.0
+      Location: /Applications/Google Drive.app
+      Version: 112.0
+      Location: /Applications/Google Drive.app/Contents/Applications/FinderHelper.app
+      Version: 112.0
+      Location: /Applications/Google Docs.app
+      Version: 112.0
+      Location: /Applications/Google Sheets.app
+      Version: 112.0
+      Location: /Applications/Google Slides.app
+      Version: 3.9.6
+      Location: /Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/Resources/Python.app
+      Version: 3.5.27
+      Location: /Applications/Rig Manager.app
+      Location: /Users/henkvancann/Library/Containers/184844B4-934C-4EDE-84EA-331270A845C3/Data/Library/HTTPStorages/nl.thuisapotheek.app
+      Version: 1.2.9
+      Location: /Applications/Thuisapotheek.app
+      Version: 8.11.4
+      Location: /Applications/1Password.app
+      Version: 5.0
+      Location: /Library/Apple/System/Library/PrivateFrameworks/MobileDevice.framework/Versions/A/AppleMobileDeviceHelper.app
+      Version: 1.0
+      Location: /Library/Apple/System/Library/PrivateFrameworks/MobileDevice.framework/Versions/A/Resources/MobileDeviceUpdater.app
+      Version: 5.0
+      Location: /Library/Apple/System/Library/PrivateFrameworks/MobileDevice.framework/Versions/A/AppleMobileSync.app
+      Version: 607
+      Location: /Library/Image Capture/Support/LegacyDeviceDiscoveryHelpers/AirScanLegacyDiscovery.app
+      Version: 3.9.2
+      Location: /Applications/ColorSlurp.app
+      Version: 141.0.7340.0
+      Location: /Library/Application Support/Google/GoogleUpdater/141.0.7340.0/GoogleUpdater.app
+      Version: 1.0.6
+      Location: /Users/henkvancann/Library/Application Support/com.grammarly.ProjectLlama/Grammarly Desktop Update Service.app
+      Version: 1.2.70.409
+      Location: /Applications/Spotify.app

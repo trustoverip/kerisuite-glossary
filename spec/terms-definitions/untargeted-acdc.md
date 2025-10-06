@@ -1,4 +1,4 @@
-[[def: untargeted-acdc, untargeted acdc]]
+[[def: untargeted-acdc, Untargeted ACDC, Untargeted acdc]]
 
 ~ an ACDC without the presence of the Issuee field in the attribute or attribute aggregate sections.  
 ~ Source: Dr. S. Smith

@@ -1,4 +1,4 @@
-[[def: drt, drt]]
+[[def: drt]]
 
 ~ drt = deltate, delegated rotation
 

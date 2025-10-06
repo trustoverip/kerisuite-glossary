@@ -1,4 +1,4 @@
-[[def: vrt, vrt]]
+[[def: vrt]]
 
 ~ vrt = vdr rotate, verifiable data registry rotation
 

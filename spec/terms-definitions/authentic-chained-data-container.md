@@ -1,4 +1,4 @@
-[[def: authentic-chained-data-container, authentic-chained data container]]
+[[def: authentic-chained-data-container, authentic-chained data container, ACDC]]
 
 ~ a directed acyclic graph with properties to provide a verifiable chain of [[ref: proof-of-authorship]]. See the full [specification](https://trustoverip.github.io/tswg-acdc-specification/)  
 ~ Source: Dr. S.Smith, 2024

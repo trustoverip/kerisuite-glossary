@@ -1,4 +1,4 @@
-[[def: KEL, KEL]]
+[[def: KEL]]
 
 ~ A Key Event Log.
 ~ [[ref: key-event-log]]

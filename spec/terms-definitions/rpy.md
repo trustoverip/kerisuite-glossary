@@ -1,4 +1,4 @@
-[[def: rpy, rpy]]
+[[def: rpy]]
 
 ~ rpy = reply
 

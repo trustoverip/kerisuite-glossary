@@ -1,4 +1,4 @@
-[[def: hierarchical-composition, hierarchical composition]]
+[[def: hierarchical-composition, Hierarchical composition]]
 
 ~ Encoding protocol that is composable in a hierarchy and enables [[ref: pipelining]] (multiplexing and de-multiplexing) of complex streams in either text or compact binary. This allows management at scale for high-bandwidth applications.
 

@@ -1,4 +1,4 @@
-[[def: proof-of-authorship, proof of authorship]]
+[[def: proof-of-authorship, Proof of authorship]]
 
 ~ Proof that somebody or something has originally created certain content. It's about _data_'s inception. Whereas [[ref: proof-of-authority]] is about _rights_ attached to this data.
 

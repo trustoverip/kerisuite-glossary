@@ -1,4 +1,4 @@
-[[def: version-string, version string]]
+[[def: version-string, Version string]]
 
 ~ the first field in any top-level KERI field map in which it appears.
 

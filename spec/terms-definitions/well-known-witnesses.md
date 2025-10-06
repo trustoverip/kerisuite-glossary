@@ -1,4 +1,4 @@
-[[def: well-known-witnesses, well-known witnesses]]
+[[def: well-known-witnesses, Well-known witnesses]]
 
 ~ Witness identifier creation by using _salts_ to initialize their key stores so that you can predict what identifiers will be created. For testing purposes only!
 

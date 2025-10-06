@@ -1,4 +1,4 @@
-[[def: inception-event, inception event]]
+[[def: inception-event, Inception event]]
 
 ~ an [[ref: establishment-event]] that provides the incepting information needed to derive an AID and establish its initial Key state.  
 ~ Source [Sam Smith](https://github.com/WebOfTrust/ietf-keri/blob/main/draft-ssmith-keri.md#basic-terminology)

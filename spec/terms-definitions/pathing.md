@@ -1,4 +1,4 @@
-[[def: pathing, pathing]]
+[[def: pathing, Pathing]]
 
 ~ It was designed to sign portions of a credential aimed at complex cases like 
 ~ - a credential embedded in another credential

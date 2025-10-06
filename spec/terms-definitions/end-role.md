@@ -1,4 +1,4 @@
-[[def: end-role, end role]]
+[[def: end-role, End role]]
 
 ~ An end role is an authorization for one [[ref: AID]] to serve in a role for another [[ref: AID]].  
 

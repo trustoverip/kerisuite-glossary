@@ -1,4 +1,4 @@
-[[def: base-media-type, base media type]]
+[[def: base-media-type, Base media type]]
 
 ~ `credential` plus `ld` plus `json`.
 

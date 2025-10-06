@@ -1,4 +1,4 @@
-[[def: provenanced, provenanced]]
+[[def: provenanced, Provenanced]]
 
 ~ The act of verifying [[ref: authenticity]] or quality of documented history or origin of something.
 

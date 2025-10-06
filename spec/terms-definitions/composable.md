@@ -1,4 +1,4 @@
-[[def: composable, composable]]
+[[def: composable, Composable]]
 
 ~ [[ref: composability]]
 ~ More in <a href="https://weboftrust.github.io/WOT-terms/docs/glossary/composable">extended KERI glossary</a>

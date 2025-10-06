@@ -1,4 +1,4 @@
-[[def: authentic-provenance-chain, authentic provenance chain]]
+[[def: authentic-provenance-chain, Authentic provenance chain]]
 
 ~ Interlinked [[ref: presentation-exchange]] of evidence that allow data to be tracked back to its origin in an objectively [[ref: verifiable]] way.
 

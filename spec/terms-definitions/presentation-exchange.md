@@ -1,4 +1,4 @@
-[[def: presentation-exchange, presentation exchange]]
+[[def: presentation-exchange, Presentation exchange]]
 
 ~ An exchange that provides disclosure of one or more [[ref: authentic-chained-data-container]]s between a Discloser and a Disclosee.
 

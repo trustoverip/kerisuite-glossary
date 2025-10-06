@@ -1,4 +1,4 @@
-[[def: hab, hab]]
+[[def: hab]]
 
 ~ A Hab is a keystore for one identifier. The Python implementation in [[ref: keripy]], also used by [[ref: keria]] uses [LMDB](http://www.lmdb.tech/doc/) to store key material and all other data.
 

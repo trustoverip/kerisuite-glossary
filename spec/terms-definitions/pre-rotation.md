@@ -1,4 +1,4 @@
-[[def: pre-rotation, pre rotation]]
+[[def: pre-rotation, Pre-rotation]]
 
 ~ Cryptographic commitment to next rotated key set in previous rotation or [[ref: inception-event]].
 

@@ -1,4 +1,4 @@
-[[def: blind-oobi, blind oobi]]
+[[def: blind-oobi, Blind OOBI]]
 
 ~ A blind [[ref: OOBI]] means that you have some mechanisms in place for verifying the [[ref: AID]] instead of via the OOBI itself. A blind OOBI is essentially a [[ref: URL]]. It's called "blind" because the witness is not in the OOBI itself. You haves other ways of verifying the AID supplied. 
 

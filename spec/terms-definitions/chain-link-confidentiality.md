@@ -1,4 +1,4 @@
-[[def: chain-link-confidentiality, chain link confidentiality]]
+[[def: chain-link-confidentiality, Chain link confidentiality, CLC]]
 
 ~ Chains together a sequence of [[ref: disclosee]] which may also include a set of constraints on data usage by both second and third parties expressed in legal language such that the constraints apply to all recipients of the disclosed data thus the phrase "chain link" confidentiality. Each Disclosee in the sequence in turn is the [[ref: discloser]] to the next Disclosee.
 

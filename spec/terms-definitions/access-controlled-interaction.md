@@ -1,4 +1,4 @@
-[[def: access-controlled-interaction, access-controlled interaction]]
+[[def: access-controlled-interaction, Access-controlled interaction]]
 
 ~ Access controlled actions like submitting a report. If you already have that report then load balancer needs a mechanism to drop repeated requests.
 

@@ -1,4 +1,4 @@
-[[def: secure-private-authentic-confidentiality, secure private authentic confidentiality]]
+[[def: secure-private-authentic-confidentiality, Secure private authentic confidentiality, SPAC]]
 
 ~ ToIP Trust Spanning Layer Group realized we do have a secure authentication layer (KERI) but we don't have a secure confidentiality and privacy mechanism. Sam Smith proposes SPAC paper to define this.
 ~ Related:

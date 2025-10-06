@@ -1,4 +1,4 @@
-[[def: exn, exn]]
+[[def: exn]]
 
 ~ exn = exchange
 

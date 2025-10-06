@@ -1,4 +1,4 @@
-[[def: duplicity-detection, duplicity detection]]
+[[def: duplicity-detection, Duplicity detection]]
 
 ~ A mechanism to detect [[ref: duplicity]] in cryptographically secured event logs.
 

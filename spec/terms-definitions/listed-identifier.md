@@ -1,4 +1,4 @@
-[[def: listed-identifier, listed identifier]]
+[[def: listed-identifier, Listed identifier]]
 
 ~ Is a list in an [[ref: authentic-chained-data-container]] of authorised did:webs identifier + method; the list appears in the metadata of the did:webs DID-doc.  
 ~ Source: paraphrased Samuel Smith, Zoom meeting _KERI dev_ Thursday Nov 9 2023

@@ -1,0 +1,429 @@
+{
+  "timestamp": 1744997603749,
+  "repository": "henkvancann/vlei-glossary",
+  "terms": [
+    {
+      "term": "DAR",
+      "definition": "<dd>\n<p><a class=\"term-reference\" href=\"#term:designated-authorized-representative\">designated-authorized-representative</a></p>\n</dd>\n<dd class=\"last-dd\">\n<p>More in <a href=\"https://weboftrust.github.io/WOT-terms/docs/glossary/DAR\">extended KERI glossary</a></p>\n</dd>"
+    },
+    {
+      "term": "ECR",
+      "definition": "<dd>\n<p><a class=\"term-reference\" href=\"#term:engagement-context-role\">engagement-context-role</a></p>\n</dd>\n<dd class=\"last-dd\">\n<p>More in <a href=\"https://weboftrust.github.io/WOT-terms/docs/glossary/ECR\">extended KERI glossary</a></p>\n</dd>"
+    },
+    {
+      "term": "GAR",
+      "definition": "<dd>\n<p><a class=\"term-reference\" href=\"#term:gleif-authorized-representative\">gleif-authorized-representative</a></p>\n</dd>\n<dd class=\"last-dd\">\n<p>More in <a href=\"https://weboftrust.github.io/WOT-terms/docs/glossary/GAR\">extended KERI glossary</a></p>\n</dd>"
+    },
+    {
+      "term": "GLEIF",
+      "definition": "<dd class=\"last-dd\">\n<p>Global Legal Entity Identifier Foundation</p>\n</dd>"
+    },
+    {
+      "term": "GLEIS",
+      "definition": "<dd>\n<p>Global Legal Entity Identifier System</p>\n</dd>\n<dd class=\"last-dd\">\n<p>More in <a href=\"https://weboftrust.github.io/WOT-terms/docs/glossary/GLEIS\">extended KERI glossary</a></p>\n</dd>"
+    },
+    {
+      "term": "KERI",
+      "definition": "<dd class=\"last-dd\">\n<p><a class=\"term-reference\" href=\"#term:key-event-receipt-infrastructure\">key-event-receipt-infrastructure</a></p>\n</dd>"
+    },
+    {
+      "term": "LEI",
+      "definition": "<dd class=\"last-dd\">\n<p>Legal Entity Identifier(s)</p>\n</dd>"
+    },
+    {
+      "term": "OOR",
+      "definition": "<dd>\n<p><a class=\"term-reference\" href=\"#term:official-organizational-role\">official-organizational-role</a></p>\n</dd>\n<dd class=\"last-dd\">\n<p>More in <a href=\"https://weboftrust.github.io/WOT-terms/docs/glossary/OOR\">extended KERI glossary</a></p>\n</dd>"
+    },
+    {
+      "term": "QAR",
+      "definition": "<dd>\n<p><a class=\"term-reference\" href=\"#term:qvi-authorized-representative\">qvi-authorized-representative</a></p>\n</dd>\n<dd class=\"last-dd\">\n<p>More in <a href=\"https://weboftrust.github.io/WOT-terms/docs/glossary/QAR\">extended KERI glossary</a></p>\n</dd>"
+    },
+    {
+      "term": "QVI",
+      "definition": "<dd>\n<p><a class=\"term-reference\" href=\"#term:qualified-vlei-issuer\">qualified-vlei-issuer</a></p>\n</dd>\n<dd class=\"last-dd\">\n<p>More in <a href=\"https://weboftrust.github.io/WOT-terms/docs/glossary/QVI\">extended KERI glossary</a></p>\n</dd>"
+    },
+    {
+      "term": "active-status",
+      "definition": "<dd>\n<p>A LEI Entity status in the Global LEI System.</p>\n</dd>\n<dd class=\"last-dd\">\n<p><a path-0=\"www.gleif.org\" path-1=\"vlei\" path-2=\"introducing-the-vlei-ecosystem-governance-framework\" path-3=\"2023-12-15_vlei-egf-v2.0-glossary_v1.3_final.pdf\" href=\"https://www.gleif.org/vlei/introducing-the-vlei-ecosystem-governance-framework/2023-12-15_vlei-egf-v2.0-glossary_v1.3_final.pdf\">Source</a> verifiable LEI (vLEI) Ecosystem Governance Framework Glossary.</p>\n</dd>"
+    },
+    {
+      "term": "annual-vlei-issuer-qualification",
+      "definition": "<dd>\n<p>A formal annual evaluation process performed by GLEIF to ensure that the Qualified vLEI Issuer continues to meet the requirements of the vLEI Ecosystem Governance Framework.</p>\n</dd>\n<dd class=\"last-dd\">\n<p><a path-0=\"www.gleif.org\" path-1=\"vlei\" path-2=\"introducing-the-vlei-ecosystem-governance-framework\" path-3=\"2023-12-15_vlei-egf-v2.0-glossary_v1.3_final.pdf\" href=\"https://www.gleif.org/vlei/introducing-the-vlei-ecosystem-governance-framework/2023-12-15_vlei-egf-v2.0-glossary_v1.3_final.pdf\">Source</a> verifiable LEI (vLEI) Ecosystem Governance Framework Glossary.</p>\n</dd>"
+    },
+    {
+      "term": "audit-report",
+      "definition": "<dd>\n<p>An audit report provided to the Qualified vLEI Issuer by its internal or</p>\n</dd>\n<dd>\n<p>external auditors or comparable function.</p>\n</dd>\n<dd class=\"last-dd\">\n<p><a path-0=\"www.gleif.org\" path-1=\"vlei\" path-2=\"introducing-the-vlei-ecosystem-governance-framework\" path-3=\"2023-12-15_vlei-egf-v2.0-glossary_v1.3_final.pdf\" href=\"https://www.gleif.org/vlei/introducing-the-vlei-ecosystem-governance-framework/2023-12-15_vlei-egf-v2.0-glossary_v1.3_final.pdf\">Source</a> verifiable LEI (vLEI) Ecosystem Governance Framework Glossary.</p>\n</dd>"
+    },
+    {
+      "term": "autonomic-identifier",
+      "definition": "<dd>\n<p class=\"placeholder-dd\"><span class=\"placeholder-tref\">No custom content found for keri1:autonomic-identifier</span></p>\n</dd>\n<dd class=\"last-dd\">\n<p>AIDs are self-certifying identifiers that are imbued with self-management capabilities via the KERI protocol. There are two main classes of AIDs in KERI: 1) transferable AIDS, and 2) non-transferable AIDS. Key management policies are different for the two classes of AIDs.</p>\n</dd>"
+    },
+    {
+      "term": "candidate-vlei-issuer",
+      "definition": "<dd>\n<p>An organization that has applied to become a <a class=\"term-reference\" href=\"#term:qualified-vlei-issuer\">Qualified vLEI Issuer</a>.</p>\n</dd>\n<dd class=\"last-dd\">\n<p><a path-0=\"www.gleif.org\" path-1=\"vlei\" path-2=\"introducing-the-vlei-ecosystem-governance-framework\" path-3=\"2023-12-15_vlei-egf-v2.0-glossary_v1.3_final.pdf\" href=\"https://www.gleif.org/vlei/introducing-the-vlei-ecosystem-governance-framework/2023-12-15_vlei-egf-v2.0-glossary_v1.3_final.pdf\">Source</a> verifiable LEI (vLEI) Ecosystem Governance Framework Glossary.</p>\n</dd>"
+    },
+    {
+      "term": "Challenge Message",
+      "definition": "<dd>\n<p>A message sent and responded to during the <a class=\"term-reference\" href=\"#term:identity-authentication\">Identity Authentication</a> session.</p>\n</dd>\n<dd class=\"last-dd\">\n<p><a path-0=\"www.gleif.org\" path-1=\"vlei\" path-2=\"introducing-the-vlei-ecosystem-governance-framework\" path-3=\"2023-12-15_vlei-egf-v2.0-glossary_v1.3_final.pdf\" href=\"https://www.gleif.org/vlei/introducing-the-vlei-ecosystem-governance-framework/2023-12-15_vlei-egf-v2.0-glossary_v1.3_final.pdf\">Source</a> verifiable LEI (vLEI) Ecosystem Governance Framework Glossary; enhanced by Henk van Cann.</p>\n</dd>"
+    },
+    {
+      "term": "continuity-policy",
+      "definition": "<dd class=\"last-dd\">\n<p>A policy that GLEIF must have for the survival of control authority of all controllers for the GLEIF Root <a class=\"x-term-reference term-reference\" data-local-href=\"#term:keri1:aid\" href=\"https://weboftrust.github.io/kerisuite-glossary/#term:aid\">AID</a> and its Delegated AIDs, including Escrow Controllers and that <a class=\"term-reference\" href=\"#term:qvi\">QVI</a>s and Legal Entities should have for survival of <a class=\"x-term-reference term-reference\" data-local-href=\"#term:keri1:control-authority\" href=\"https://weboftrust.github.io/kerisuite-glossary/#term:control-authority\">control authority</a> of their Controllers.</p>\n</dd>"
+    },
+    {
+      "term": "Controller",
+      "definition": "<dd>\n<p>A controlling entity of an identifier. See the examples Root AID GLEIF Authorized Representative, the Internal Delegated AID GLEIF Authorized Representative and the External Delegated AID GLEIF Authorized Representative in the GLEIF Identifier Governance Framework.</p>\n</dd>\n<dd>\n<p><a path-0=\"www.gleif.org\" path-1=\"vlei\" path-2=\"introducing-the-vlei-ecosystem-governance-framework\" path-3=\"2023-12-15_vlei-egf-v2.0-glossary_v1.3_final.pdf\" href=\"https://www.gleif.org/vlei/introducing-the-vlei-ecosystem-governance-framework/2023-12-15_vlei-egf-v2.0-glossary_v1.3_final.pdf\">Source</a> vLEI Ecosystem Governance Framework Glossary</p>\n</dd>\n<dd class=\"last-dd\">\n<p>See also: <a class=\"x-term-reference term-reference\" data-local-href=\"#term:keri1:controller\" href=\"https://weboftrust.github.io/kerisuite-glossary/#term:controller\">Controller</a></p>\n</dd>"
+    },
+    {
+      "term": "day",
+      "definition": "<dd class=\"last-dd\">\n<p>A business day, provided that a given day only counts as such if it is a business day both at GLEIF’s legal domicile in the operating office in Frankfurt/Germany, and at the <a class=\"term-reference\" href=\"#term:qualified-vlei-issuer\">Qualified vLEI Issuer</a>’s domicile. Defined term in the vLEI Issuer Qualification Agreement.</p>\n</dd>"
+    },
+    {
+      "term": "Delegated AIDs",
+      "definition": "<dd>\n<p>Autonomic Identifiers (AIDs) which have associated Decentralized Identifier (<a class=\"term-reference\" href=\"#term:did\">DID</a>s). These are primary identifiers. Unless otherwise indicated, whenever the term identifier is used with reference to <a class=\"term-reference\" href=\"#term:keri\">KERI</a>, the references are to primary identifiers. Examples are: GLEIF Internal Delegated AID (GIDA) and GLEIF External Delegated AID (GEDA).</p>\n</dd>\n<dd>\n<p><a path-0=\"www.gleif.org\" path-1=\"vlei\" path-2=\"introducing-the-vlei-ecosystem-governance-framework\" path-3=\"2023-12-15_vlei-egf-v2.0-glossary_v1.3_final.pdf\" href=\"https://www.gleif.org/vlei/introducing-the-vlei-ecosystem-governance-framework/2023-12-15_vlei-egf-v2.0-glossary_v1.3_final.pdf\">Source</a> vLEI Ecosystem Governance Framework Glossary</p>\n</dd>\n<dd class=\"last-dd\">\n<p>See also: <a class=\"x-term-reference term-reference\" data-local-href=\"#term:keri1:delegated-identifier\" href=\"https://weboftrust.github.io/kerisuite-glossary/#term:delegated-identifier\">delegated-identifier</a></p>\n</dd>"
+    },
+    {
+      "term": "Designated Authorized Representative",
+      "definition": "<dd>\n<p>A representative of a Qualified vLEI Issuer or a Legal Entity that are authorized by the <a class=\"term-reference\" href=\"#term:qvi\">QVI</a> or the Legal Entity to act officially on behalf of the QVI or the Legal Entity. DARs of QVIs can authorize vLEI Issuer Qualification Program Checklists, execute the vLEI Issuer Qualification Agreement and provide designate/replace <a class=\"term-reference\" href=\"#term:qualified-vlei-issuer-authorized-representatives\">Qualified vLEI Issuer Authorized Representatives</a> (QARs). DARs of Legal Entities can execute the contract between a Qualified vLEI Issuer and the Legal Entity and provide designate/replace <a class=\"term-reference\" href=\"#term:legal-entity-authorized-representatives\">Legal Entity Authorized Representatives</a> (LARs).</p>\n</dd>\n<dd class=\"last-dd\">\n<p>Also see: <a href=\"https://weboftrust.github.io/WOT-terms/docs/glossary/designated-authorized-representative\">extended KERI glossary</a></p>\n</dd>"
+    },
+    {
+      "term": "Distributed Hash Table",
+      "definition": "<dd>\n<p>In computing, a data structure that implements an associative array abstract data type, a structure that can map keys to values (Wikipedia). Within the vLEI Ecosystem, these tables are used for the discovery of AIDs.</p>\n</dd>\n<dd>\n<p><a path-0=\"www.gleif.org\" path-1=\"vlei\" path-2=\"introducing-the-vlei-ecosystem-governance-framework\" path-3=\"2023-12-15_vlei-egf-v2.0-glossary_v1.3_final.pdf\" href=\"https://www.gleif.org/vlei/introducing-the-vlei-ecosystem-governance-framework/2023-12-15_vlei-egf-v2.0-glossary_v1.3_final.pdf\">Source</a> vLEI Ecosystem Governance Framework Glossary</p>\n</dd>\n<dd class=\"last-dd\">\n<p>See also: <a class=\"x-term-reference term-reference\" data-local-href=\"#term:toip2:distributed-hash-table\" href=\"https://henkvancann.github.io/ctwg-general-glossary/#term:distributed-hash-table\">distributed-hash-table</a></p>\n</dd>"
+    },
+    {
+      "term": "Effective Date",
+      "definition": "<dd class=\"last-dd\">\n<p>The later of the dates of signing shown on the first page of the <a class=\"term-reference\" href=\"#term:vlei-issuer-qualification-agreement\">vLEI Issuer Qualification Agreement</a>.</p>\n</dd>"
+    },
+    {
+      "term": "Engagement Context Role Person",
+      "definition": "<dd class=\"last-dd\">\n<p>A person that represents the Legal Entity in a functional or in another context role and is issued an ECR vLEI Credential.</p>\n</dd>"
+    },
+    {
+      "term": "engagement-context-role",
+      "definition": "<dd>\n<p>A person that represents the <a class=\"term-reference\" href=\"#term:legal-entity\">legal-entity</a> in a functional or in another context role and is issued an ECR <a class=\"term-reference\" href=\"#term:vlei-credential\">vlei-credential</a>.</p>\n</dd>\n<dd class=\"last-dd\">\n<p>More in <a href=\"https://weboftrust.github.io/WOT-terms/docs/glossary/engagement-context-role\">extended KERI glossary</a></p>\n</dd>"
+    },
+    {
+      "term": "Escrow Agent",
+      "definition": "<dd>\n<p>Specific organizations appointed by GLEIF as secondary signers to the GLEIF Root AID, to be able to act if the required weighted multi-sig threshold of GLEIF primary signers is not available for key rotation or recovery.</p>\n</dd>\n<dd class=\"last-dd\">\n<p><a path-0=\"www.gleif.org\" path-1=\"vlei\" path-2=\"introducing-the-vlei-ecosystem-governance-framework\" path-3=\"2023-12-15_vlei-egf-v2.0-glossary_v1.3_final.pdf\" href=\"https://www.gleif.org/vlei/introducing-the-vlei-ecosystem-governance-framework/2023-12-15_vlei-egf-v2.0-glossary_v1.3_final.pdf\">Source</a> vLEI Ecosystem Governance Framework Glossary</p>\n</dd>"
+    },
+    {
+      "term": "Extraordinary vLEI Issuer Qualification",
+      "definition": "<dd class=\"last-dd\">\n<p>Qualification conducted under exceptional circumstances which give GLEIF reason to believe that the Qualification Documentation is no longer current or being adhered to.</p>\n</dd>"
+    },
+    {
+      "term": "Fully Signed",
+      "definition": "<dd>\n<p>Meets the threshold of the signed keys.</p>\n</dd>\n<dd class=\"last-dd\">\n<p><a path-0=\"www.gleif.org\" path-1=\"vlei\" path-2=\"introducing-the-vlei-ecosystem-governance-framework\" path-3=\"2023-12-15_vlei-egf-v2.0-glossary_v1.3_final.pdf\" href=\"https://www.gleif.org/vlei/introducing-the-vlei-ecosystem-governance-framework/2023-12-15_vlei-egf-v2.0-glossary_v1.3_final.pdf\">Source</a> vLEI Ecosystem Governance Framework Glossary</p>\n</dd>"
+    },
+    {
+      "term": "GLEIF API",
+      "definition": "<dd>\n<p>API to directly access the complete LEI data pool in real time with rich query capabilities.</p>\n</dd>\n<dd>\n<p>QVIs must use the GLEIF API to look up the Registration Status of LEIs, to ensure that vLEI credentials are only issued to organizations who have an LEI in good standing and to identify, if vLEI credentials have to be revoked because the LEI has LAPSED or is otherwise not in good standing anymore.</p>\n</dd>\n<dd class=\"last-dd\">\n<p><a path-0=\"www.gleif.org\" path-1=\"vlei\" path-2=\"introducing-the-vlei-ecosystem-governance-framework\" path-3=\"2023-12-15_vlei-egf-v2.0-glossary_v1.3_final.pdf\" href=\"https://www.gleif.org/vlei/introducing-the-vlei-ecosystem-governance-framework/2023-12-15_vlei-egf-v2.0-glossary_v1.3_final.pdf\">Source</a> vLEI Ecosystem Governance Framework Glossary</p>\n</dd>"
+    },
+    {
+      "term": "GLEIF Authorized Representative",
+      "definition": "<dd>\n<p>A representative of GLEIF authorized to perform the identity verification requirements needed to issue the QVI vLEI Credential. GLEIF has authorized specific GARs, Internal and External GARs, for the GIDA and GEDA (see definition of <a class=\"term-reference\" href=\"#term:delegated-aids\">Delegated AIDs</a>).</p>\n</dd>\n<dd class=\"last-dd\">\n<p><a path-0=\"www.gleif.org\" path-1=\"vlei\" path-2=\"introducing-the-vlei-ecosystem-governance-framework\" path-3=\"2023-12-15_vlei-egf-v2.0-glossary_v1.3_final.pdf\" href=\"https://www.gleif.org/vlei/introducing-the-vlei-ecosystem-governance-framework/2023-12-15_vlei-egf-v2.0-glossary_v1.3_final.pdf\">Source</a> verifiable LEI (vLEI) Ecosystem Governance Framework Glossary.</p>\n</dd>"
+    },
+    {
+      "term": "GLEIF Business Day",
+      "definition": "<dd>\n<p>Business Day in Frankfurt am Main, Germany (Monday – Friday)</p>\n</dd>\n<dd class=\"last-dd\">\n<p><a path-0=\"www.gleif.org\" path-1=\"vlei\" path-2=\"introducing-the-vlei-ecosystem-governance-framework\" path-3=\"2023-12-15_vlei-egf-v2.0-glossary_v1.3_final.pdf\" href=\"https://www.gleif.org/vlei/introducing-the-vlei-ecosystem-governance-framework/2023-12-15_vlei-egf-v2.0-glossary_v1.3_final.pdf\">Source</a> verifiable LEI (vLEI) Ecosystem Governance Framework Glossary.</p>\n</dd>"
+    },
+    {
+      "term": "GLEIF Identifier Governance Framework",
+      "definition": "<dd>\n<p>A document that details the purpose, principles, policies, and specifications that apply to the use of the GLEIF Root Autonomic Identifier (<a class=\"x-term-reference term-reference\" data-local-href=\"#term:keri1:aid\" href=\"https://weboftrust.github.io/kerisuite-glossary/#term:aid\">AID</a>) and its GLEIF <a class=\"term-reference\" href=\"#term:delegated-aid\">Delegated AID</a>s in the vLEI Ecosystem.</p>\n</dd>\n<dd class=\"last-dd\">\n<p><a path-0=\"www.gleif.org\" path-1=\"vlei\" path-2=\"introducing-the-vlei-ecosystem-governance-framework\" path-3=\"2023-12-15_vlei-egf-v2.0-glossary_v1.3_final.pdf\" href=\"https://www.gleif.org/vlei/introducing-the-vlei-ecosystem-governance-framework/2023-12-15_vlei-egf-v2.0-glossary_v1.3_final.pdf\">Source</a> verifiable LEI (vLEI) Ecosystem Governance Framework Glossary.</p>\n</dd>"
+    },
+    {
+      "term": "GLEIF Root of Trust AID",
+      "definition": "<dd>\n<p>The GLEIF Root Aid provides the Root of Trust for the ecosystem tree of trust. Each branch in that tree is a Chain of Trust. The Delegated Aid Chain of Trust branch provides trust for delegated GLEIF AIDS and Qualified vLEI Issuer Delegated AIDs. The vLEI Chain of Trust branch, that attaches to the Delegated AID Chain of Trust branch, provides trust for all vLEIs within the vLEI ecosystem.</p>\n</dd>\n<dd class=\"last-dd\">\n<p><a path-0=\"www.gleif.org\" path-1=\"vlei\" path-2=\"introducing-the-vlei-ecosystem-governance-framework\" path-3=\"2023-12-15_vlei-egf-v2.0-glossary_v1.3_final.pdf\" href=\"https://www.gleif.org/vlei/introducing-the-vlei-ecosystem-governance-framework/2023-12-15_vlei-egf-v2.0-glossary_v1.3_final.pdf\">Source</a> vLEI Ecosystem Governance Framework Glossary</p>\n</dd>"
+    },
+    {
+      "term": "GLEIF Website",
+      "definition": "<dd>\n<p><a path-0=\"www.gleif.org\" href=\"http://www.gleif.org\">http://www.gleif.org</a></p>\n</dd>\n<dd class=\"last-dd\">\n<p><a path-0=\"www.gleif.org\" path-1=\"vlei\" path-2=\"introducing-the-vlei-ecosystem-governance-framework\" path-3=\"2023-12-15_vlei-egf-v2.0-glossary_v1.3_final.pdf\" href=\"https://www.gleif.org/vlei/introducing-the-vlei-ecosystem-governance-framework/2023-12-15_vlei-egf-v2.0-glossary_v1.3_final.pdf\">Source</a> verifiable LEI (vLEI) Ecosystem Governance Framework Glossary.</p>\n</dd>"
+    },
+    {
+      "term": "Global Legal Entity Identifier System",
+      "definition": "<dd>\n<p>Global LEI Repository A database managed by GLEIF containing all current and historical LEIs and LEI reference data.</p>\n</dd>\n<dd class=\"last-dd\">\n<p><a path-0=\"www.gleif.org\" path-1=\"vlei\" path-2=\"introducing-the-vlei-ecosystem-governance-framework\" path-3=\"2023-12-15_vlei-egf-v2.0-glossary_v1.3_final.pdf\" href=\"https://www.gleif.org/vlei/introducing-the-vlei-ecosystem-governance-framework/2023-12-15_vlei-egf-v2.0-glossary_v1.3_final.pdf\">Source</a> verifiable LEI (vLEI) Ecosystem Governance Framework Glossary.</p>\n</dd>"
+    },
+    {
+      "term": "Identity Assurance",
+      "definition": "<dd>\n<p>A process that is part of Identity Verification, the steps of which are defined in each of the vLEI Credential Frameworks of the vLEI Ecosystem Governance Framework, which must be conducted before the issuance of vLEI Credentials.</p>\n</dd>\n<dd>\n<p>See also more general: <a class=\"x-term-reference term-reference\" data-local-href=\"#term:toip1:identity-assurance\" href=\"https://henkvancann.github.io/ctwg-main-glossary/#term:identity-assurance\">Identity Assurance</a></p>\n</dd>\n<dd class=\"last-dd\">\n<p><a path-0=\"www.gleif.org\" path-1=\"vlei\" path-2=\"introducing-the-vlei-ecosystem-governance-framework\" path-3=\"2023-12-15_vlei-egf-v2.0-glossary_v1.3_final.pdf\" href=\"https://www.gleif.org/vlei/introducing-the-vlei-ecosystem-governance-framework/2023-12-15_vlei-egf-v2.0-glossary_v1.3_final.pdf\">Source</a> verifiable LEI (vLEI) Ecosystem Governance Framework Glossary.</p>\n</dd>"
+    },
+    {
+      "term": "Identity Authentication",
+      "definition": "<dd>\n<p>A process that is part of Identity Verification, the steps of which are defined in each of the vLEI Credential Frameworks of the vLEI Ecosystem Governance Framework, which must be conducted before the issuance of vLEI Credentials.</p>\n</dd>\n<dd class=\"last-dd\">\n<p><a path-0=\"www.gleif.org\" path-1=\"vlei\" path-2=\"introducing-the-vlei-ecosystem-governance-framework\" path-3=\"2023-12-15_vlei-egf-v2.0-glossary_v1.3_final.pdf\" href=\"https://www.gleif.org/vlei/introducing-the-vlei-ecosystem-governance-framework/2023-12-15_vlei-egf-v2.0-glossary_v1.3_final.pdf\">Source</a> verifiable LEI (vLEI) Ecosystem Governance Framework Glossary.</p>\n</dd>"
+    },
+    {
+      "term": "Inception Event",
+      "definition": "<dd>\n<p>Initial event used during the creation of an AID.</p>\n</dd>\n<dd>\n<p><a path-0=\"www.gleif.org\" path-1=\"vlei\" path-2=\"introducing-the-vlei-ecosystem-governance-framework\" path-3=\"2023-12-15_vlei-egf-v2.0-glossary_v1.3_final.pdf\" href=\"https://www.gleif.org/vlei/introducing-the-vlei-ecosystem-governance-framework/2023-12-15_vlei-egf-v2.0-glossary_v1.3_final.pdf\">Source</a> vLEI Ecosystem Governance Framework Glossary</p>\n</dd>\n<dd class=\"last-dd\">\n<p>See also: <a class=\"x-term-reference term-reference\" data-local-href=\"#term:keri1:inception-event\" href=\"https://weboftrust.github.io/kerisuite-glossary/#term:inception-event\">inception-event</a></p>\n</dd>"
+    },
+    {
+      "term": "Interaction Event",
+      "definition": "<dd>\n<p>Non-establishment Event (<a class=\"x-term-reference term-reference\" data-local-href=\"#term:keri1:non-establishment-event\" href=\"https://weboftrust.github.io/kerisuite-glossary/#term:non-establishment-event\">non-establishment-event</a>) that anchors external data to the key-state as established by the most recent prior establishment event (<a class=\"x-term-reference term-reference\" data-local-href=\"#term:keri1:establishment-event\" href=\"https://weboftrust.github.io/kerisuite-glossary/#term:establishment-event\">establishment-event</a>).</p>\n</dd>\n<dd>\n<p><a path-0=\"www.gleif.org\" path-1=\"vlei\" path-2=\"introducing-the-vlei-ecosystem-governance-framework\" path-3=\"2023-12-15_vlei-egf-v2.0-glossary_v1.3_final.pdf\" href=\"https://www.gleif.org/vlei/introducing-the-vlei-ecosystem-governance-framework/2023-12-15_vlei-egf-v2.0-glossary_v1.3_final.pdf\">Source</a> vLEI Ecosystem Governance Framework Glossary</p>\n</dd>\n<dd class=\"last-dd\">\n<p>See also: <a class=\"x-term-reference term-reference\" data-local-href=\"#term:keri1:interaction-event\" href=\"https://weboftrust.github.io/kerisuite-glossary/#term:interaction-event\">interaction-event</a></p>\n</dd>"
+    },
+    {
+      "term": "IT Information",
+      "definition": "<dd>\n<p>Technology, encompassing application software, computer and network systems and suitable equipment for the implementation and support of such systems.</p>\n</dd>\n<dd class=\"last-dd\">\n<p><a path-0=\"www.gleif.org\" path-1=\"vlei\" path-2=\"introducing-the-vlei-ecosystem-governance-framework\" path-3=\"2023-12-15_vlei-egf-v2.0-glossary_v1.3_final.pdf\" href=\"https://www.gleif.org/vlei/introducing-the-vlei-ecosystem-governance-framework/2023-12-15_vlei-egf-v2.0-glossary_v1.3_final.pdf\">Source</a> vLEI Ecosystem Governance Framework Glossary</p>\n</dd>"
+    },
+    {
+      "term": "Key Event Receipt Infrastructure",
+      "definition": "<dd>\n<p>Provides the identifier and key management architecture for the vLEI Ecosystem Technical Architecture</p>\n</dd>\n<dd>\n<p><a path-0=\"www.gleif.org\" path-1=\"vlei\" path-2=\"introducing-the-vlei-ecosystem-governance-framework\" path-3=\"2023-12-15_vlei-egf-v2.0-glossary_v1.3_final.pdf\" href=\"https://www.gleif.org/vlei/introducing-the-vlei-ecosystem-governance-framework/2023-12-15_vlei-egf-v2.0-glossary_v1.3_final.pdf\">Source</a> vLEI Ecosystem Governance Framework Glossary</p>\n</dd>\n<dd class=\"last-dd\">\n<p>See also: <a class=\"x-term-reference term-reference\" data-local-href=\"#term:keri1:key-event-receipt-infrastructure\" href=\"https://weboftrust.github.io/kerisuite-glossary/#term:key-event-receipt-infrastructure\">key-event-receipt-infrastructure</a></p>\n</dd>"
+    },
+    {
+      "term": "Key Management",
+      "definition": "<dd>\n<p>Unless otherwise specified, the term <em>key-pair</em> refers to an asymmetric (public, private) key-pair for digital signatures. The private key is used to generate signatures and the public key is used to validate signatures.</p>\n</dd>\n<dd>\n<p>Ecosystem key management policies are grouped into three sets of policies for protecting three different infrastructures:</p>\n</dd>\n<dd>\n<ol>\n<li>Key-pair creation and storage infrastructure;</li>\n</ol>\n</dd>\n<dd>\n<ol start=\"2\">\n<li>Signature creation infrastructure;</li>\n</ol>\n</dd>\n<dd>\n<ol start=\"3\">\n<li>Signature verification infrastructure.</li>\n</ol>\n</dd>\n<dd class=\"last-dd\">\n<p><a path-0=\"www.gleif.org\" path-1=\"vlei\" path-2=\"introducing-the-vlei-ecosystem-governance-framework\" path-3=\"2023-12-15_vlei-egf-v2.0-glossary_v1.3_final.pdf\" href=\"https://www.gleif.org/vlei/introducing-the-vlei-ecosystem-governance-framework/2023-12-15_vlei-egf-v2.0-glossary_v1.3_final.pdf\">Source</a> vLEI Ecosystem Governance Framework Glossary</p>\n</dd>"
+    },
+    {
+      "term": "Key Pre-Rotation for Transferable AIDs",
+      "definition": "<dd class=\"last-dd\">\n<p>KERI, the authoritative key stage of a transferable AID consists of two sets of key-pairs. The first set is the current set of signing keys and the second set is the pre-committed set of one-time rotation keys that after rotation will become the next or pre-rotated set of signing keys. These two sets provide the basis for KERI’s pre-rotation mechanism and the on-device storage of public/private key pairs associated with an AID.</p>\n</dd>"
+    },
+    {
+      "term": "Key Store",
+      "definition": "<dd>\n<p>The on-device storage of public/private key pairs associated with an</p>\n</dd>\n<dd>\n<p>AID.</p>\n</dd>\n<dd class=\"last-dd\">\n<p><a path-0=\"www.gleif.org\" path-1=\"vlei\" path-2=\"introducing-the-vlei-ecosystem-governance-framework\" path-3=\"2023-12-15_vlei-egf-v2.0-glossary_v1.3_final.pdf\" href=\"https://www.gleif.org/vlei/introducing-the-vlei-ecosystem-governance-framework/2023-12-15_vlei-egf-v2.0-glossary_v1.3_final.pdf\">Source</a> vLEI Ecosystem Governance Framework Glossary</p>\n</dd>"
+    },
+    {
+      "term": "Legal Entity Authorized Representative",
+      "definition": "<dd>\n<p>A representative of a Legal Entity that are authorized by a DAR of a Legal Entity to request issuance and revocation of vLEI Legal Entity Credentials, Legal Entity Official Organizational Role vLEI Credentials (OOR vLEI Credentials), and Legal Entity Engagement Context Role vLEI Credentials (ECR vLEI Credentials).</p>\n</dd>\n<dd class=\"last-dd\">\n<p><a path-0=\"www.gleif.org\" path-1=\"vlei\" path-2=\"introducing-the-vlei-ecosystem-governance-framework\" path-3=\"2023-12-15_vlei-egf-v2.0-glossary_v1.3_final.pdf\" href=\"https://www.gleif.org/vlei/introducing-the-vlei-ecosystem-governance-framework/2023-12-15_vlei-egf-v2.0-glossary_v1.3_final.pdf\">Source</a> verifiable LEI (vLEI) Ecosystem Governance Framework Glossary.</p>\n</dd>"
+    },
+    {
+      "term": "Legal Entity Engagement Context Role vLEI Credential Governance Framework",
+      "definition": "<dd>\n<p>A document that details the requirements for <a class=\"term-reference\" href=\"#term:vlei-role-credential\">vlei-role-credential</a>s issued to representatives of a Legal Entity in other than official roles but in functional or other context of engagement.</p>\n</dd>\n<dd class=\"last-dd\">\n<p><a path-0=\"www.gleif.org\" path-1=\"vlei\" path-2=\"introducing-the-vlei-ecosystem-governance-framework\" path-3=\"2023-12-15_vlei-egf-v2.0-glossary_v1.3_final.pdf\" href=\"https://www.gleif.org/vlei/introducing-the-vlei-ecosystem-governance-framework/2023-12-15_vlei-egf-v2.0-glossary_v1.3_final.pdf\">Source</a> verifiable LEI (vLEI) Ecosystem Governance Framework Glossary.</p>\n</dd>"
+    },
+    {
+      "term": "Legal Entity As defined in ISO 17442:2020",
+      "definition": "<dd>\n<p>A legal person or structure that is organized under the laws of any jurisdiction; includes, but is not limited to, unique parties that are legally or financially responsible for the performance of financial transactions or have the legal right in their jurisdiction to enter independently into legal contracts, regardless of whether they are incorporated or constituted in some other way (e.g., trust, partnership, contractual). It includes governmental organizations and supra-nationals and individuals when acting in a business capacity but excludes natural persons. It also includes international branches.</p>\n</dd>\n<dd class=\"last-dd\">\n<p><a path-0=\"www.gleif.org\" path-1=\"vlei\" path-2=\"introducing-the-vlei-ecosystem-governance-framework\" path-3=\"2023-12-15_vlei-egf-v2.0-glossary_v1.3_final.pdf\" href=\"https://www.gleif.org/vlei/introducing-the-vlei-ecosystem-governance-framework/2023-12-15_vlei-egf-v2.0-glossary_v1.3_final.pdf\">Source</a> verifiable LEI (vLEI) Ecosystem Governance Framework Glossary.</p>\n</dd>"
+    },
+    {
+      "term": "Legal Entity Official Organizational Role vLEI Credential Governance Framework",
+      "definition": "<dd>\n<p>A document that details the requirements for <a class=\"term-reference\" href=\"#term:vlei-role-credential\">vlei-role-credential</a> issued to official representatives of a Legal Entity.</p>\n</dd>\n<dd class=\"last-dd\">\n<p><a path-0=\"www.gleif.org\" path-1=\"vlei\" path-2=\"introducing-the-vlei-ecosystem-governance-framework\" path-3=\"2023-12-15_vlei-egf-v2.0-glossary_v1.3_final.pdf\" href=\"https://www.gleif.org/vlei/introducing-the-vlei-ecosystem-governance-framework/2023-12-15_vlei-egf-v2.0-glossary_v1.3_final.pdf\">Source</a> verifiable LEI (vLEI) Ecosystem Governance Framework Glossary.</p>\n</dd>"
+    },
+    {
+      "term": "Legal Entity vLEI Credential Governance Framework",
+      "definition": "<dd>\n<p>A document that details the requirements for vLEI Credential issued by a <a class=\"term-reference\" href=\"#term:qualified-vlei-issuer\">qualified-vlei-issuer</a> to a <a class=\"term-reference\" href=\"#term:legal-entity\">legal-entity</a>.</p>\n</dd>\n<dd class=\"last-dd\">\n<p><a path-0=\"www.gleif.org\" path-1=\"vlei\" path-2=\"introducing-the-vlei-ecosystem-governance-framework\" path-3=\"2023-12-15_vlei-egf-v2.0-glossary_v1.3_final.pdf\" href=\"https://www.gleif.org/vlei/introducing-the-vlei-ecosystem-governance-framework/2023-12-15_vlei-egf-v2.0-glossary_v1.3_final.pdf\">Source</a> verifiable LEI (vLEI) Ecosystem Governance Framework Glossary.</p>\n</dd>"
+    },
+    {
+      "term": "LEI Issuer",
+      "definition": "<dd>\n<p>An organization accredited by GLEIF to validate legal entity information and register new LEIs and reference data which are sent to GLEIF for inclusion in the GLEIS.</p>\n</dd>\n<dd class=\"last-dd\">\n<p><a path-0=\"www.gleif.org\" path-1=\"vlei\" path-2=\"introducing-the-vlei-ecosystem-governance-framework\" path-3=\"2023-12-15_vlei-egf-v2.0-glossary_v1.3_final.pdf\" href=\"https://www.gleif.org/vlei/introducing-the-vlei-ecosystem-governance-framework/2023-12-15_vlei-egf-v2.0-glossary_v1.3_final.pdf\">Source</a> verifiable LEI (vLEI) Ecosystem Governance Framework Glossary.</p>\n</dd>"
+    },
+    {
+      "term": "Non-Disclosure Agreement",
+      "definition": "<dd>\n<p class=\"placeholder-dd\"><span class=\"placeholder-tref\">No custom content found for toip2:Non-Disclosure Agreement</span></p>\n</dd>\n<dd class=\"last-dd\">\n<p>(Appendix 1 to the <a class=\"term-reference\" href=\"#term:vlei-issuer-qualification-agreement\">vLEI Issuer Qualification Agreement</a>)</p>\n</dd>"
+    },
+    {
+      "term": "Non-Transferable AIDs",
+      "definition": "<dd>\n<p>Non-transferable AIDs are self-certifying but are not meant for long term persistent use and hence their key-pair(s) are not rotatable. Instead, the identifier is abandoned and replaced with a new identifier with a new set of key-pair(s). These may also be called ephemeral AIDs. Within KERI, the primary use for non-transferable (ephemeral) AIDs are for the Witness identifiers. Because Witnesses are used in a pool, the pool forms a threshold structure which provides protection from the exploit of a minority of the key-pairs of the ephemeral Witness AIDs in the pool. If a given Witness AID has its key(s) compromised, then the Witness AID itself is abandoned and replaced. Thus, the Witness pool management policy protects Witness ephemeral AIDs.</p>\n</dd>\n<dd class=\"last-dd\">\n<p><a path-0=\"www.gleif.org\" path-1=\"vlei\" path-2=\"introducing-the-vlei-ecosystem-governance-framework\" path-3=\"2023-12-15_vlei-egf-v2.0-glossary_v1.3_final.pdf\" href=\"https://www.gleif.org/vlei/introducing-the-vlei-ecosystem-governance-framework/2023-12-15_vlei-egf-v2.0-glossary_v1.3_final.pdf\">Source</a> vLEI Ecosystem Governance Framework Glossary</p>\n</dd>"
+    },
+    {
+      "term": "Official Organizational Role Person",
+      "definition": "<dd>\n<p>A person that represents the Legal Entity in an official organizational role and is issued an OOR vLEI Credential.</p>\n</dd>\n<dd class=\"last-dd\">\n<p><a path-0=\"www.gleif.org\" path-1=\"vlei\" path-2=\"introducing-the-vlei-ecosystem-governance-framework\" path-3=\"2023-12-15_vlei-egf-v2.0-glossary_v1.3_final.pdf\" href=\"https://www.gleif.org/vlei/introducing-the-vlei-ecosystem-governance-framework/2023-12-15_vlei-egf-v2.0-glossary_v1.3_final.pdf\">Source</a> verifiable LEI (vLEI) Ecosystem Governance Framework Glossary</p>\n</dd>"
+    },
+    {
+      "term": "official-organizational-role",
+      "definition": "<dd>\n<p>Also ‘OOR’. A person that represents the Legal Entity in an official organizational role and is issued an OOR vLEI Credential.</p>\n</dd>\n<dd>\n<p><a path-0=\"www.gleif.org\" path-1=\"vlei\" path-2=\"introducing-the-vlei-ecosystem-governance-framework\" path-3=\"2022-02-07_verifiable-lei-vlei-ecosystem-governance-framework-glossary-draft-publication_v0.9-draft.pdf\" href=\"https://www.gleif.org/vlei/introducing-the-vlei-ecosystem-governance-framework/2022-02-07_verifiable-lei-vlei-ecosystem-governance-framework-glossary-draft-publication_v0.9-draft.pdf\">Source</a> Draft vLEI Ecosystem Governance Framework Glossary.</p>\n</dd>\n<dd class=\"last-dd\">\n<p>More in <a href=\"https://weboftrust.github.io/WOT-terms/docs/glossary/official-organizational-role\">extended KERI glossary</a></p>\n</dd>"
+    },
+    {
+      "term": "Out-of-band Introduction",
+      "definition": "<dd>\n<p>See <a class=\"x-term-reference term-reference\" data-local-href=\"#term:keri1:out-of-band-introduction\" href=\"https://weboftrust.github.io/kerisuite-glossary/#term:out-of-band-introduction\">out-of-band-introduction</a></p>\n</dd>\n<dd>\n<p>Can be performed in a session, for example a continuous web meeting attended by all parties on both audio and video.</p>\n</dd>\n<dd class=\"last-dd\">\n<p><a path-0=\"www.gleif.org\" path-1=\"vlei\" path-2=\"introducing-the-vlei-ecosystem-governance-framework\" path-3=\"2023-12-15_vlei-egf-v2.0-glossary_v1.3_final.pdf\" href=\"https://www.gleif.org/vlei/introducing-the-vlei-ecosystem-governance-framework/2023-12-15_vlei-egf-v2.0-glossary_v1.3_final.pdf\">Source</a> verifiable LEI (vLEI) Ecosystem Governance Framework Glossary; enhanced by Henk van Cann.</p>\n</dd>"
+    },
+    {
+      "term": "pdf",
+      "definition": "<dd class=\"last-dd\">\n<p class=\"placeholder-dd\"><span class=\"placeholder-tref\">No custom content found for toip2:pdf</span></p>\n</dd>"
+    },
+    {
+      "term": "Proof Request",
+      "definition": "<dd>\n<p>One of the initiating steps in the Issuance and Presentation Exchange Protocol (IPEX). In this step, a Verifier is requesting a credential presentation from a holder of a credential as proof that the holder is in possession of a credential that meets criterial defined in the proof request.</p>\n</dd>\n<dd class=\"last-dd\">\n<p><a path-0=\"www.gleif.org\" path-1=\"vlei\" path-2=\"introducing-the-vlei-ecosystem-governance-framework\" path-3=\"2023-12-15_vlei-egf-v2.0-glossary_v1.3_final.pdf\" href=\"https://www.gleif.org/vlei/introducing-the-vlei-ecosystem-governance-framework/2023-12-15_vlei-egf-v2.0-glossary_v1.3_final.pdf\">Source</a> vLEI Ecosystem Governance Framework Glossary</p>\n</dd>"
+    },
+    {
+      "term": "Qualification",
+      "definition": "<dd>\n<p>The formal evaluation process performed by GLEIF to ensure that an organization which has applied for Qualification (a Candidate <a class=\"term-reference\" href=\"#term:vlei-issuer\">vLEI Issuer</a>) meets the requirements of the vLEI Ecosystem Governance Framework.</p>\n</dd>\n<dd>\n<p>Qualification Documentation The documentation to be provided by the Candidate or Qualified vLEI</p>\n</dd>\n<dd>\n<p>Issuer to GLEIF for evaluation for Qualification.</p>\n</dd>\n<dd>\n<p><a path-0=\"www.gleif.org\" path-1=\"vlei\" path-2=\"introducing-the-vlei-ecosystem-governance-framework\" path-3=\"2023-12-15_vlei-egf-v2.0-glossary_v1.3_final.pdf\" href=\"https://www.gleif.org/vlei/introducing-the-vlei-ecosystem-governance-framework/2023-12-15_vlei-egf-v2.0-glossary_v1.3_final.pdf\">Source</a> verifiable LEI (vLEI) Ecosystem Governance Framework Glossary</p>\n</dd>\n<dd>\n<p><span id=\"term:qualified-vlei-issuer-authorization-vlei-credential\"><span id=\"term::-qualified-vlei-issuer-authorization-vlei-credential\">: Qualified vLEI Issuer Authorization vLEI Credential</span></span></p>\n</dd>\n<dd>\n<p>A vLEI credential that enables simple, safe, secure instruction and authorization by a Legal Entity Authorized Representative (LAR) sent to a QVI for the issuance and revocation of vLEI Role Credentials.</p>\n</dd>\n<dd class=\"last-dd\">\n<p><a path-0=\"www.gleif.org\" path-1=\"vlei\" path-2=\"introducing-the-vlei-ecosystem-governance-framework\" path-3=\"2023-12-15_vlei-egf-v2.0-glossary_v1.3_final.pdf\" href=\"https://www.gleif.org/vlei/introducing-the-vlei-ecosystem-governance-framework/2023-12-15_vlei-egf-v2.0-glossary_v1.3_final.pdf\">Source</a> vLEI Ecosystem Governance Framework Glossary</p>\n</dd>"
+    },
+    {
+      "term": "Qualified vLEI Issuer Authorized Representative",
+      "definition": "<dd>\n<p>A designated representative of a QVI authorized to conduct QVI operations with GLEIF and Legal Entities. QARs perform the Identity Verification requirements needed to issue vLEI Legal Entity Credentials, Legal Entity Official Organizational Role vLEI Credentials (OOR vLEI Credentials), and Legal Entity Engagement Context Role vLEI Credentials (ECR vLEI Credentials) as well as the issuance and revocation these Credentials.</p>\n</dd>\n<dd class=\"last-dd\">\n<p><a path-0=\"www.gleif.org\" path-1=\"vlei\" path-2=\"introducing-the-vlei-ecosystem-governance-framework\" path-3=\"2023-12-15_vlei-egf-v2.0-glossary_v1.3_final.pdf\" href=\"https://www.gleif.org/vlei/introducing-the-vlei-ecosystem-governance-framework/2023-12-15_vlei-egf-v2.0-glossary_v1.3_final.pdf\">Source</a> verifiable LEI (vLEI) Ecosystem Governance Framework Glossary</p>\n</dd>"
+    },
+    {
+      "term": "Qualified vLEI Issuer Business Day",
+      "definition": "<dd>\n<p>Business Day according to local Qualified vLEI Issuer business calendar.</p>\n</dd>\n<dd class=\"last-dd\">\n<p><a path-0=\"www.gleif.org\" path-1=\"vlei\" path-2=\"introducing-the-vlei-ecosystem-governance-framework\" path-3=\"2023-12-15_vlei-egf-v2.0-glossary_v1.3_final.pdf\" href=\"https://www.gleif.org/vlei/introducing-the-vlei-ecosystem-governance-framework/2023-12-15_vlei-egf-v2.0-glossary_v1.3_final.pdf\">Source</a> verifiable LEI (vLEI) Ecosystem Governance Framework Glossary</p>\n</dd>"
+    },
+    {
+      "term": "qualified-vlei-issuer-identifier-and-vlei-credential-governance-framework",
+      "definition": "<dd>\n<p>A document that details the requirements to create and delegate AIDs for the QVI and to enable the vLEI Credential to be issued by GLEIF to Qualified vLEI Issuers which allows the Qualified vLEI Issuers to issue, verify and revoke Legal Entity vLEI Credentials, Legal Entity Official Organizational Role vLEI Credentials, and Legal Entity Engagement Context Role vLEI Credentials.</p>\n</dd>\n<dd class=\"last-dd\">\n<p><a path-0=\"www.gleif.org\" path-1=\"vlei\" path-2=\"introducing-the-vlei-ecosystem-governance-framework\" path-3=\"2023-12-15_vlei-egf-v2.0-glossary_v1.3_final.pdf\" href=\"https://www.gleif.org/vlei/introducing-the-vlei-ecosystem-governance-framework/2023-12-15_vlei-egf-v2.0-glossary_v1.3_final.pdf\">Source</a> verifiable LEI (vLEI) Ecosystem Governance Framework Glossary</p>\n</dd>"
+    },
+    {
+      "term": "Qualified vLEI Issuer TrustMark Terms of Use",
+      "definition": "<dd>\n<p>A document that details the terms of use of the TrustMark by the Qualified vLEI Issuer. (Appendix 6 to the vLEI Issuer Qualification Agreement)</p>\n</dd>\n<dd class=\"last-dd\">\n<p><a path-0=\"www.gleif.org\" path-1=\"vlei\" path-2=\"introducing-the-vlei-ecosystem-governance-framework\" path-3=\"2023-12-15_vlei-egf-v2.0-glossary_v1.3_final.pdf\" href=\"https://www.gleif.org/vlei/introducing-the-vlei-ecosystem-governance-framework/2023-12-15_vlei-egf-v2.0-glossary_v1.3_final.pdf\">Source</a> vLEI Ecosystem Governance Framework Glossary</p>\n</dd>"
+    },
+    {
+      "term": "qualified-vlei-issuer-vlei-credential-governance-framework",
+      "definition": "<dd>\n<p>A <em>document</em> that details the requirements to enable this Credential to be <strong>issued by</strong> <a class=\"term-reference\" href=\"#term:gleif\">GLEIF</a> <strong>to</strong> <a class=\"term-reference\" href=\"#term:qualified-vlei-issuer\">qualified-vlei-issuer</a> which allows the Qualified vLEI Issuers to issue, verify and revoke <a class=\"term-reference\" href=\"#term:legal-entity-vlei-credential-governance-framework\">legal-entity-vlei-credential-governance-framework</a>, <a class=\"term-reference\" href=\"#term:legal-entity-official-organizational-role-vlei-credential-governance-framework\">legal-entity-official-organizational-role-vlei-credential-governance-framework</a>, and <a class=\"term-reference\" href=\"#term:legal-entity-engagement-context-role-vlei-credential-governance-framework\">legal-entity-engagement-context-role-vlei-credential-governance-framework</a>.</p>\n</dd>\n<dd class=\"last-dd\">\n<p>More in <a href=\"https://weboftrust.github.io/WOT-terms/docs/glossary/qualified-vlei-issuer-vlei-credential-governance-framework\">extended KERI glossary</a></p>\n</dd>"
+    },
+    {
+      "term": "qualified-vlei-issuer",
+      "definition": "<dd>\n<p>The contracting party to the vLEI Issuer Qualification Agreement that has been qualified by GLEIF as a Qualified vLEI Issuer.</p>\n</dd>\n<dd>\n<p><a path-0=\"www.gleif.org\" path-1=\"vlei\" path-2=\"introducing-the-vlei-ecosystem-governance-framework\" path-3=\"2022-02-07_verifiable-lei-vlei-ecosystem-governance-framework-glossary-draft-publication_v0.9-draft.pdf\" href=\"https://www.gleif.org/vlei/introducing-the-vlei-ecosystem-governance-framework/2022-02-07_verifiable-lei-vlei-ecosystem-governance-framework-glossary-draft-publication_v0.9-draft.pdf\">Source</a>: Draft vLEI Ecosystem Governance Framework Glossary.</p>\n</dd>\n<dd class=\"last-dd\">\n<p>More in <a href=\"https://weboftrust.github.io/WOT-terms/docs/glossary/qualified-vlei-issuer\">extended KERI glossary</a></p>\n</dd>"
+    },
+    {
+      "term": "Qualified vLEI Issuer – Legal Entity Required Contract Terms",
+      "definition": "<dd>\n<p>A document that specifies the contract terms that must be included in the agreement between a Qualified vLEI Issuer and a Legal Entity that has requested a Legal Entity vLEI. (Appendix 7 to the vLEI Issuer Qualification Agreement)</p>\n</dd>\n<dd class=\"last-dd\">\n<p><a path-0=\"www.gleif.org\" path-1=\"vlei\" path-2=\"introducing-the-vlei-ecosystem-governance-framework\" path-3=\"2023-12-15_vlei-egf-v2.0-glossary_v1.3_final.pdf\" href=\"https://www.gleif.org/vlei/introducing-the-vlei-ecosystem-governance-framework/2023-12-15_vlei-egf-v2.0-glossary_v1.3_final.pdf\">Source</a> verifiable LEI (vLEI) Ecosystem Governance Framework Glossary</p>\n</dd>"
+    },
+    {
+      "term": "Qualified vLEI Issuer",
+      "definition": "<dd>\n<p>The contracting party to the vLEI Issuer Qualification Agreement that has been qualified by GLEIF as a Qualified vLEI Issuer.</p>\n</dd>\n<dd class=\"last-dd\">\n<p><a path-0=\"www.gleif.org\" path-1=\"vlei\" path-2=\"introducing-the-vlei-ecosystem-governance-framework\" path-3=\"2023-12-15_vlei-egf-v2.0-glossary_v1.3_final.pdf\" href=\"https://www.gleif.org/vlei/introducing-the-vlei-ecosystem-governance-framework/2023-12-15_vlei-egf-v2.0-glossary_v1.3_final.pdf\">Source</a> verifiable LEI (vLEI) Ecosystem Governance Framework Glossary</p>\n</dd>"
+    },
+    {
+      "term": "QVI Authorized Representative Person",
+      "definition": "<dd>\n<p>A person in the role of a QAR.</p>\n</dd>\n<dd class=\"last-dd\">\n<p><a path-0=\"www.gleif.org\" path-1=\"vlei\" path-2=\"introducing-the-vlei-ecosystem-governance-framework\" path-3=\"2023-12-15_vlei-egf-v2.0-glossary_v1.3_final.pdf\" href=\"https://www.gleif.org/vlei/introducing-the-vlei-ecosystem-governance-framework/2023-12-15_vlei-egf-v2.0-glossary_v1.3_final.pdf\">Source</a> vLEI Ecosystem Governance Framework Glossary</p>\n</dd>"
+    },
+    {
+      "term": "qvi-authorized-representative",
+      "definition": "<dd>\n<p>A designated representative of a <a class=\"term-reference\" href=\"#term:qvi\">QVI</a> authorized, to conduct QVI operations with GLEIF and <a class=\"term-reference\" href=\"#term:legal-entity\">legal-entity</a>. Also referring to a person in the role of a QAR.</p>\n</dd>\n<dd>\n<p>Paraphrased by @henkvancann from <a path-0=\"www.gleif.org\" path-1=\"vlei\" path-2=\"introducing-the-vlei-ecosystem-governance-framework\" path-3=\"2022-02-07_verifiable-lei-vlei-ecosystem-governance-framework-glossary-draft-publication_v0.9-draft.pdf\" href=\"https://www.gleif.org/vlei/introducing-the-vlei-ecosystem-governance-framework/2022-02-07_verifiable-lei-vlei-ecosystem-governance-framework-glossary-draft-publication_v0.9-draft.pdf\">source</a> Draft vLEI Ecosystem Governance Framework Glossary.</p>\n</dd>\n<dd class=\"last-dd\">\n<p>More in <a href=\"https://weboftrust.github.io/WOT-terms/docs/glossary/qvi-authorized-representative\">extended KERI glossary</a></p>\n</dd>"
+    },
+    {
+      "term": "Registrar",
+      "definition": "<dd>\n<p>In place of a traditional KERI witness pool a blockchain (i.e., Cardano) or other Distributed Ledger Technology (DLT) can be used to store Key Events.</p>\n</dd>\n<dd class=\"last-dd\">\n<p><a path-0=\"www.gleif.org\" path-1=\"vlei\" path-2=\"introducing-the-vlei-ecosystem-governance-framework\" path-3=\"2023-12-15_vlei-egf-v2.0-glossary_v1.3_final.pdf\" href=\"https://www.gleif.org/vlei/introducing-the-vlei-ecosystem-governance-framework/2023-12-15_vlei-egf-v2.0-glossary_v1.3_final.pdf\">Source</a> vLEI Ecosystem Governance Framework Glossary</p>\n</dd>"
+    },
+    {
+      "term": "Resolver",
+      "definition": "<dd>\n<p>An entity or component that provides discovery for identifiers. A Resolver is the Controller of its own self-referential identifier which may not be the same as the identifier to which it is a Resolver.</p>\n</dd>\n<dd class=\"last-dd\">\n<p><a path-0=\"www.gleif.org\" path-1=\"vlei\" path-2=\"introducing-the-vlei-ecosystem-governance-framework\" path-3=\"2023-12-15_vlei-egf-v2.0-glossary_v1.3_final.pdf\" href=\"https://www.gleif.org/vlei/introducing-the-vlei-ecosystem-governance-framework/2023-12-15_vlei-egf-v2.0-glossary_v1.3_final.pdf\">Source</a> vLEI Ecosystem Governance Framework Glossary</p>\n</dd>"
+    },
+    {
+      "term": "Root of Trust",
+      "definition": "<dd>\n<p class=\"placeholder-dd\"><span class=\"placeholder-tref\">No custom content found for toip2:Root of Trust</span></p>\n</dd>\n<dd>\n<p>Strong governance which begins with the issuance and maintenance of the LEI itself, GLEIF will be the anchor of the vLEI ecosystem, at the root of the governance that will position the LEI as a key component in building a trust layer for identification and verification of legal entities as the LEI allows authentication that the legal entity is indeed who it claims to be and that those who act on its behalf, can.</p>\n</dd>\n<dd class=\"last-dd\">\n<p><a path-0=\"www.gleif.org\" path-1=\"vlei\" path-2=\"introducing-the-vlei-ecosystem-governance-framework\" path-3=\"2023-12-15_vlei-egf-v2.0-glossary_v1.3_final.pdf\" href=\"https://www.gleif.org/vlei/introducing-the-vlei-ecosystem-governance-framework/2023-12-15_vlei-egf-v2.0-glossary_v1.3_final.pdf\">Source</a> Ecosystem Governance Framework Glossary</p>\n</dd>"
+    },
+    {
+      "term": "Rotation Event",
+      "definition": "<dd>\n<p>An event to rotate the private keys of an AIDs.</p>\n</dd>\n<dd>\n<p><a path-0=\"www.gleif.org\" path-1=\"vlei\" path-2=\"introducing-the-vlei-ecosystem-governance-framework\" path-3=\"2023-12-15_vlei-egf-v2.0-glossary_v1.3_final.pdf\" href=\"https://www.gleif.org/vlei/introducing-the-vlei-ecosystem-governance-framework/2023-12-15_vlei-egf-v2.0-glossary_v1.3_final.pdf\">Source</a> vLEI Ecosystem Governance Framework Glossary, amended by Henk van Cann</p>\n</dd>\n<dd class=\"last-dd\">\n<p>See also: <a class=\"x-term-reference term-reference\" data-local-href=\"#term:keri1:rotation-event\" href=\"https://weboftrust.github.io/kerisuite-glossary/#term:rotation-event\">rotation-event</a></p>\n</dd>"
+    },
+    {
+      "term": "seal",
+      "definition": "<dd class=\"last-dd\">\n<p class=\"placeholder-dd\"><span class=\"placeholder-tref\">No custom content found for toip2:seal</span></p>\n</dd>"
+    },
+    {
+      "term": "Self-addressing Identifier",
+      "definition": "<dd>\n<p>An identifier that is deterministically generated from and embedded in the content it identifies, making it and its data mutually tamper-evident.</p>\n</dd>\n<dd>\n<p><a path-0=\"www.gleif.org\" path-1=\"vlei\" path-2=\"introducing-the-vlei-ecosystem-governance-framework\" path-3=\"2023-12-15_vlei-egf-v2.0-glossary_v1.3_final.pdf\" href=\"https://www.gleif.org/vlei/introducing-the-vlei-ecosystem-governance-framework/2023-12-15_vlei-egf-v2.0-glossary_v1.3_final.pdf\">Source</a> vLEI Ecosystem Governance Framework Glossary</p>\n</dd>\n<dd class=\"last-dd\">\n<p>See also: <a class=\"x-term-reference term-reference\" data-local-href=\"#term:keri1:self-addressing-identifier\" href=\"https://weboftrust.github.io/kerisuite-glossary/#term:self-addressing-identifier\">self-addressing-identifier</a></p>\n</dd>"
+    },
+    {
+      "term": "Service Endpoints",
+      "definition": "<dd>\n<p>Address at where a given identifier can receive KERI messages.</p>\n</dd>\n<dd>\n<p><a path-0=\"www.gleif.org\" path-1=\"vlei\" path-2=\"introducing-the-vlei-ecosystem-governance-framework\" path-3=\"2023-12-15_vlei-egf-v2.0-glossary_v1.3_final.pdf\" href=\"https://www.gleif.org/vlei/introducing-the-vlei-ecosystem-governance-framework/2023-12-15_vlei-egf-v2.0-glossary_v1.3_final.pdf\">Source</a> vLEI Ecosystem Governance Framework Glossary</p>\n</dd>\n<dd class=\"last-dd\">\n<p>See also: <a class=\"x-term-reference term-reference\" data-local-href=\"#term:toip2:service-endpoint\" href=\"https://henkvancann.github.io/ctwg-general-glossary/#term:service-endpoint\">service-endpoint</a></p>\n</dd>"
+    },
+    {
+      "term": "Service Level Agreement",
+      "definition": "<dd>\n<p class=\"placeholder-dd\"><span class=\"placeholder-tref\">No custom content found for toip2:Service Level Agreement</span></p>\n</dd>\n<dd>\n<p>Services to be provided by GLEIF and Qualified vLEI Issuers. (Appendix 5 to the vLEI</p>\n</dd>\n<dd class=\"last-dd\">\n<p>Issuer Qualification Agreement)</p>\n</dd>"
+    },
+    {
+      "term": "Signature Verification Infrastructure",
+      "definition": "<dd>\n<p>An attack against signature verification infrastructure typically requires replacing the signature verification code with malicious code that falsely reports signature verification on signed statements. KERI provides a specific protection mechanism for signature verification via a Watcher pool where an event is only accepted as verified if a sufficient majority of the Watchers in a pool agree on the verification status of the signature(s) on that event. This provides a threshold structure where an attacker must compromise the code integrity of a sufficient number of Watchers for successful attack. Because the composition of a Watcher pool does not need to be publicly disclosed, an attacker must also discover that composition to ensure a successful attack.</p>\n</dd>\n<dd class=\"last-dd\">\n<p><a path-0=\"www.gleif.org\" path-1=\"vlei\" path-2=\"introducing-the-vlei-ecosystem-governance-framework\" path-3=\"2023-12-15_vlei-egf-v2.0-glossary_v1.3_final.pdf\" href=\"https://www.gleif.org/vlei/introducing-the-vlei-ecosystem-governance-framework/2023-12-15_vlei-egf-v2.0-glossary_v1.3_final.pdf\">Source</a> vLEI Ecosystem Governance Framework Glossary</p>\n</dd>"
+    },
+    {
+      "term": "Sources",
+      "definition": "<dd>\n<p>The sources or edges section of a vLEI credential cause the vLEI credential to become a fragment of a distributed property graph. The sources chain a vLEI credential to other vLEI credential to which this credential is dependent.</p>\n</dd>\n<dd class=\"last-dd\">\n<p><a path-0=\"www.gleif.org\" path-1=\"vlei\" path-2=\"introducing-the-vlei-ecosystem-governance-framework\" path-3=\"2023-12-15_vlei-egf-v2.0-glossary_v1.3_final.pdf\" href=\"https://www.gleif.org/vlei/introducing-the-vlei-ecosystem-governance-framework/2023-12-15_vlei-egf-v2.0-glossary_v1.3_final.pdf\">Source</a> vLEI Ecosystem Governance Framework Glossary</p>\n</dd>"
+    },
+    {
+      "term": "Spot Check",
+      "definition": "<dd>\n<p>The operation of performing an OOBI exchange and challenge/response exchange over a live session with an unauthenticated contact to ensure the other person in the live session has control of the contact’s private keys.</p>\n</dd>\n<dd class=\"last-dd\">\n<p><a path-0=\"www.gleif.org\" path-1=\"vlei\" path-2=\"introducing-the-vlei-ecosystem-governance-framework\" path-3=\"2023-12-15_vlei-egf-v2.0-glossary_v1.3_final.pdf\" href=\"https://www.gleif.org/vlei/introducing-the-vlei-ecosystem-governance-framework/2023-12-15_vlei-egf-v2.0-glossary_v1.3_final.pdf\">Source</a> vLEI Ecosystem Governance Framework Glossary</p>\n</dd>"
+    },
+    {
+      "term": "Strength",
+      "definition": "<dd>\n<p>All key-pairs MUST be generated using a cryptographic algorithm with at least 128 bits of cryptographic strength for the salt or seed used to generate the private key of the key pair.</p>\n</dd>\n<dd class=\"last-dd\">\n<p><a path-0=\"www.gleif.org\" path-1=\"vlei\" path-2=\"introducing-the-vlei-ecosystem-governance-framework\" path-3=\"2023-12-15_vlei-egf-v2.0-glossary_v1.3_final.pdf\" href=\"https://www.gleif.org/vlei/introducing-the-vlei-ecosystem-governance-framework/2023-12-15_vlei-egf-v2.0-glossary_v1.3_final.pdf\">Source</a> vLEI Ecosystem Governance Framework Glossary</p>\n</dd>"
+    },
+    {
+      "term": "Swiss Law",
+      "definition": "<dd>\n<p>A set of rules, orders, regulation and court decisions which constitutes the law in Switzerland. The source of Swiss law can be federal or cantonal.</p>\n</dd>\n<dd class=\"last-dd\">\n<p><a path-0=\"www.gleif.org\" path-1=\"vlei\" path-2=\"introducing-the-vlei-ecosystem-governance-framework\" path-3=\"2023-12-15_vlei-egf-v2.0-glossary_v1.3_final.pdf\" href=\"https://www.gleif.org/vlei/introducing-the-vlei-ecosystem-governance-framework/2023-12-15_vlei-egf-v2.0-glossary_v1.3_final.pdf\">Source</a> vLEI Ecosystem Governance Framework Glossary</p>\n</dd>"
+    },
+    {
+      "term": "Third Party Services",
+      "definition": "<dd>\n<p>IT or operational infrastructure services outsourced by Qualified vLEI Issuers.</p>\n</dd>\n<dd class=\"last-dd\">\n<p><a path-0=\"www.gleif.org\" path-1=\"vlei\" path-2=\"introducing-the-vlei-ecosystem-governance-framework\" path-3=\"2023-12-15_vlei-egf-v2.0-glossary_v1.3_final.pdf\" href=\"https://www.gleif.org/vlei/introducing-the-vlei-ecosystem-governance-framework/2023-12-15_vlei-egf-v2.0-glossary_v1.3_final.pdf\">Source</a> vLEI Ecosystem Governance Framework Glossary</p>\n</dd>"
+    },
+    {
+      "term": "TrustMark",
+      "definition": "<dd>\n<p>A TrustMark for a Qualified vLEI Issuer provided GLEIF by to the Qualified vLEI Issuer (refer to Appendix 6 to the vLEI Issuer Qualification Agreement).</p>\n</dd>\n<dd class=\"last-dd\">\n<p><a path-0=\"www.gleif.org\" path-1=\"vlei\" path-2=\"introducing-the-vlei-ecosystem-governance-framework\" path-3=\"2023-12-15_vlei-egf-v2.0-glossary_v1.3_final.pdf\" href=\"https://www.gleif.org/vlei/introducing-the-vlei-ecosystem-governance-framework/2023-12-15_vlei-egf-v2.0-glossary_v1.3_final.pdf\">Source</a> vLEI Ecosystem Governance Framework Glossary</p>\n</dd>"
+    },
+    {
+      "term": "vLEI",
+      "definition": "<dd>\n<p><a class=\"term-reference\" href=\"#term:verifiable-legal-entity-identifier\">verifiable-legal-entity-identifier</a></p>\n</dd>\n<dd class=\"last-dd\">\n<p>More in <a href=\"https://weboftrust.github.io/WOT-terms/docs/glossary/vLEI\">extended KERI glossary</a></p>\n</dd>"
+    },
+    {
+      "term": "Validator",
+      "definition": "<dd>\n<p>An entity or component that determines that a given signed statement associated with an identifier was valid at the time of its issuance.</p>\n</dd>\n<dd>\n<p><a path-0=\"www.gleif.org\" path-1=\"vlei\" path-2=\"introducing-the-vlei-ecosystem-governance-framework\" path-3=\"2023-12-15_vlei-egf-v2.0-glossary_v1.3_final.pdf\" href=\"https://www.gleif.org/vlei/introducing-the-vlei-ecosystem-governance-framework/2023-12-15_vlei-egf-v2.0-glossary_v1.3_final.pdf\">Source</a> vLEI Ecosystem Governance Framework Glossary</p>\n</dd>\n<dd class=\"last-dd\">\n<p>See also: <a class=\"x-term-reference term-reference\" data-local-href=\"#term:toip1:validator\" href=\"https://henkvancann.github.io/ctwg-main-glossary/#term:validator\">validator</a></p>\n</dd>"
+    },
+    {
+      "term": "verifiable-legal-entity-identifier",
+      "definition": "<dd>\n<p>Verifiable credentials are issued by authorized validation agents (<a class=\"term-reference\" href=\"#term:qvi\">QVI</a>) under the governance of <a class=\"term-reference\" href=\"#term:gleif\">GLEIF</a>, who delegate tasks to these agents. They provide cryptographic proof that the information about a legal entity, as linked to its Legal Entity Identifier (LEI), is verifiably authentic, accurate, and up-to-date.</p>\n</dd>\n<dd class=\"last-dd\">\n<p>More in <a href=\"https://weboftrust.github.io/WOT-terms/docs/glossary/verifiable-legal-entity-identifier\">extended KERI glossary</a></p>\n</dd>"
+    },
+    {
+      "term": "verifiable LEI Ecosystem",
+      "definition": "<dd>\n<p>Governance Framework Information Trust Policies</p>\n</dd>\n<dd>\n<p>A document that defines the information security, privacy, availability, confidentiality and processing integrity policies that apply to all vLEI Ecosystem Members.</p>\n</dd>\n<dd class=\"last-dd\">\n<p><a path-0=\"www.gleif.org\" path-1=\"vlei\" path-2=\"introducing-the-vlei-ecosystem-governance-framework\" path-3=\"2023-12-15_vlei-egf-v2.0-glossary_v1.3_final.pdf\" href=\"https://www.gleif.org/vlei/introducing-the-vlei-ecosystem-governance-framework/2023-12-15_vlei-egf-v2.0-glossary_v1.3_final.pdf\">Source</a> vLEI Ecosystem Governance Framework Glossary</p>\n</dd>"
+    },
+    {
+      "term": "verifiable LEI",
+      "definition": "<dd>\n<p>An Authentic Chained Data Container credential which contains an LEI issued in accordance with the vLEI Ecosystem Governance Framework requirements.</p>\n</dd>\n<dd class=\"last-dd\">\n<p><a path-0=\"www.gleif.org\" path-1=\"vlei\" path-2=\"introducing-the-vlei-ecosystem-governance-framework\" path-3=\"2023-12-15_vlei-egf-v2.0-glossary_v1.3_final.pdf\" href=\"https://www.gleif.org/vlei/introducing-the-vlei-ecosystem-governance-framework/2023-12-15_vlei-egf-v2.0-glossary_v1.3_final.pdf\">Source</a> vLEI Ecosystem Governance Framework Glossary</p>\n</dd>"
+    },
+    {
+      "term": "Verifier",
+      "definition": "<dd>\n<p>An entity or component that cryptographically verifies the signature(s) on an event message.</p>\n</dd>\n<dd>\n<p><a path-0=\"www.gleif.org\" path-1=\"vlei\" path-2=\"introducing-the-vlei-ecosystem-governance-framework\" path-3=\"2023-12-15_vlei-egf-v2.0-glossary_v1.3_final.pdf\" href=\"https://www.gleif.org/vlei/introducing-the-vlei-ecosystem-governance-framework/2023-12-15_vlei-egf-v2.0-glossary_v1.3_final.pdf\">Source</a> vLEI Ecosystem Governance Framework Glossary</p>\n</dd>\n<dd class=\"last-dd\">\n<p>See also: <a class=\"x-term-reference term-reference\" data-local-href=\"#term:toip1:verifier\" href=\"https://henkvancann.github.io/ctwg-main-glossary/#term:verifier\">verifier</a></p>\n</dd>"
+    },
+    {
+      "term": "vLEI Chain of Trust",
+      "definition": "<dd>\n<p>The cryptographic chain of trust for organizational identity established for the vLEI which connects the following entities: GLEIF&gt;Qualified vLEI Issuers&gt;Legal Entities&gt;Persons Representing</p>\n</dd>\n<dd>\n<p>Legal Entities.</p>\n</dd>\n<dd class=\"last-dd\">\n<p><a path-0=\"www.gleif.org\" path-1=\"vlei\" path-2=\"introducing-the-vlei-ecosystem-governance-framework\" path-3=\"2023-12-15_vlei-egf-v2.0-glossary_v1.3_final.pdf\" href=\"https://www.gleif.org/vlei/introducing-the-vlei-ecosystem-governance-framework/2023-12-15_vlei-egf-v2.0-glossary_v1.3_final.pdf\">Source</a> vLEI Ecosystem Governance Framework Glossary</p>\n</dd>"
+    },
+    {
+      "term": "vlei-credential",
+      "definition": "<dd>\n<p>Credential concerning a verifiable Legal Entity Identifier, residing in the <a class=\"term-reference\" href=\"#term:gleis\">GLEIS</a> and compliant with one or more of the GLEIF <a class=\"term-reference\" href=\"#term:governance-framework\">governance-framework</a>s</p>\n</dd>\n<dd class=\"last-dd\">\n<p>More in <a href=\"https://weboftrust.github.io/WOT-terms/docs/glossary/vlei-credential\">extended KERI glossary</a></p>\n</dd>"
+    },
+    {
+      "term": "vlei-ecosystem-governance-framework",
+      "definition": "<dd>\n<p>The Verifiable LEI (vLEI) Ecosystem <a class=\"term-reference\" href=\"#term:governance-framework\">governance-framework</a> Information Trust Policies. It’s a <strong>document</strong> that defines the information security, privacy, availability, confidentiality and processing integrity policies that apply to all vLEI Ecosystem Members.</p>\n</dd>\n<dd>\n<p>Paraphrased by @henkvancann from <a path-0=\"www.gleif.org\" path-1=\"vlei\" path-2=\"introducing-the-vlei-ecosystem-governance-framework\" path-3=\"2022-02-07_verifiable-lei-vlei-ecosystem-governance-framework-glossary-draft-publication_v0.9-draft.pdf\" href=\"https://www.gleif.org/vlei/introducing-the-vlei-ecosystem-governance-framework/2022-02-07_verifiable-lei-vlei-ecosystem-governance-framework-glossary-draft-publication_v0.9-draft.pdf\">source</a> Draft vLEI Ecosystem Governance Framework Glossary.</p>\n</dd>\n<dd class=\"last-dd\">\n<p>More in <a href=\"https://weboftrust.github.io/WOT-terms/docs/glossary/vlei-ecosystem-governance-framework\">extended KERI glossary</a></p>\n</dd>"
+    },
+    {
+      "term": "vLEI Ecosystem Stakeholder",
+      "definition": "<dd>\n<p>A stakeholder in the vLEI Ecosystem following the requirements outlined in the vLEI Ecosystem Governance Framework.</p>\n</dd>\n<dd class=\"last-dd\">\n<p><a path-0=\"www.gleif.org\" path-1=\"vlei\" path-2=\"introducing-the-vlei-ecosystem-governance-framework\" path-3=\"2023-12-15_vlei-egf-v2.0-glossary_v1.3_final.pdf\" href=\"https://www.gleif.org/vlei/introducing-the-vlei-ecosystem-governance-framework/2023-12-15_vlei-egf-v2.0-glossary_v1.3_final.pdf\">Source</a> vLEI Ecosystem Governance Framework Glossary</p>\n</dd>"
+    },
+    {
+      "term": "vLEI Issuance",
+      "definition": "<dd>\n<p>The process of issuing a vLEI Credential.</p>\n</dd>\n<dd class=\"last-dd\">\n<p><a path-0=\"www.gleif.org\" path-1=\"vlei\" path-2=\"introducing-the-vlei-ecosystem-governance-framework\" path-3=\"2023-12-15_vlei-egf-v2.0-glossary_v1.3_final.pdf\" href=\"https://www.gleif.org/vlei/introducing-the-vlei-ecosystem-governance-framework/2023-12-15_vlei-egf-v2.0-glossary_v1.3_final.pdf\">Source</a> vLEI Ecosystem Governance Framework Glossary</p>\n</dd>"
+    },
+    {
+      "term": "vLEI Issuer Contact Details",
+      "definition": "<dd>\n<p>A list of contact details of GLEIF and the Candidate vLEI Issuer during Qualification and of GLEIF and the Qualified vLEI Issuer during ongoing operations. Also, will include the names and email addresses of Designated Authorized Representatives (DARs) of the Legal Entity (Appendix 4 to the vLEI Issuer Qualification Agreement).</p>\n</dd>\n<dd class=\"last-dd\">\n<p><a path-0=\"www.gleif.org\" path-1=\"vlei\" path-2=\"introducing-the-vlei-ecosystem-governance-framework\" path-3=\"2023-12-15_vlei-egf-v2.0-glossary_v1.3_final.pdf\" href=\"https://www.gleif.org/vlei/introducing-the-vlei-ecosystem-governance-framework/2023-12-15_vlei-egf-v2.0-glossary_v1.3_final.pdf\">Source</a> vLEI Ecosystem Governance Framework Glossary</p>\n</dd>"
+    },
+    {
+      "term": "vLEI Issuer Qualification Agreement",
+      "definition": "<dd>\n<p>An agreement between GLEIF and an organization that has been qualified by GLEIF to operate as a Qualified vLEI Issuer.</p>\n</dd>\n<dd class=\"last-dd\">\n<p><a path-0=\"www.gleif.org\" path-1=\"vlei\" path-2=\"introducing-the-vlei-ecosystem-governance-framework\" path-3=\"2023-12-15_vlei-egf-v2.0-glossary_v1.3_final.pdf\" href=\"https://www.gleif.org/vlei/introducing-the-vlei-ecosystem-governance-framework/2023-12-15_vlei-egf-v2.0-glossary_v1.3_final.pdf\">Source</a> vLEI Ecosystem Governance Framework Glossary</p>\n</dd>"
+    },
+    {
+      "term": "vLEI Issuer Qualification Program Checklist",
+      "definition": "<dd>\n<p>The document that details the control and process requirements for Qualification (Appendix 3 to the vLEI Issuer Qualification Agreement).</p>\n</dd>\n<dd class=\"last-dd\">\n<p><a path-0=\"www.gleif.org\" path-1=\"vlei\" path-2=\"introducing-the-vlei-ecosystem-governance-framework\" path-3=\"2023-12-15_vlei-egf-v2.0-glossary_v1.3_final.pdf\" href=\"https://www.gleif.org/vlei/introducing-the-vlei-ecosystem-governance-framework/2023-12-15_vlei-egf-v2.0-glossary_v1.3_final.pdf\">Source</a> vLEI Ecosystem Governance Framework Glossary</p>\n</dd>"
+    },
+    {
+      "term": "vLEI Issuer Qualification Program Manual",
+      "definition": "<dd>\n<p>The document that describes the Qualification program (Appendix 2 to the vLEI Issuer Qualification Agreement).</p>\n</dd>\n<dd class=\"last-dd\">\n<p><a path-0=\"www.gleif.org\" path-1=\"vlei\" path-2=\"introducing-the-vlei-ecosystem-governance-framework\" path-3=\"2023-12-15_vlei-egf-v2.0-glossary_v1.3_final.pdf\" href=\"https://www.gleif.org/vlei/introducing-the-vlei-ecosystem-governance-framework/2023-12-15_vlei-egf-v2.0-glossary_v1.3_final.pdf\">Source</a> vLEI Ecosystem Governance Framework Glossary</p>\n</dd>"
+    },
+    {
+      "term": "vLEI Maintenance",
+      "definition": "<dd>\n<p>All steps taken to ensure that the vLEI continues to be based on the existence of a LEI that maintains the required entity and registration statuses in the GLEIS as well as keeping credential wallets and private keys secure.</p>\n</dd>\n<dd class=\"last-dd\">\n<p><a path-0=\"www.gleif.org\" path-1=\"vlei\" path-2=\"introducing-the-vlei-ecosystem-governance-framework\" path-3=\"2023-12-15_vlei-egf-v2.0-glossary_v1.3_final.pdf\" href=\"https://www.gleif.org/vlei/introducing-the-vlei-ecosystem-governance-framework/2023-12-15_vlei-egf-v2.0-glossary_v1.3_final.pdf\">Source</a> vLEI Ecosystem Governance Framework Glossary</p>\n</dd>"
+    },
+    {
+      "term": "vLEI Revocation",
+      "definition": "<dd>\n<p>The process of revoking a vLEI Credential.</p>\n</dd>\n<dd class=\"last-dd\">\n<p><a path-0=\"www.gleif.org\" path-1=\"vlei\" path-2=\"introducing-the-vlei-ecosystem-governance-framework\" path-3=\"2023-12-15_vlei-egf-v2.0-glossary_v1.3_final.pdf\" href=\"https://www.gleif.org/vlei/introducing-the-vlei-ecosystem-governance-framework/2023-12-15_vlei-egf-v2.0-glossary_v1.3_final.pdf\">Source</a> vLEI Ecosystem Governance Framework Glossary</p>\n</dd>"
+    },
+    {
+      "term": "vlei-role-credential",
+      "definition": "<dd>\n<p>It is a <a class=\"term-reference\" href=\"#term:vlei-credential\">vlei-credential</a> that attests to a role within a legal entity to an individual or an entity. It cryptographically proves that the individual or entity is authorized to act in that role on behalf of the legal entity.</p>\n</dd>\n<dd class=\"last-dd\">\n<p>More in <a href=\"https://weboftrust.github.io/WOT-terms/docs/glossary/vlei-role-credential\">extended KERI glossary</a></p>\n</dd>"
+    },
+    {
+      "term": "vLEI Software",
+      "definition": "<dd>\n<p>Open-source developed software sponsored by GLEIF with the capabilities for vLEI Credential Issuance, vLEI Credential Presentation, Identifier and Key Management and vLEI Credential Revocation and supporting functions.</p>\n</dd>\n<dd class=\"last-dd\">\n<p><a path-0=\"www.gleif.org\" path-1=\"vlei\" path-2=\"introducing-the-vlei-ecosystem-governance-framework\" path-3=\"2023-12-15_vlei-egf-v2.0-glossary_v1.3_final.pdf\" href=\"https://www.gleif.org/vlei/introducing-the-vlei-ecosystem-governance-framework/2023-12-15_vlei-egf-v2.0-glossary_v1.3_final.pdf\">Source</a> vLEI Ecosystem Governance Framework Glossary</p>\n</dd>"
+    },
+    {
+      "term": "vLEI User",
+      "definition": "<dd>\n<p>Any user of vLEI credentials in any applicable use case.</p>\n</dd>\n<dd class=\"last-dd\">\n<p><a path-0=\"www.gleif.org\" path-1=\"vlei\" path-2=\"introducing-the-vlei-ecosystem-governance-framework\" path-3=\"2023-12-15_vlei-egf-v2.0-glossary_v1.3_final.pdf\" href=\"https://www.gleif.org/vlei/introducing-the-vlei-ecosystem-governance-framework/2023-12-15_vlei-egf-v2.0-glossary_v1.3_final.pdf\">Source</a> vLEI Ecosystem Governance Framework Glossary</p>\n</dd>"
+    },
+    {
+      "term": "Watcher",
+      "definition": "<dd>\n<p>An entity or component that keeps a copy of a Key Event Receipt Log (KERL) for an identifier but is not designated by the Controller thereof as one of its Witnesses.</p>\n</dd>\n<dd>\n<p><a path-0=\"www.gleif.org\" path-1=\"vlei\" path-2=\"introducing-the-vlei-ecosystem-governance-framework\" path-3=\"2023-12-15_vlei-egf-v2.0-glossary_v1.3_final.pdf\" href=\"https://www.gleif.org/vlei/introducing-the-vlei-ecosystem-governance-framework/2023-12-15_vlei-egf-v2.0-glossary_v1.3_final.pdf\">Source</a> vLEI Ecosystem Governance Framework Glossary</p>\n</dd>\n<dd class=\"last-dd\">\n<p>See also: <a class=\"x-term-reference term-reference\" data-local-href=\"#term:keri1:watcher\" href=\"https://weboftrust.github.io/kerisuite-glossary/#term:watcher\">watcher</a></p>\n</dd>"
+    },
+    {
+      "term": "Witness",
+      "definition": "<dd>\n<p>An entity or component designated (trusted) by the Controller of an identifier. The primary role of a Witness is to verify, sign, and keep events associated with an identifier. A Witness is the Controller of its own self-referential identifier which may or may not be the same as the identifier to which it is a Witness. As a special case a Controller may serve as its own Witness. Witness designations are included in key (establishment) events. As a result, the role of a Witness may be verified using the identifier’s rotation history. When designated, a Witness becomes part of the supporting infrastructure establishing and maintaining control authority over an identifier. An identifier Witness therefore is part of its trust basis and may be controlled (but not necessarily so) by its Controller.</p>\n</dd>\n<dd>\n<p><a path-0=\"www.gleif.org\" path-1=\"vlei\" path-2=\"introducing-the-vlei-ecosystem-governance-framework\" path-3=\"2023-12-15_vlei-egf-v2.0-glossary_v1.3_final.pdf\" href=\"https://www.gleif.org/vlei/introducing-the-vlei-ecosystem-governance-framework/2023-12-15_vlei-egf-v2.0-glossary_v1.3_final.pdf\">Source</a> vLEI Ecosystem Governance Framework Glossary</p>\n</dd>\n<dd class=\"last-dd\">\n<p>See also: <a class=\"x-term-reference term-reference\" data-local-href=\"#term:keri1:witness\" href=\"https://weboftrust.github.io/kerisuite-glossary/#term:witness\">witness</a></p>\n</dd>"
+    }
+  ],
+  "sha": "32aaa6ac62332b0a765e32819937b7ab2348b098",
+  "avatarUrl": null,
+  "outputFileName": "1744997603749-henkvancann-vlei-glossary-terms.json"
+}
