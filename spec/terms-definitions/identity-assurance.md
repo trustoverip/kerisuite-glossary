@@ -1,1 +1,1 @@
-[[tref: toip1, identity assurance, Identity assurance]]
+[[tref: toip1, identity-assurance, Identity assurance]]
