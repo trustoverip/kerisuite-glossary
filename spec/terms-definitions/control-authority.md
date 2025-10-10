@@ -1,1 +1,1 @@
-[[tref: toip1, control-authority]]
+[[tref: toip1, control-authority, Control authority]]
