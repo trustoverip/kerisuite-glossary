@@ -1,5 +1,5 @@
 ## Definition
-a binary serialization format, similar in concept to JSON but aiming for greater conciseness. Defined in [[RFC7049](https://trustoverip.github.io/tswg-keri-specification/#ref:RFC7049)].  
+a binary serialization format, similar in concept to JSON but aiming for greater conciseness. Defined in [[RFC7049](https://trustoverip.github.io/kswg-keri-specification/#ref:RFC7049)].  
 Source: Dr. S.Smith, 2024
 
 ## Explanation
