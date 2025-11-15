@@ -5,4 +5,4 @@ Spec-Up-T link: <a href='https://weboftrust.github.io/WOT-terms/docs/glossary/tr
 ### Put differently
 An externally anchored transactions log via cryptographic commitments in a KEL.
 
-![](https://github.com/WebOfTrust/keri/blob/main/images/TEL-and-KEL.png)
+![](https://github.com/WebOfTrust/keri/blob/main/images/TEL-and-KEL.png?raw=true)

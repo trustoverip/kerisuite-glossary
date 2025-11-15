@@ -1,7 +1,7 @@
 ## Definition
 When we use an [AID](AID) as the [root-of-trust](root-of-trust) we form a so-called *autonomic trust basis*. This is diagrammed as follows:
 
-![](https://github.com/WebOfTrust/WOT-terms/blob/0582b911fee7cdf0e2730df788bb5afd38d31e14/static/img/autonomic-trust-basis.png) 
+![](https://github.com/WebOfTrust/WOT-terms/blob/0582b911fee7cdf0e2730df788bb5afd38d31e14/static/img/autonomic-trust-basis.png?raw=true) 
 
 ## Other trust bases
 Two other trust bases are in common use for identifier systems. One we call *algorithmic*, the other is . 

@@ -11,7 +11,7 @@ Spec-Up-T link: <a href='https://weboftrust.github.io/WOT-terms/docs/glossary/de
 
 
 All crypto material appears in `KERI` in a fully [qualified](qualified) representation. This includes a derivation code prepended to the crypto-material.
-![](https://github.com/WebOfTrust/keri/blob/main/images/derivation-code.png)
+![](https://github.com/WebOfTrust/keri/blob/main/images/derivation-code.png?raw=true)
 
 
 ![example derivation code in KERI](https://raw.githubusercontent.com/WebOfTrust/WOT-terms/main/static/img/derivation-code.png)

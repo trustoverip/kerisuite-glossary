@@ -1,0 +1,7 @@
+[[def: cesr-path, CESR-Path]] 
+
+~ points to a location inside a nested CESR-encoded data structure. It specifies a path to data elements so they can be hashed, verified, or selectively disclosed
+
+~ More info: A Proof is then constructed by combining those extracted data values, their CESR-Paths, and the [[ref: SAID]] of the container from which they were extracted. The proof structure itself is then self-addressed, is hashed to produce its own [[ref: Proof-ID]].
+
+~ Source: Henk van Cann and KERI [wizard](https://chatgpt.com/g/g-mTlHjxQCp-keri-wizard)

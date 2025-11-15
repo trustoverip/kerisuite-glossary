@@ -1,0 +1,9 @@
+[[def: proof-id, Proof-ID]] 
+
+~ is the Self-Addressing Identifier (SAID) of a cryptographic proof object that uses CESR-Paths to reference specific fields within a data structure, enabling selective disclosure and verifiable provenance of those fields.
+
+~ More info: CESR-Paths are used to extract specific pieces of data from a container (like an [[ref: ACDC]]).
+
+~ Source: Henk van Cann and KERI [wizard](https://chatgpt.com/g/g-mTlHjxQCp-keri-wizard)
+
+

@@ -1,0 +1,6 @@
+[[def: cesr-sad-path, CESR-SAD-Path]]
+~ is a path expression used to locate a field inside a Self-Addressing Data ([[ref: SAD]]) structure that is encoded using [[ref: CESR]].
+
+~ More info: It points to a specific element in a nested data structure for purposes like hashing, selective disclosure, and integrity verification. It works like a CESR-Path, but specifically within self-addressed, cryptographically bound data objects.
+
+~ Source: Henk van Cann and KERI [wizard](https://chatgpt.com/g/g-mTlHjxQCp-keri-wizard)
