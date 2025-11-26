@@ -1,0 +1,415 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Spec-Up-T Project Health Check</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.0/font/bootstrap-icons.css">
+  <style>
+    body {
+      padding-top: 2rem;
+      padding-bottom: 2rem;
+      background-color: #f8f9fa;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    }
+    .report-header {
+      margin-bottom: 2rem;
+      padding-bottom: 1.5rem;
+      border-bottom: 2px solid #dee2e6;
+    }
+    .report-header h1 {
+      color: #212529;
+      font-weight: 600;
+      margin-bottom: 0.75rem;
+    }
+    .report-header h1 i {
+      margin-right: 0.5rem;
+    }
+    .timestamp {
+      color: #6c757d;
+      font-size: 0.95rem;
+    }
+    .timestamp i {
+      margin-right: 0.25rem;
+    }
+    .repo-info {
+      color: #6c757d;
+      margin-bottom: 0.5rem;
+      font-size: 0.95rem;
+    }
+    .repo-info i {
+      margin-right: 0.25rem;
+    }
+    .filter-toggle {
+      margin-bottom: 1.5rem;
+    }
+    .hidden-item {
+      display: none !important;
+    }
+    .status-icon {
+      font-size: 1.1em;
+      margin-right: 0.25rem;
+    }
+    .health-score {
+      font-size: 2.5rem;
+      font-weight: bold;
+      line-height: 1;
+    }
+    .summary-card {
+      border: none;
+      box-shadow: 0 0.125rem 0.5rem rgba(0, 0, 0, 0.1);
+      border-radius: 0.5rem;
+      overflow: hidden;
+    }
+    .results-card {
+      border: none;
+      box-shadow: 0 0.125rem 0.5rem rgba(0, 0, 0, 0.1);
+      border-radius: 0.5rem;
+      margin-bottom: 1.5rem;
+      overflow: hidden;
+    }
+    .card-header {
+      border-bottom: 1px solid #dee2e6;
+      background-color: #fff;
+      padding: 1rem 1.25rem;
+    }
+    .card-header h5 {
+      font-weight: 600;
+      color: #212529;
+    }
+    .card-header i {
+      margin-right: 0.5rem;
+    }
+    .card-body {
+      padding: 1.5rem;
+    }
+    .table th {
+      border-top: none;
+      font-weight: 600;
+      background-color: #f8f9fa;
+      color: #495057;
+      font-size: 0.875rem;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+      padding: 0.75rem;
+    }
+    .table td {
+      padding: 0.75rem;
+      vertical-align: top;
+    }
+    .table-striped tbody tr:nth-of-type(odd) {
+      background-color: rgba(0, 0, 0, 0.02);
+    }
+    .table-hover tbody tr:hover {
+      background-color: rgba(0, 0, 0, 0.04);
+    }
+    .status-badge {
+      white-space: nowrap;
+      font-weight: 600;
+      font-size: 0.95rem;
+    }
+    .overall-status-pass {
+      color: #198754;
+      font-size: 1.1rem;
+    }
+    .overall-status-warning {
+      color: #fd7e14;
+      font-size: 1.1rem;
+    }
+    .overall-status-fail {
+      color: #dc3545;
+      font-size: 1.1rem;
+    }
+    .text-success {
+      color: #198754 !important;
+    }
+    .text-danger {
+      color: #dc3545 !important;
+    }
+    .text-warning {
+      color: #fd7e14 !important;
+    }
+    .text-info {
+      color: #17a2b8 !important;
+    }
+    .text-muted {
+      color: #6c757d !important;
+    }
+    .detail-errors ul,
+    .detail-warnings ul,
+    .detail-info ul,
+    .detail-success ul {
+      padding-left: 1.25rem;
+      margin-top: 0.5rem;
+    }
+    .detail-errors li,
+    .detail-warnings li,
+    .detail-info li,
+    .detail-success li {
+      margin-bottom: 0.25rem;
+    }
+    /* Responsive adjustments */
+    @media (max-width: 768px) {
+      .health-score {
+        font-size: 2rem;
+      }
+      .card-body {
+        padding: 1rem;
+      }
+      .table td,
+      .table th {
+        padding: 0.5rem;
+        font-size: 0.875rem;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="report-header">
+    <h1>
+      <i class="bi bi-heart-pulse text-primary"></i>
+      Spec-Up-T Project Health Check
+    </h1>
+    <p class="timestamp">
+      <i class="bi bi-clock"></i>
+      Generated: 11/26/2025, 12:30:10 PM
+    </p>
+    <p class="repo-info">
+      <i class="bi bi-folder"></i>
+      Repository: /Users/henkvancann/repos/kerisuite-glossary
+    </p><p class="repo-info">
+      <i class="bi bi-link-45deg"></i>
+      URL: <a href="file:///Users/henkvancann/repos/kerisuite-glossary" target="_blank">file:///Users/henkvancann/repos/kerisuite-glossary</a>
+    </p>
+  </div>
+    <div class="card summary-card mb-4">
+    <div class="card-header bg-danger text-white">
+      <div class="d-flex justify-content-between align-items-center">
+        <h5 class="mb-0">
+          <i class="bi bi-bar-chart"></i>
+          Health Check Summary
+        </h5>
+        <div class="filter-toggle form-check form-switch">
+          <input class="form-check-input" type="checkbox" id="togglePassingChecks">
+          <label class="form-check-label" for="togglePassingChecks">
+            Show passing checks
+          </label>
+        </div>
+      </div>
+    </div>
+    <div class="card-body">
+      <div class="row">
+        <div class="col-md-8">
+          <div class="row">
+            <div class="col-6 col-md-3 text-center mb-3">
+              <div class="h4 mb-1">8</div>
+              <small class="text-muted">Total</small>
+            </div>
+            <div class="col-6 col-md-3 text-center mb-3">
+              <div class="h4 mb-1 text-success">
+                <i class="bi bi-check-circle-fill"></i> 3
+              </div>
+              <small class="text-muted">Passed</small>
+            </div>
+            <div class="col-6 col-md-3 text-center mb-3">
+              <div class="h4 mb-1 text-danger">
+                <i class="bi bi-x-circle-fill"></i> 3
+              </div>
+              <small class="text-muted">Failed</small>
+            </div>
+            <div class="col-6 col-md-3 text-center mb-3">
+              <div class="h4 mb-1 text-warning">
+                <i class="bi bi-exclamation-triangle-fill"></i> 2
+              </div>
+              <small class="text-muted">Warnings</small>
+            </div>
+          </div>
+          <hr class="my-3">
+          <div class="overall-status-fail">
+            <i class="bi bi-x-circle-fill status-icon"></i>
+            <strong>Overall Status: FAILED</strong>
+          </div>
+        </div>
+        <div class="col-md-4 text-center d-flex flex-column justify-content-center align-items-center">
+          <div class="health-score text-danger">38%</div>
+          <small class="text-muted mt-2">Health Score</small>
+        </div>
+      </div>
+    </div>
+  </div>
+    <div class="card results-card" data-section="health-check-results">
+    <div class="card-header">
+      <h5 class="mb-0">
+        <i class="bi bi-list-check"></i>
+        Detailed Results
+      </h5>
+    </div>
+    <div class="card-body">
+      <table class="table table-striped table-hover mb-0">
+        <thead>
+          <tr>
+            <th style="width: 120px;">Status</th>
+            <th style="width: 200px;">Check</th>
+            <th>Details</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr data-status="warn" class="check-row table-warning">
+      <td class="text-warning status-badge">
+        <i class="bi bi-exclamation-triangle-fill status-icon"></i>
+        <span>Warning</span>
+      </td>
+      <td>package.json</td>
+      <td>
+        Missing recommended fields: author; spec-up-t version differs from starter pack recommendation; Some npm scripts differ from spec-up-t reference: collectExternalReferences, freeze, references, healthCheck
+        
+      </td>
+    </tr><tr data-status="pass" class="check-row table-success">
+      <td class="text-success status-badge">
+        <i class="bi bi-check-circle-fill status-icon"></i>
+        <span>Pass</span>
+      </td>
+      <td>.gitignore</td>
+      <td>
+        .gitignore file is valid and contains all required entries
+        
+      </td>
+    </tr><tr data-status="pass" class="check-row table-success">
+      <td class="text-success status-badge">
+        <i class="bi bi-check-circle-fill status-icon"></i>
+        <span>Pass</span>
+      </td>
+      <td>specs.json</td>
+      <td>
+        specs.json is valid
+        <div class="mt-2 detail-success"><strong class="text-success">Success:</strong><ul class="mb-0 mt-1"><li class="text-success">Required field &quot;title&quot; is present and valid</li><li class="text-success">Required field &quot;description&quot; is present and valid</li><li class="text-success">Required field &quot;author&quot; is present and valid</li><li class="text-success">Required field &quot;spec_directory&quot; is present and valid</li><li class="text-success">Required field &quot;spec_terms_directory&quot; is present and valid</li><li class="text-success">Required field &quot;output_path&quot; is present and valid</li><li class="text-success">Required field &quot;markdown_paths&quot; is present and valid</li><li class="text-success">Required field &quot;logo&quot; is present and valid</li><li class="text-success">Required field &quot;logo_link&quot; is present and valid</li><li class="text-success">Required field &quot;source&quot; is present and valid</li><li class="text-success">Recommended field &quot;favicon&quot; is present and valid</li><li class="text-success">Optional field &quot;katex&quot; is present</li><li class="text-success">Field &quot;markdown_paths&quot; contains valid string array</li><li class="text-success">Source object structure is valid</li><li class="text-success">External specs array contains 3 entries</li><li class="text-success">logo URL is accessible (HTTP 200)</li><li class="text-success">logo_link URL is accessible (HTTP 200)</li><li class="text-success">favicon URL is accessible (HTTP 200)</li><li class="text-success">Markdown file &quot;title.md&quot; exists in spec_directory</li><li class="text-success">Markdown file &quot;header.md&quot; exists in spec_directory</li><li class="text-success">Markdown file &quot;introduction.md&quot; exists in spec_directory</li><li class="text-success">Markdown file &quot;referenced_glossaries.md&quot; exists in spec_directory</li><li class="text-success">Markdown file &quot;terms-and-definitions-intro.md&quot; exists in spec_directory</li></ul></div><div class="mt-2 detail-info"><strong class="text-info">Info:</strong><ul class="mb-0 mt-1"><li class="text-muted">Optional field &quot;anchor_symbol&quot; is not set (this is acceptable)</li></ul></div>
+      </td>
+    </tr><tr data-status="warn" class="check-row table-warning">
+      <td class="text-warning status-badge">
+        <i class="bi bi-exclamation-triangle-fill status-icon"></i>
+        <span>Warning</span>
+      </td>
+      <td>Specification Directory and Files</td>
+      <td>
+        Spec directories are valid but 1 recommended file(s) are missing
+        <div class="mt-2 detail-warnings"><strong class="text-warning">Warnings:</strong><ul class="mb-0 mt-1"><li class="text-warning">Missing 2 recommended markdown file(s) in ./spec: spec-head.md, spec-body.md</li></ul></div><div class="mt-2 detail-success"><strong class="text-success">Success:</strong><ul class="mb-0 mt-1"><li class="text-success">spec_directory exists: ./spec</li><li class="text-success">spec_terms_directory exists: terms-definitions</li><li class="text-success">Required file exists: spec/terms-and-definitions-intro.md</li><li class="text-success">spec_terms_directory contains 327 markdown file(s)</li></ul></div>
+      </td>
+    </tr><tr data-status="pass" class="check-row table-success">
+      <td class="text-success status-badge">
+        <i class="bi bi-check-circle-fill status-icon"></i>
+        <span>Pass</span>
+      </td>
+      <td>Specification Files Discovery</td>
+      <td>
+        Found 5 specification files in organized spec/ directory
+        
+      </td>
+    </tr><tr data-status="fail" class="check-row table-danger">
+      <td class="text-danger status-badge">
+        <i class="bi bi-x-circle-fill status-icon"></i>
+        <span>Fail</span>
+      </td>
+      <td>External Specs URL Validation</td>
+      <td>
+        Found 1 error(s) in external specs
+        <div class="mt-2 detail-errors"><strong class="text-danger">Errors:</strong><ul class="mb-0 mt-1"><li class="text-danger">toip2: url structure invalid: URL is not a GitHub repository URL (should be github.com)</li></ul></div><div class="mt-2 detail-success"><strong class="text-success">Success:</strong><ul class="mb-0 mt-1"><li class="text-success">toip1: Field &quot;gh_page&quot; exists</li><li class="text-success">toip1: Field &quot;gh_page&quot; has valid URL structure</li><li class="text-success">toip1: gh_page is accessible (HTTP 200)</li><li class="text-success">toip1: Field &quot;url&quot; exists</li><li class="text-success">toip1: Field &quot;url&quot; has valid GitHub repository structure</li><li class="text-success">toip1: url is accessible (HTTP 200)</li><li class="text-success">vlei1: Field &quot;gh_page&quot; exists</li><li class="text-success">vlei1: Field &quot;gh_page&quot; has valid URL structure</li><li class="text-success">vlei1: gh_page is accessible (HTTP 200)</li><li class="text-success">vlei1: Field &quot;url&quot; exists</li><li class="text-success">vlei1: Field &quot;url&quot; has valid GitHub repository structure</li><li class="text-success">vlei1: url is accessible (HTTP 200)</li><li class="text-success">toip2: Field &quot;gh_page&quot; exists</li><li class="text-success">toip2: Field &quot;gh_page&quot; has valid URL structure</li><li class="text-success">toip2: gh_page is accessible (HTTP 200)</li><li class="text-success">toip2: Field &quot;url&quot; exists</li></ul></div>
+      </td>
+    </tr><tr data-status="fail" class="check-row table-danger">
+      <td class="text-danger status-badge">
+        <i class="bi bi-x-circle-fill status-icon"></i>
+        <span>Fail</span>
+      </td>
+      <td>Link checker</td>
+      <td>
+        Found 6 broken link(s) out of 374 total links. First broken: https://trustoverip.github.io/spec-up-t/ (404) and 5 more
+        
+      </td>
+    </tr><tr data-status="fail" class="check-row table-danger">
+      <td class="text-danger status-badge">
+        <i class="bi bi-x-circle-fill status-icon"></i>
+        <span>Fail</span>
+      </td>
+      <td>Terms & Definitions (errors)</td>
+      <td>
+        Found 3 error(s) in console output
+        <div class="mt-2"><strong class="text-danger">Errors:</strong><div class="table-responsive mt-2"><table class="table-sm" style="width: 100%; background-color: transparent;"><thead><tr><th class="d-none" style="background-color: transparent">Message</th></tr></thead><tbody><tr><td><small>Removing incomplete reference: toip2, key-pair [[object Object]]</small></td></tr><tr><td><small>Removing incomplete reference: toip2, decentralized-identity [[object Object]]</small></td></tr><tr><td><small>Removing incomplete reference: toip2, service-endpoint [[object Object]]</small></td></tr></tbody></table></div></div>
+        
+      </td>
+    </tr><tr data-status="warn" class="check-row table-warning">
+      <td class="text-warning status-badge">
+        <i class="bi bi-exclamation-triangle-fill status-icon"></i>
+        <span>Warning</span>
+      </td>
+      <td>Terms & Definitions (warnings)</td>
+      <td>
+        Found 2 warning(s) in console output
+        <div class="mt-2"><strong class="text-warning">Warnings:</strong><div class="table-responsive mt-2"><table class="table-sm" style="width: 100%; background-color: transparent;"><thead><tr><th class="d-none" style="background-color: transparent">Message</th></tr></thead><tbody><tr><td><small>Unresolved References: keri’s-algorithm-for-witness-agreement,CRUD,supermajority,authenticity,authority,PKI,root-of-trust,replay-attack,authorization,URL,base64,code-table,primitive,DKMI,public-key-infrastructure,key-pair,authorized-vlei-representative,digest,pipelining,internal-inconsistency,self-addressing-identifier),directed-acyclic-graph,JSON,validator,distributed-hash-table,domain-name,byzantine-fault-tolerance,end-verifiable,passcode,VCR,virtual-credential,delegate,pre-pad,proof-of-authority,KERI agent,QVI,identifier,key-management,legal-entity,seed,seal,OOR,ECR,QAR,AVR,signing-threshold,registry,inconsistency,party,multisig [[object Object]]</small></td></tr><tr><td><small>Dangling Definitions: ADC,APC,BADA,CESR-version,CLC,GLEIS,KA2CE,KAPI,KAWA,KERIA-agent,KERIMask,KERISSE,KRAM,PTEL,RUN,SCID,SKRAP,SKWA,SPAC,TOAD,TSP,VCTEL,abandoned-identifier,access-controlled-interaction,ambient-verifiability,ample,Attribute,autonomic-trust-basis,base-media-type,bespoke-credential,bexter,bis,bivalent,blind-oobi,blinded-revocation-registry,bran,brv,cesr-proof-signatures,cesride,chain-link-confidential-disclosure,code-table-selector,cold-start-stream-parsing,composable,configuration-traits,contingent-disclosure,contractually-protected-disclosure,controller-application,cooperative-delegation,correlation,credential,current-threshold,custodial-rotation,dead-attack,decentralized-identity,delegated-identifier,delegatee,derivation-code,designated-aliases,designated-authorized-representative,dip,direct-mode,dnd,domain,drt,dual-indexed-codes,dual-text-binary-encoding-format,duplicitous-event-log,duplicity-detection,edge,end-role,end-verifiability,escrow-state,exchange-identifier,exn,exp,field-map,first-seen,frame-code,fully-expanded,ghost-credential,graph-fragment,group-code,group-count-codes,hierarchical-composition,icp,inception,indirect-mode,information-theoretic-security,inquisitor,Integrity,interactive-authentication-design,interceptor,interleaved-serialization,iss,issuance-exchange,ixn,judge,jury,keep,keri-event-stream,keri-improvement-doc,keri-ox,keride,keridemlia,kerific,keris-algorithm-for-witness-agreement,kever,key-event-message,Key-state,kli,ksn,ledger-backer,legitimized-human-meaningful-identifier,listed-identifier,live-attack,locked-state,moobi,multi-valent,naive-conversion,ndigs,nested-cooperative-delegated-identifiers,next-threshold,non-establishment-event,non-interactive-authentication-design,opcode,operator,partial-pre-rotation,pathing,percolated-discovery,perfect-security,pre-rotation,prefix,prior-next-key-list,prior-next-threshold,promiscuous-mode,provenanced,public-verifiable-credential-registry,qry,quadlet,qualified,rct,read-update-nullify,receipt-log,receiver,reconciliation,redundant-credential,registrar,registration-interaction,reputation,reserve-rotation,rev,revocation-event,root-autonomic-identifier,rotation,routed-exchange-message,rpy,rules,run-off-the-crud,sally,salty-nonce-blinding-factor,schema,secondary-root-of-trust,secure-asset-transfer-protocol,semver,server-sent-event,signature-verification-infrastructure,signify,sniffable,sniffer,solicited-issuance,spurn,ssi-system,stable,streamer,strip-parameter,text-binary-concatenation-composability,tholder,threshold-signature-scheme,transfer-off-ledger,trust-domain,univalent,unpermissioned-correlation,unsolicited-issuance,vcp,vdr,verifiable-credential,verifiable-legal-entity-identifier,verification,verifier,version-code,version-string,version,vrt,weight-of-weights,weight,well-known-witnesses,xip [[object Object]]</small></td></tr></tbody></table></div></div>
+        
+      </td>
+    </tr><tr data-status="pass" class="check-row table-success">
+      <td class="text-success status-badge">
+        <i class="bi bi-check-circle-fill status-icon"></i>
+        <span>Pass</span>
+      </td>
+      <td>Terms & Definitions (operations)</td>
+      <td>
+        52 successful operations (4 highlight, 48 success)
+        <div class="mt-3"><div class="table-responsive"><table class="table-sm table-striped" style="width: 100%;"><thead class="table-light"><tr><th class="d-none">Message</th></tr></thead><tbody><tr><td><small>Grouped 33 terms into 2 repositories</small></td></tr><tr><td><small>Got commit hash from main branch: 00608bb6ce7f7e6285f202b580548d61ee716621</small></td></tr><tr><td><small>Saved 534 terms to /Users/henkvancann/repos/kerisuite-glossary/.cache/github-cache/1764156191804-trustoverip-ctwg-main-glossary-terms.json</small></td></tr><tr><td><small>Match found for term: SSI in toip1</small></td></tr><tr><td><small>Match found for term: agency in toip1</small></td></tr><tr><td><small>Match found for term: agent in toip1</small></td></tr><tr><td><small>Match found for term: attribute in toip1</small></td></tr><tr><td><small>Match found for term: attributional-trust in toip1</small></td></tr><tr><td><small>Match found for term: authoritative in toip1</small></td></tr><tr><td><small>Match found for term: contextual-linkability in toip1</small></td></tr><tr><td><small>Match found for term: control-authority in toip1</small></td></tr><tr><td><small>Match found for term: delegation in toip1</small></td></tr><tr><td><small>Match found for term: discovery in toip1</small></td></tr><tr><td><small>Match found for term: non-repudiable in toip1</small></td></tr><tr><td><small>Match found for term: non-transferable-identifier in toip1</small></td></tr><tr><td><small>Match found for term: persistent-identifier in toip1</small></td></tr><tr><td><small>Match found for term: reputation in toip1</small></td></tr><tr><td><small>Match found for term: reputational-trust in toip1</small></td></tr><tr><td><small>Match found for term: secure-attribution in toip1</small></td></tr><tr><td><small>Match found for term: transferable-identifier in toip1</small></td></tr><tr><td><small>Match found for term: transferable in toip1</small></td></tr><tr><td><small>Match found for term: verification in toip1</small></td></tr><tr><td><small>Match found for term: trust-domain in toip1</small></td></tr><tr><td><small>Match found for term: toip-trust-spanning-protocol in toip1</small></td></tr><tr><td><small>Match found for term: verifiable-identifier in toip1</small></td></tr><tr><td><small>Match found for term: identity-assurance in toip1</small></td></tr><tr><td><small>Match found for term: self-sovereign-identity in toip1</small></td></tr><tr><td><small>Match found for term: autonomic-identifier in toip1</small></td></tr><tr><td><small>Match found for term: decentralized-identity in toip1</small></td></tr><tr><td><small>Match found for term: key-event in toip1</small></td></tr><tr><td><small>Match found for term: security-policy in toip1</small></td></tr><tr><td><small>Match found for term: self-certifying-identifier in toip1</small></td></tr><tr><td><small>Match found for term: verifiable-credential in toip1</small></td></tr><tr><td><small>Match found for term: message in toip1</small></td></tr><tr><td><small>Match found for term: verifier in toip1</small></td></tr><tr><td><small>Finished processing repository: trustoverip/ctwg-main-glossary (<a href="https://github.com/trustoverip/ctwg-main-glossary" target="_blank" rel="noopener noreferrer" class="text-decoration-underline">https://github.com/trustoverip/ctwg-main-glossary</a>)</small></td></tr><tr><td><small>Got commit hash from main branch: 04b8aa770060466020202f297fc66f6c33f046ca</small></td></tr><tr><td><small>Saved 95 terms to /Users/henkvancann/repos/kerisuite-glossary/.cache/github-cache/1764156192939-henkvancann-vlei-glossary-terms.json</small></td></tr><tr><td><small>Match found for term: vlei in vlei1</small></td></tr><tr><td><small>Finished processing repository: henkvancann/vlei-glossary (<a href="https://github.com/henkvancann/vlei-glossary" target="_blank" rel="noopener noreferrer" class="text-decoration-underline">https://github.com/henkvancann/vlei-glossary</a>)</small></td></tr><tr><td><small>All keys are present. No errors found. Continuing…</small></td></tr><tr><td><small>Term index created with 327 terms. Output: .cache/term-index.json</small></td></tr><tr><td><small>Ensured directory is ready: ./docs/</small></td></tr><tr><td><small>Index file created at docs/versions/index.html</small></td></tr><tr><td><small>Found 543 term elements in toip1 (HTML size: 2312KB)</small></td></tr><tr><td><small>Extracted 1041 terms from external spec: toip1</small></td></tr><tr><td><small>Found 105 term elements in vlei1 (HTML size: 1816KB)</small></td></tr><tr><td><small>Extracted 138 terms from external spec: vlei1</small></td></tr><tr><td><small>Found 215 term elements in toip2 (HTML size: 1840KB)</small></td></tr><tr><td><small>Extracted 226 terms from external spec: toip2</small></td></tr><tr><td><small>Merged xref terms: 34 matched, 1371 skipped (not referenced). Total entries: 33</small></td></tr><tr><td><small>Successfully wrote docs/index.html</small></td></tr></tbody></table></div></div>
+      </td>
+    </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+  </div>
+  
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+  <script>
+    // Toggle function for passing checks
+    document.getElementById('togglePassingChecks').addEventListener('change', function() {
+      const showPassing = this.checked;
+      // Select only fully passing checks (status="pass")
+      // Warnings (status="warn") should always remain visible as they indicate potential issues
+      const passingRows = document.querySelectorAll('tr[data-status="pass"]');
+      
+      // Hide/show passing rows
+      passingRows.forEach(row => {
+        if (showPassing) {
+          row.classList.remove('hidden-item');
+        } else {
+          row.classList.add('hidden-item');
+        }
+      });
+      
+      // Also hide/show success details within all checks
+      // When focusing on issues, we don't need to see successful validations
+      const successDetails = document.querySelectorAll('.detail-success');
+      successDetails.forEach(detail => {
+        if (showPassing) {
+          detail.classList.remove('hidden-item');
+        } else {
+          detail.classList.add('hidden-item');
+        }
+      });
+      
+      // Check each results card to see if it should be hidden
+      document.querySelectorAll('.results-card').forEach(card => {
+        const visibleRows = card.querySelectorAll('tr.check-row:not(.hidden-item)');
+        
+        if (visibleRows.length === 0) {
+          // If no visible rows, hide the entire card
+          card.classList.add('hidden-item');
+        } else {
+          // Otherwise show it
+          card.classList.remove('hidden-item');
+        }
+      });
+    });
+    
+    // Initialize the filter state
+    document.getElementById('togglePassingChecks').dispatchEvent(new Event('change'));
+  </script>
+</body>
+</html>
